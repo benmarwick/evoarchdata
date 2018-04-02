@@ -3,7 +3,7 @@
 \docType{data}
 \name{ceramics_woodland_illinois}
 \alias{ceramics_woodland_illinois}
-\title{Stylistic element frequencies for lip exterior decoration for five regions in Illinois, by thickness class (Braun 1977).}
+\title{Stylistic element frequencies for lip exterior decoration for five regions in Illinois, by thickness class (Braun 1977; 1985; Neiman 1995).}
 \format{A data frame with 106 rows and 15 variables:
 \describe{
   \item{Group}{Group}
@@ -27,5 +27,7 @@ References:
 Braun, David  1977 Middle Woodland-Early Late Woodland Social Change in the Prehistoric Central Midwestern U.S. Ph.D. dissertation, University of Michigan, University Microfilms, Ann Arbor.
 
 1985 Ceramic decorative diversity and Illinois Woodland regional integration. In Decoding Prehistoric Ceramics, edited by Ben A. Nelson, pp.128-153. Southern Illinois University Press Carbondale.
+
+Neiman, F.D., 1995. Stylistic Variation in Evolutionary Perspective: Inferences from Decorative Diversity and Interassemblage Distance in Illinois Woodland Ceramic Assemblages. _American Antiqity_ 60, 7–36. https://doi.org/10.2307/282074
 }
 \keyword{datasets}

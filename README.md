@@ -26,12 +26,12 @@ tbl_of_data <- vcdExtra::datasets("evoarchdata")
 knitr::kable(tbl_of_data)
 ```
 
-| Item                         | class      | dim    | Title                                                                                                                    |
-|:-----------------------------|:-----------|:-------|:-------------------------------------------------------------------------------------------------------------------------|
-| armature\_types\_france      | data.frame | 9x20   | Counts of arrowheads from two sites in Neotlithic France (Crema et al. 2014)                                             |
-| ceramics\_hittite\_turkey    | data.frame | 18x7   | Counts of ceramic bowl types from Bogazköy-Hattusa, a Hittite site in Turkey (Steele et al. 2010)                        |
-| ceramics\_lbk\_merzbach      | data.frame | 8x37   | Frequencies of different decorative motifs in the Merzbach assemblage, Neolithic Germany (Crema et al. 2016)             |
-| ceramics\_woodland\_illinois | data.frame | 160x15 | Stylistic element frequencies for lip exterior decoration for five regions in Illinois, by thickness class (Braun 1977). |
+| Item                         | class      | dim    | Title                                                                                                                                       |
+|:-----------------------------|:-----------|:-------|:--------------------------------------------------------------------------------------------------------------------------------------------|
+| armature\_types\_france      | data.frame | 9x20   | Counts of arrowheads from two sites in Neotlithic France (Crema et al. 2014; Saintot 1998)                                                  |
+| ceramics\_hittite\_turkey    | data.frame | 18x7   | Counts of ceramic bowl types from Bogazköy-Hattusa, a Hittite site in Turkey (Steele et al. 2010; Brantingham and Perreault 2010)           |
+| ceramics\_lbk\_merzbach      | data.frame | 8x37   | Frequencies of different decorative motifs in the Merzbach assemblage, Neolithic Germany (Crema et al. 2016; )                              |
+| ceramics\_woodland\_illinois | data.frame | 160x15 | Stylistic element frequencies for lip exterior decoration for five regions in Illinois, by thickness class (Braun 1977; 1985; Neiman 1995). |
 
 Here's a preview of each dataset:
 
@@ -129,6 +129,8 @@ The datasets are made available here for fair use in teaching and research. All 
 References
 ==========
 
+Brantingham, P. J., & Perreault, C. (2010). Detecting the effects of selection and stochastic forces in archaeological assemblages. *Journal of Archaeological Science*, 37(12), 3211-3225. <https://doi.org/10.1016/j.jas.2010.07.021>
+
 Braun, D. 1977. *Middle Woodland-Early Late Woodland Social Change in the Prehistoric Central Midwestern U.S.* Ph.D. dissertation, University of Michigan, University Microfilms, Ann Arbor.
 
 Braun, D. 1985. Ceramic decorative diversity and Illinois Woodland regional integration. In *Decoding Prehistoric Ceramics*, edited by Ben A. Nelson, pp.128-153. Southern Illinois University Press Carbondale.
@@ -138,6 +140,8 @@ Crema, E.R., Edinborough, K., Kerig, T., Shennan, S.J., 2014. An Approximate Bay
 Crema, E.R, Kandler, A., Shennan, S.J. 2016. "Revealing patterns of cultural transmission from frequency data: equilibrium and non-equilibrium assumptions." *Scientific Reports* 6, 39122; <https://doi.org/10.1038/srep39122>
 
 Neiman, F.D., 1995. Stylistic Variation in Evolutionary Perspective: Inferences from Decorative Diversity and Interassemblage Distance in Illinois Woodland Ceramic Assemblages. *American Antiqity* 60, 7–36. <https://doi.org/10.2307/282074>
+
+Saintot, S. 1998 Les Armatures de Flèches en Silex de Chalain et de Clairvaux In *Gallia préhistoire*. Tome 40 (1998), pp. 204-241
 
 Steele, J., Glatz, C., Kandler, A., 2010. Ceramic diversity, random copying, and tests for selectivity in ceramic production. *Journal of Archaeological Science* 37, 1348–1358. <https://doi.org/10.1016/j.jas.2009.12.039>
 

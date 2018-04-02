@@ -1,4 +1,4 @@
-#' Counts of arrowheads from two sites in Neotlithic France (Crema et al. 2014)
+#' Counts of arrowheads from two sites in Neotlithic France (Crema et al. 2014; Saintot 1998)
 #'
 #'Counts of armature types from the Clairvaux and Chalain sites (Pétrequin, 1986, 1989,1997; Pétrequin and Bailly, 2004) in the Jura region of southeast France. The dataset comprises a total of 280 arrowheads subdivided into nine chronologically distinct phases (I: 3700–3600 B C; II: 3450 BC; III: 3200 IV: 3100 BC; V: 3050–3010 BC; VI: 3010–2930 BC; VII: 2850–2750 BC; VIII: 2750–2600 BC; IX: 2600–1650 BC) defined by Saintot (1998).
 #'
@@ -18,7 +18,7 @@
 "armature_types_france"
 
 #-------------------------------------------------------------------------
-#' Counts of ceramic bowl types from Boğazköy-Hattusa, a Hittite site in Turkey (Steele et al. 2010)
+#' Counts of ceramic bowl types from Boğazköy-Hattusa, a Hittite site in Turkey (Steele et al. 2010; Brantingham and Perreault 2010)
 #'
 #'Frequencies of rim sherds of the main bowl groups in each of the four wares, by phase, from  Boğazköy-Hattusa, a Hittite site in Turke
 #'
@@ -41,7 +41,7 @@
 "ceramics_hittite_turkey"
 
 #-------------------------------------------------------------------------
-#' Stylistic element frequencies for lip exterior decoration for five regions in Illinois, by thickness class (Braun 1977).
+#' Stylistic element frequencies for lip exterior decoration for five regions in Illinois, by thickness class (Braun 1977; 1985; Neiman 1995).
 #'
 #' Pottery data from the Middle Woodland-Early Late Woodland periods in  Central Midwestern U.S. (Illinois)
 #'
@@ -50,6 +50,8 @@
 #'Braun, David  1977 Middle Woodland-Early Late Woodland Social Change in the Prehistoric Central Midwestern U.S. Ph.D. dissertation, University of Michigan, University Microfilms, Ann Arbor.
 #'
 #' 1985 Ceramic decorative diversity and Illinois Woodland regional integration. In Decoding Prehistoric Ceramics, edited by Ben A. Nelson, pp.128-153. Southern Illinois University Press Carbondale.
+#'
+#' Neiman, F.D., 1995. Stylistic Variation in Evolutionary Perspective: Inferences from Decorative Diversity and Interassemblage Distance in Illinois Woodland Ceramic Assemblages. _American Antiqity_ 60, 7–36. https://doi.org/10.2307/282074
 #'
 #' @format A data frame with 106 rows and 15 variables:
 #' \describe{
@@ -64,10 +66,12 @@
 
 
 #-------------------------------------------------------------------------
-#' Frequencies of different decorative motifs in the Merzbach assemblage, Neolithic Germany (Crema et al. 2016)
+#' Frequencies of different decorative motifs in the Merzbach assemblage, Neolithic Germany (Crema et al. 2016; )
 #'
 #'
 #'   Thirty-six types of pottery motifs, grouped into 8 phases on the basis of a seriation of the pottery assemblages based on motif frequencies.
+#'
+#'   These data have been used in numerous publications. I only mention Crema et al. (2016) here because they are the only ones that make the raw data available.
 #'
 #'   From Crema et al. (2016):
 #'
@@ -75,7 +79,7 @@
 #'
 #' References:
 #'
-#' Crema,E.R, Kandler, A., Shennan, S.J. "Revealing patterns of cultural transmission from frequency data: equilibrium and non-equilibrium assumptions." Sci. Rep. 6, 39122; doi: 10.1038/srep39122 (2016).
+#' Crema, E.R, Kandler, A., Shennan, S.J. "Revealing patterns of cultural transmission from frequency data: equilibrium and non-equilibrium assumptions." Sci. Rep. 6, 39122; doi: 10.1038/srep39122 (2016).
 #'
 #' @format A data frame with 8 rows and 37 variables:
 #' \describe{

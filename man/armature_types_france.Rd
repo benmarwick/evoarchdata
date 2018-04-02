@@ -3,7 +3,7 @@
 \docType{data}
 \name{armature_types_france}
 \alias{armature_types_france}
-\title{Counts of arrowheads from two sites in Neotlithic France (Crema et al. 2014)}
+\title{Counts of arrowheads from two sites in Neotlithic France (Crema et al. 2014; Saintot 1998)}
 \format{A data frame with 9 rows and 20 variables:
 \describe{
   \item{Period}{chronologically distinct phases}
