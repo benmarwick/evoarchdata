@@ -43,14 +43,25 @@ d <- data(package = "evoarchdata")
 # get names of the datasets
 nm <- d$results[, "Item"]
 
-## call the promised data into the environment
+# call the promised data into the environment
 data(list = nm, package = "evoarchdata")
 
-## print the first few rows of each dataset
+# print the first few rows of each dataset
 lapply(mget(nm), head)
 ```
 
 # Use
+
+To use a dataset in your R session, you can load it like this:
+
+```{r}
+library(evoarchdata)
+data(ceramics_lbk_merzbach)
+
+# and then take a look at the data
+ceramics_lbk_merzbach
+```
+
 
 If you use any of these datasets, you much cite the original publication, listed below. 
 

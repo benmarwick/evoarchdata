@@ -3,7 +3,7 @@
 \docType{data}
 \name{ceramics_lbk_merzbach}
 \alias{ceramics_lbk_merzbach}
-\title{Frequencies of different decorative motifs in the Merzbach assemblage, Neolithic Germany (Crema et al. 2016; )}
+\title{Frequencies of different decorative motifs in the Merzbach assemblage, Neolithic Germany (Crema et al. 2016; many other papers)}
 \format{A data frame with 8 rows and 37 variables:
 \describe{
   \item{Phase}{Phase}

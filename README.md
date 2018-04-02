@@ -30,7 +30,7 @@ knitr::kable(tbl_of_data)
 |:-----------------------------|:-----------|:-------|:--------------------------------------------------------------------------------------------------------------------------------------------|
 | armature\_types\_france      | data.frame | 9x20   | Counts of arrowheads from two sites in Neotlithic France (Crema et al. 2014; Saintot 1998)                                                  |
 | ceramics\_hittite\_turkey    | data.frame | 18x7   | Counts of ceramic bowl types from Bogazköy-Hattusa, a Hittite site in Turkey (Steele et al. 2010; Brantingham and Perreault 2010)           |
-| ceramics\_lbk\_merzbach      | data.frame | 8x37   | Frequencies of different decorative motifs in the Merzbach assemblage, Neolithic Germany (Crema et al. 2016; )                              |
+| ceramics\_lbk\_merzbach      | data.frame | 8x37   | Frequencies of different decorative motifs in the Merzbach assemblage, Neolithic Germany (Crema et al. 2016; many other papers)             |
 | ceramics\_woodland\_illinois | data.frame | 160x15 | Stylistic element frequencies for lip exterior decoration for five regions in Illinois, by thickness class (Braun 1977; 1985; Neiman 1995). |
 
 Here's a preview of each dataset:
@@ -42,10 +42,10 @@ d <- data(package = "evoarchdata")
 # get names of the datasets
 nm <- d$results[, "Item"]
 
-## call the promised data into the environment
+# call the promised data into the environment
 data(list = nm, package = "evoarchdata")
 
-## print the first few rows of each dataset
+# print the first few rows of each dataset
 lapply(mget(nm), head)
 #> $armature_types_france
 #>          Period LE01 TR03 TA01 KNTR01 TR01 OB01 TALE01 TASQ01 TABA01
@@ -121,6 +121,43 @@ lapply(mget(nm), head)
 
 Use
 ===
+
+To use a dataset in your R session, you can load it like this:
+
+``` r
+library(evoarchdata)
+data(ceramics_lbk_merzbach)
+
+# and then take a look at the data
+ceramics_lbk_merzbach
+#>   Phase BT14 BT25 BT60 BT21 BT36 BT44 BT20 BT22 BT19 BT27 BT29 BT24 BT26
+#> 1   VII    0    0    0    0    0    0    1    0    2    0    1    9    0
+#> 2  VIII    0    0    0    0    0    0    0    0    5    0    1    8    0
+#> 3    IX    0    0    0    0    0    0    1    0    7    0    0   10    4
+#> 4     X    0    0    0    2    0    0    7   11   13    4    1   19    8
+#> 5    XI    7    1    0    4    2    1   39    3   49   12    0   46    7
+#> 6   XII   19    5    0    8    3    2   71   12  134   14    1   82   28
+#> 7  XIII   17    4    1    3    1    1   74    9  139   15    2   92   19
+#> 8   XIV   41    9    1    9    3    3   48    4   84   11    3   45    8
+#>   BT6 BT3 BT17 BT13 BT16 BT5 BT2 BT11 BT99 BT49 BT12 BT4 BT15 BT9 BT39
+#> 1   0   7    0   28    2  10  73   16    0    0   14  15    5  23    1
+#> 2   0   8    0   35    1  13  59    8    0    0   16   7    2   8    0
+#> 3   1  21    0   79    3   9  47   20    0    0   18   7    6   2    0
+#> 4   2  41    1   99    5  14  60   23    0    0   12   1    3   4    1
+#> 5   5 104    3  204    8  37 128   32    0    0   14   3    2  11    0
+#> 6   1 156    3  284   12  36 135   22    0    0   11   3    0   5    0
+#> 7   0 137    1  205    7  19  54    6    0    0    2   4    0   1    0
+#> 8   1  67    0   60    2   8  11    1    0    0    2   3    1   0    0
+#>   BT10 BT8 BT1 BT30 BT18 BT47 BT38 BT23
+#> 1  108 337 510    3    6    3    4    5
+#> 2   43 120 157    0    2    0    0    0
+#> 3   34  72  68    0    1    0    0    0
+#> 4   35  43  59    1    0    0    0    0
+#> 5   25  49  66    0    0    0    0    0
+#> 6    3  23  45    0    0    0    0    0
+#> 7    2   8  14    0    0    0    0    0
+#> 8    1   3   3    0    0    0    0    0
+```
 
 If you use any of these datasets, you much cite the original publication, listed below.
 
