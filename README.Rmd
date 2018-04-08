@@ -34,22 +34,6 @@ tbl_of_data <- vcdExtra::datasets("evoarchdata")
 knitr::kable(tbl_of_data)
 ```
 
-Here's a preview of each dataset:
-
-```{r}
-# get an object referring to the datasets
-d <- data(package = "evoarchdata")
-
-# get names of the datasets
-nm <- d$results[, "Item"]
-
-# call the promised data into the environment
-data(list = nm, package = "evoarchdata")
-
-# print the first few rows of each dataset
-lapply(mget(nm), head)
-```
-
 # Use
 
 To use a dataset in your R session, you can load it like this:
@@ -62,8 +46,7 @@ data(ceramics_lbk_merzbach)
 ceramics_lbk_merzbach
 ```
 
-
-If you use any of these datasets, you much cite the original publication, listed below. 
+If you use any of these datasets, you must cite the original publication, listed below. 
 
 The datasets are made available here for fair use in teaching and research. All datasets are copyright of the original author or publisher, except `ceramics_lbk_merzbach` which is distributed by Crema et al (2016) under the terms of the [Creative Commons CC BY license](https://creativecommons.org/licenses/), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited. 
 
