@@ -137,3 +137,27 @@ NULL
 #'
 #' @source \insertCite{Roe2013-ls;textual}{evoarchdata}
 "kurgans_catacomb"
+
+#-------------------------------------------------------------------------
+#' Copying error in virtual Acheulean handaxes
+#'
+#' @description
+#' Experimental data on unintential copying error in cultural transmission. In
+#'   \insertCite{Kempe2012-ns;textual}{evoarchdata}'s experiment, participants
+#'   were split into 20 transmission chains and asked to copy the size of a
+#'   virtual Acheulean handaxe.
+#'
+#' @format A data frame with 200 rows and 4 variables:
+#' \describe{
+#'   \item{chain}{Number of the transmission chain.}
+#'   \item{place}{Place of the handaxe in the chain.}
+#'   \item{scale}{Size of the handaxe on an arbitrary scale.}
+#'   \item{condition}{Whether the handaxe is larger or smaller than the previous handaxe in the chain.}
+#' }
+#'
+#' @references
+#'
+#' * \insertRef{Kempe2012-ns}{evoarchdata}
+#'
+#' @source \url{https://doi.org/10.1371/journal.pone.0048333.s002}
+"lithics_acheulean_virtual"

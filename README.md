@@ -27,13 +27,15 @@ tbl_of_data <- vcdExtra::datasets("evoarchdata")
 knitr::kable(tbl_of_data)
 ```
 
-| Item                         | class      | dim    | Title                                                                                                                                       |
-| :--------------------------- | :--------- | :----- | :------------------------------------------------------------------------------------------------------------------------------------------ |
-| armature\_types\_france      | data.frame | 9x20   | Counts of arrowheads from two sites in Neotlithic France (Crema et al. 2014; Saintot 1998)                                                  |
-| ceramics\_hittite\_turkey    | data.frame | 18x7   | Counts of ceramic bowl types from Boğazköy-Hattusa, a Hittite site in Turkey (Steele et al. 2010; Brantingham and Perreault 2010)           |
-| ceramics\_lbk\_merzbach      | data.frame | 8x37   | Frequencies of different decorative motifs in the Merzbach assemblage, Neolithic Germany (Crema et al. 2016; many other papers)             |
-| ceramics\_woodland\_illinois | data.frame | 160x15 | Stylistic element frequencies for lip exterior decoration for five regions in Illinois, by thickness class (Braun 1977; 1985; Neiman 1995). |
-| kurgans\_catacomb            | data.frame | 703x54 | Kurgans of the Catacomb culture Ślusarska (2006)                                                                                            |
+| Item                             | class      | dim    | Title                                                                                                                                       |
+| :------------------------------- | :--------- | :----- | :------------------------------------------------------------------------------------------------------------------------------------------ |
+| armature\_types\_france          | data.frame | 9x20   | Counts of arrowheads from two sites in Neotlithic France (Crema et al. 2014; Saintot 1998)                                                  |
+| ceramics\_hittite\_turkey        | data.frame | 18x7   | Counts of ceramic bowl types from Boğazköy-Hattusa, a Hittite site in Turkey (Steele et al. 2010; Brantingham and Perreault 2010)           |
+| ceramics\_lbk\_merzbach          | data.frame | 8x37   | Frequencies of different decorative motifs in the Merzbach assemblage, Neolithic Germany (Crema et al. 2016; many other papers)             |
+| ceramics\_woodland\_illinois     | data.frame | 160x15 | Stylistic element frequencies for lip exterior decoration for five regions in Illinois, by thickness class (Braun 1977; 1985; Neiman 1995). |
+| kurgans\_catacomb                | data.frame | 703x56 | Kurgans of the Catacomb culture Ślusarska (2006)                                                                                            |
+| lithics\_acheulean\_experimental | data.frame | 200x4  |                                                                                                                                             |
+| lithics\_acheulean\_virtual      | data.frame | 200x4  | Copying error in virtual Acheulean handaxes                                                                                                 |
 
 # Use
 
