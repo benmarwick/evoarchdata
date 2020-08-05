@@ -5,15 +5,15 @@
 \alias{kurgans_catacomb}
 \title{Kurgans of the Catacomb culture \insertCite{Slusarska2006-zc;textual}{evoarchdata}}
 \format{
-A data frame with 703 rows and 54 variables:
+A data frame with 703 rows and 56 variables:
 \describe{
 \item{id}{Arbitrary unique identifier of the burial.}
 \item{group}{Regional grouping assigned by Ślusarska.}
 \item{site}{Name of the site.}
-\item{raion, oblast}{Geographical location of the site.}
 \item{mound}{Identifier of the burial mound within the site.}
 \item{grave}{Identifier of the individual burial within the mound/site.}
 \item{name}{Unique name of the burial (\code{site} \code{mound} / \code{grave}).}
+\item{latitude, longitude, raion, oblast}{Geographical location of the site.}
 \item{interment}{Number of interments (single, twin, collective or cenotaph).}
 \item{sex}{Biological sex of the remains, if known.}
 \item{age}{Age of the remains, if known (juvenile or adult).}
