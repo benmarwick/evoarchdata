@@ -4,12 +4,14 @@
 \name{ceramics_lbk_merzbach}
 \alias{ceramics_lbk_merzbach}
 \title{Frequencies of different decorative motifs in the Merzbach assemblage, Neolithic Germany (Crema et al. 2016; many other papers)}
-\format{A data frame with 8 rows and 37 variables:
+\format{
+A data frame with 8 rows and 37 variables:
 \describe{
-  \item{Phase}{Phase}
-  \item{BT14, etc}{Counts of a motif}
-  ...
-}}
+\item{Phase}{Phase}
+\item{BT14, etc}{Counts of a motif}
+...
+}
+}
 \source{
 \url{https://doi.org/10.1038/srep39122}
 }

@@ -1,6 +1,10 @@
+#' @importFrom Rdpack reprompt
+NULL
+
+#-------------------------------------------------------------------------
 #' Counts of arrowheads from two sites in Neotlithic France (Crema et al. 2014; Saintot 1998)
 #'
-#'Counts of armature types from the Clairvaux and Chalain sites (Pétrequin, 1986, 1989,1997; Pétrequin and Bailly, 2004) in the Jura region of southeast France. The dataset comprises a total of 280 arrowheads subdivided into nine chronologically distinct phases (I: 3700–3600 B C; II: 3450 BC; III: 3200 IV: 3100 BC; V: 3050–3010 BC; VI: 3010–2930 BC; VII: 2850–2750 BC; VIII: 2750–2600 BC; IX: 2600–1650 BC) defined by Saintot (1998).
+#' Counts of armature types from the Clairvaux and Chalain sites (Pétrequin, 1986, 1989,1997; Pétrequin and Bailly, 2004) in the Jura region of southeast France. The dataset comprises a total of 280 arrowheads subdivided into nine chronologically distinct phases (I: 3700–3600 B C; II: 3450 BC; III: 3200 IV: 3100 BC; V: 3050–3010 BC; VI: 3010–2930 BC; VII: 2850–2750 BC; VIII: 2750–2600 BC; IX: 2600–1650 BC) defined by Saintot (1998).
 #'
 #' References:
 #'
@@ -14,7 +18,7 @@
 #'   \item{...}{the various armature types. See the PDF in data-raw/ for the paradigmatic classification scheme for the armatures data}
 #'   ...
 #' }
-#' @source \url{https://doi.org/10.1016/j.jas.2014.07.014}
+#' @source <https://doi.org/10.1016/j.jas.2014.07.014>
 "armature_types_france"
 
 #-------------------------------------------------------------------------
@@ -37,7 +41,7 @@
 #'   \item{Ware A, etc.}{Ceramic fabric types}
 #'   ...
 #' }
-#' @source \url{https://doi.org/10.1016/j.jas.2009.12.039}
+#' @source <https://doi.org/10.1016/j.jas.2009.12.039>
 "ceramics_hittite_turkey"
 
 #-------------------------------------------------------------------------
@@ -61,7 +65,7 @@
 #'   \item{mm02_3, etc.}{Total}
 #'   ...
 #' }
-#' @source \url{http://www.people.virginia.edu/~fn9r/anth588/WoodlandIllinoisData.html}
+#' @source <http://www.people.virginia.edu/~fn9r/anth588/WoodlandIllinoisData.html>
 "ceramics_woodland_illinois"
 
 
@@ -87,5 +91,73 @@
 #'   \item{BT14, etc}{Counts of a motif}
 #'   ...
 #' }
-#' @source \url{https://doi.org/10.1038/srep39122}
+#' @source <https://doi.org/10.1038/srep39122>
 "ceramics_lbk_merzbach"
+
+#-------------------------------------------------------------------------
+#' Kurgans of the Catacomb culture \insertCite{Slusarska2006-zc;textual}{evoarchdata}
+#'
+#' @description
+#' Data on the construction, interment style, and grave goods of 703 mound
+#'   burials (*kurgans*) of the Bronze Age Catacomb culture of the West Eurasian
+#'   steppe. Each row represents one burial, from 207 mounds across 82 sites.
+#'
+#' @format A data frame with 703 rows and 56 variables:
+#' \describe{
+#'   \item{id}{Arbitrary unique identifier of the burial.}
+#'   \item{group}{Regional grouping assigned by Ślusarska.}
+#'   \item{site}{Name of the site.}
+#'   \item{mound}{Identifier of the burial mound within the site.}
+#'   \item{grave}{Identifier of the individual burial within the mound/site.}
+#'   \item{name}{Unique name of the burial (`site` `mound` / `grave`).}
+#'   \item{latitude, longitude, raion, oblast}{Geographical location of the site.}
+#'   \item{interment}{Number of interments (single, twin, collective or cenotaph).}
+#'   \item{sex}{Biological sex of the remains, if known.}
+#'   \item{age}{Age of the remains, if known (juvenile or adult).}
+#'   \item{grave_type, shaft, gangway, steps, dromos, entrance_screen, boards, organic_lining}{Details of the construction of the grave and mound, see \insertCite{Slusarska2006-zc;textual}{evoarchdata} for details.}
+#'   \item{body_position, leg_position}{Details of the interment style, see \insertCite{Slusarska2006-zc;textual}{evoarchdata} for details.}
+#'   \item{ochre, charcoal, chalk, fire, mask, tar, animal_bones}{Presence or absence of traces of funerary ritual, see \insertCite{Slusarska2006-zc;textual}{evoarchdata} for details.}
+#'   \item{axe_hammer, macehead, arrowhead, spearhead, bow, bronze_knife, bola, wooden_javelin}{Presence or absence of different types of weapons in grave goods, see \insertCite{Slusarska2006-zc;textual}{evoarchdata} for details.}
+#'   \item{polishing_plate,arrow_straightener, awl, grindstone, scraper, punch, hammerstone, perforator, casting_mould, tuyere, digging_tool, adze, melting_pot, flint_knife}{Presence or absence of different types of tools in grave goods, see \insertCite{Slusarska2006-zc;textual}{evoarchdata} for details.}
+#'   \item{wooden_cup, wooden_bowl, pottery}{Presence or absence of different types of household goods in grave goods.}
+#'   \item{body_ornament}{Presence or absence of bodily ornamentation in grave goods.}
+#' }
+#'
+#' @details
+#' Originally compiled by \insertCite{Slusarska2006-zc;textual}{evoarchdata}. Transcribed and recoded for
+#'   phylogenetic analysis by \insertCite{Roe2013-ls;textual}{evoarchdata}.
+#'
+#' Coordinates were not included in the original dataset; those included are
+#'   approximate, based on the nearest identifiable place name to each site.
+#'
+#' @references
+#'
+#' * \insertRef{Roe2013-ls}{evoarchdata}
+#' * \insertRef{Slusarska2006-zc}{evoarchdata}
+#'
+#' @source \insertCite{Roe2013-ls;textual}{evoarchdata}
+"kurgans_catacomb"
+
+#-------------------------------------------------------------------------
+#' Copying error in virtual Acheulean handaxes
+#'
+#' @description
+#' Experimental data on unintential copying error in cultural transmission. In
+#'   \insertCite{Kempe2012-ns;textual}{evoarchdata}'s experiment, participants
+#'   were split into 20 transmission chains and asked to copy the size of a
+#'   virtual Acheulean handaxe.
+#'
+#' @format A data frame with 200 rows and 4 variables:
+#' \describe{
+#'   \item{chain}{Number of the transmission chain.}
+#'   \item{place}{Place of the handaxe in the chain.}
+#'   \item{scale}{Size of the handaxe on an arbitrary scale.}
+#'   \item{condition}{Whether the handaxe is larger or smaller than the previous handaxe in the chain.}
+#' }
+#'
+#' @references
+#'
+#' * \insertRef{Kempe2012-ns}{evoarchdata}
+#'
+#' @source \url{https://doi.org/10.1371/journal.pone.0048333.s002}
+"lithics_acheulean_virtual"

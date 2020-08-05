@@ -1,14 +1,19 @@
 Package: evoarchdata
 Type: Package
 Title: Datasets from studies of cultural evolution in Archaeology
-Version: 0.1.0
-Author: Ben Marwick 
-Maintainer: Ben Marwick <benmarwick@gmail.com>
+Version: 0.2.0
+Authors@R: c(
+    person("Marwick", "Ben", email = "benmarwick@gmail.com", role = c("aut", "cre")),
+    person("Roe", "Joe", email = "jwg983@hum.ku.dk", role = c("aut")))
 Description: A collection of datasets from publications on cultural evolution in Archaeology
 Depends: R (>= 3.4.4)
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
-RoxygenNote: 6.0.1
+RoxygenNote: 7.1.1
 URL: https://github.com/benmarwick/evoarchdata
 BugReports: https://github.com/benmarwick/evoarchdata/issues
+Roxygen: list(markdown = TRUE)
+Imports: 
+    Rdpack
+RdMacros: Rdpack
