@@ -4,13 +4,15 @@
 \name{ceramics_hittite_turkey}
 \alias{ceramics_hittite_turkey}
 \title{Counts of ceramic bowl types from Boğazköy-Hattusa, a Hittite site in Turkey (Steele et al. 2010; Brantingham and Perreault 2010)}
-\format{A data frame with 18 rows and 7 variables:
+\format{
+A data frame with 18 rows and 7 variables:
 \describe{
-  \item{Phase}{chronological phases}
-  \item{Main bowl group}{Main bowl type groups}
-  \item{Ware A, etc.}{Ceramic fabric types}
-  ...
-}}
+\item{Phase}{chronological phases}
+\item{Main bowl group}{Main bowl type groups}
+\item{Ware A, etc.}{Ceramic fabric types}
+...
+}
+}
 \source{
 \url{https://doi.org/10.1016/j.jas.2009.12.039}
 }

@@ -4,12 +4,14 @@
 \name{armature_types_france}
 \alias{armature_types_france}
 \title{Counts of arrowheads from two sites in Neotlithic France (Crema et al. 2014; Saintot 1998)}
-\format{A data frame with 9 rows and 20 variables:
+\format{
+A data frame with 9 rows and 20 variables:
 \describe{
-  \item{Period}{chronologically distinct phases}
-  \item{...}{the various armature types. See the PDF in data-raw/ for the paradigmatic classification scheme for the armatures data}
-  ...
-}}
+\item{Period}{chronologically distinct phases}
+\item{...}{the various armature types. See the PDF in data-raw/ for the paradigmatic classification scheme for the armatures data}
+...
+}
+}
 \source{
 \url{https://doi.org/10.1016/j.jas.2014.07.014}
 }
