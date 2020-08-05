@@ -1,0 +1,704 @@
+ID,GROUP,SITE,RAION,OBLAST,MOUND,GRAVE,NAME,INTERMENT,SEX,AGE,GRAVE_TYPE,SHAFT,GANGWAY,STEPS,DROMOS,ENTRANCE_SCREEN,BOARDS,ORGANIC_LINING,BODY_POSITION,LEG_POSITION,OCHRE,CHARCOAL,CHALK,FIRE,MASK,TAR,ANIMAL_BONES,AXE_HAMMER,MACEHEAD,ARROWHEAD,SPEARHEAD,BOW,BRONZE_KNIFE,BOLA,WOODEN_JAVELIN,POLISHING_PLATE,ARROW_STRAIGHTENER,AWL,GRINDSTONE,SCRAPER,PUNCH,HAMMERSTONE,PERFORATOR,CASTING_MOULD,TUYERE,DIGGING_TOOL,ADZE,MELTING_POT,FLINT_KNIFE,WOODEN_CUP,WOODEN_BOWL,POTTERY,BODY_ORNAMENT
+1,Budzhak,Belolesye,Tatarbunary,Odessa,1,9,Belolesye 1/9,single,female,adult,2,5,1,1,1,0,0,0,1,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2,Budzhak,Belolesye,Tatarbunary,Odessa,3,11,Belolesye 3/11,single,NA,juvenile,2,5,1,1,1,0,0,1,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+3,Budzhak,Ciobruci,Shtefan Vode,Moldova,4,6,Ciobruci 4/6,single,NA,juvenile,2,4,0,1,0,0,0,2,NA,NA,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+4,Budzhak,Ciobruci,Shtefan Vode,Moldova,4,7,Ciobruci 4/7,twin,NA,NA,2,1,0,1,0,0,0,1,NA,NA,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+5,Budzhak,Ciobruci,Shtefan Vode,Moldova,4,29,Ciobruci 4/29,single,NA,adult,NA,NA,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+6,Budzhak,Ciobruci,Shtefan Vode,Moldova,4,34,Ciobruci 4/34,single,NA,adult,2,5,0,1,0,0,0,1,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+7,Budzhak,Ciobruci,Shtefan Vode,Moldova,4,35,Ciobruci 4/35,twin,NA,NA,NA,NA,0,0,0,0,0,1,NA,NA,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8,Budzhak,Nikolskoe,Slobozia,Moldova,1,13,Nikolskoe 1/13,single,NA,adult,2,2,1,0,0,0,0,1,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9,Budzhak,Nikolskoe,Slobozia,Moldova,1,15,Nikolskoe 1/15,single,NA,adult,2,1,0,0,1,0,0,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+10,Budzhak,Nikolskoe,Slobozia,Moldova,8,11,Nikolskoe 8/11,single,NA,adult,2,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+11,Budzhak,Nikolskoe,Slobozia,Moldova,11,6,Nikolskoe 11/6,single,NA,adult,2,2,0,1,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+12,Budzhak,Nikolskoe,Slobozia,Moldova,13,7,Nikolskoe 13/7,single,NA,adult,2,2,0,1,1,0,0,1,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+13,Budzhak,Novoselitsa,Tatarbunary,Odessa,19,20,Novoselitsa 19/20,single,NA,adult,2,2,0,1,1,0,0,1,1,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+14,Budzhak,Novoselitsa,Tatarbunary,Odessa,19,21,Novoselitsa 19/21,single,male,adult,2,2,0,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+15,Budzhak,Novoselitsa,Tatarbunary,Odessa,19,22,Novoselitsa 19/22,single,NA,adult,2,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+16,Budzhak,Novye Raskaetsy,Shtefan Vode,Moldova,1,7,Novye Raskaetsy 1/7,single,NA,adult,2,5,0,1,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+17,Budzhak,Novye Raskaetsy,Shtefan Vode,Moldova,1,8,Novye Raskaetsy 1/8,collective,NA,NA,NA,NA,0,0,0,0,0,1,NA,NA,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+18,Budzhak,Novye Raskaetsy,Shtefan Vode,Moldova,1,12,Novye Raskaetsy 1/12,single,NA,adult,2,2,0,0,1,0,0,1,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+19,Budzhak,Novye Raskaetsy,Shtefan Vode,Moldova,1,21,Novye Raskaetsy 1/21,single,NA,adult,2,5,0,0,1,0,0,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+20,Budzhak,Novye Raskaetsy,Shtefan Vode,Moldova,1,32,Novye Raskaetsy 1/32,single,NA,adult,2,5,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+21,Budzhak,Novye Raskaetsy,Shtefan Vode,Moldova,2,3,Novye Raskaetsy 2/3,single,NA,juvenile,2,4,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+22,Budzhak,Olaneshty,Shtefan Vode,Moldova,6,9,Olaneshty 6/9,single,NA,adult,2,5,0,0,1,0,0,1,0,0,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+23,Budzhak,Olaneshty,Shtefan Vode,Moldova,14,2,Olaneshty 14/2,single,male,adult,2,5,0,0,1,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+24,Budzhak,Olaneshty,Shtefan Vode,Moldova,1,4,Olaneshty 1/4,single,NA,adult,2,3,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+25,Budzhak,Olaneshty,Shtefan Vode,Moldova,1,10,Olaneshty 1/10,single,NA,adult,NA,NA,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+26,Budzhak,Olaneshty,Shtefan Vode,Moldova,1,30,Olaneshty 1/30,single,NA,adult,2,5,1,0,0,0,0,1,0,1,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+27,Budzhak,Olaneshty,Shtefan Vode,Moldova,1,31,Olaneshty 1/31,single,NA,adult,2,3,0,1,1,0,0,1,0,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+28,Budzhak,Olaneshty,Shtefan Vode,Moldova,1,2,Olaneshty 1/2,single,NA,adult,2,3,0,1,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+29,Budzhak,Purkary,Shtefan Vode,Moldova,1,3,Purkary 1/3,single,NA,adult,NA,NA,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+30,Budzhak,Purkary,Shtefan Vode,Moldova,1,9,Purkary 1/9,single,female,adult,2,3,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+31,Budzhak,Purkary,Shtefan Vode,Moldova,1,10,Purkary 1/10,single,NA,juvenile,NA,NA,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+32,Budzhak,Purkary,Shtefan Vode,Moldova,1,12,Purkary 1/12,single,NA,adult,2,3,1,0,1,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+33,Budzhak,Purkary,Shtefan Vode,Moldova,1,14,Purkary 1/14,single,NA,adult,2,5,0,1,1,0,0,0,0,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+34,Budzhak,Purkary,Shtefan Vode,Moldova,1,32,Purkary 1/32,single,male,adult,2,3,0,0,1,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+35,Budzhak,Purkary,Shtefan Vode,Moldova,1,35,Purkary 1/35,single,NA,adult,NA,NA,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+36,Budzhak,Purkary,Shtefan Vode,Moldova,1,36,Purkary 1/36,single,NA,adult,2,4,0,1,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+37,Budzhak,Purkary,Shtefan Vode,Moldova,1,37,Purkary 1/37,single,NA,adult,2,2,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+38,Budzhak,Purkary,Shtefan Vode,Moldova,1,38,Purkary 1/38,single,NA,NA,2,2,0,0,1,0,0,1,NA,NA,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0
+39,Budzhak,Purkary,Shtefan Vode,Moldova,2,16,Purkary 2/16,single,NA,adult,NA,NA,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+40,Budzhak,Purkary,Shtefan Vode,Moldova,5,8,Purkary 5/8,single,NA,juvenile,NA,NA,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+41,Budzhak,Talmaz,Shtefan Vode,Moldova,3,13,Talmaz 3/13,single,NA,adult,2,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+42,Budzhak,Talmaz,Shtefan Vode,Moldova,3,15,Talmaz 3/15,single,NA,NA,2,5,0,1,1,0,0,1,0,1,0,1,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+43,Budzhak,Talmaz,Shtefan Vode,Moldova,3,16,Talmaz 3/16,single,NA,NA,2,2,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+44,Budzhak,Trapovka,Tatarbunary,Odessa,1,7,Trapovka 1/7,single,NA,juvenile,2,3,0,1,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+45,Budzhak,Trapovka,Tatarbunary,Odessa,1,13,Trapovka 1/13,single,NA,juvenile,2,3,0,1,1,0,0,1,NA,NA,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+46,Budzhak,Trapovka,Tatarbunary,Odessa,1,14,Trapovka 1/14,single,NA,NA,NA,NA,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+47,Budzhak,Trapovka,Tatarbunary,Odessa,1,17,Trapovka 1/17,single,male,adult,2,5,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+48,Budzhak,Trapovka,Tatarbunary,Odessa,1,18,Trapovka 1/18,single,male,adult,NA,NA,0,0,0,0,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+49,Budzhak,Trapovka,Tatarbunary,Odessa,4,14,Trapovka 4/14,single,NA,NA,NA,NA,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+50,Budzhak,Trapovka,Tatarbunary,Odessa,6,11,Trapovka 6/11,single,male,adult,2,2,0,1,1,0,0,1,NA,NA,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+51,Budzhak,Trapovka,Tatarbunary,Odessa,6,13,Trapovka 6/13,single,NA,adult,2,1,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+52,Budzhak,Trapovka,Tatarbunary,Odessa,10,1,Trapovka 10/1,single,NA,adult,2,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+53,Budzhak,Trapovka,Tatarbunary,Odessa,10,3,Trapovka 10/3,single,male,adult,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+54,Budzhak,Trapovka,Tatarbunary,Odessa,10,5,Trapovka 10/5,single,NA,adult,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+55,Budzhak,Trapovka,Tatarbunary,Odessa,10,7,Trapovka 10/7,single,female,adult,2,4,0,1,0,0,0,1,NA,NA,1,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+56,Budzhak,Trapovka,Tatarbunary,Odessa,10,8,Trapovka 10/8,single,male,adult,2,4,0,0,0,0,0,2,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+57,Budzhak,Vishnevoye,Tatarbunary,Odessa,52,11,Vishnevoye 52/11,single,NA,adult,2,5,0,1,0,0,0,1,NA,NA,0,0,0,2,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+58,Budzhak,Vishnevoye,Tatarbunary,Odessa,56,12,Vishnevoye 56/12,single,NA,juvenile,2,5,0,1,0,0,0,1,0,0,0,1,0,2,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+59,Budzhak,Vishnevoye,Tatarbunary,Odessa,56,14,Vishnevoye 56/14,single,NA,adult,NA,NA,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+60,Budzhak,Vishnevoye,Tatarbunary,Odessa,54,3,Vishnevoye 54/3,single,NA,NA,2,4,0,1,0,0,0,1,NA,NA,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+61,Budzhak,Vishnevoye,Tatarbunary,Odessa,57,3,Vishnevoye 57/3,single,NA,adult,2,4,0,1,0,0,0,1,0,0,1,0,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+62,Donetsk-Luhansk,Razdolovka-Ivano-Darevka,Artemovsk,Donetsk,2,1,Razdolovka-Ivano-Darevka 2/1,single,NA,adult,2,4,0,1,0,1,0,1,1,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0
+63,Donetsk-Luhansk,Razdolovka-Ivano-Darevka,Artemovsk,Donetsk,2,2,Razdolovka-Ivano-Darevka 2/2,single,NA,adult,NA,NA,0,1,0,1,0,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+64,Donetsk-Luhansk,Razdolovka-Ivano-Darevka,Artemovsk,Donetsk,2,3,Razdolovka-Ivano-Darevka 2/3,single,NA,adult,2,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+65,Donetsk-Luhansk,Razdolovka-Ivano-Darevka,Artemovsk,Donetsk,2,4,Razdolovka-Ivano-Darevka 2/4,single,NA,adult,2,1,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+66,Donetsk-Luhansk,Artemovsk,Artemovsk,Donetsk,1,1,Artemovsk 1/1,single,NA,adult,2,1,0,0,0,1,0,1,NA,NA,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0
+67,Donetsk-Luhansk,Artemovsk,Artemovsk,Donetsk,2,1,Artemovsk 2/1,single,NA,NA,2,1,0,1,0,1,0,1,NA,NA,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+68,Donetsk-Luhansk,Artemovsk,Artemovsk,Donetsk,2,3,Artemovsk 2/3,single,NA,adult,2,1,0,1,1,1,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+69,Donetsk-Luhansk,Artemovsk,Artemovsk,Donetsk,2,4,Artemovsk 2/4,single,NA,adult,NA,NA,0,0,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+70,Donetsk-Luhansk,Artemovsk,Artemovsk,Donetsk,2,6,Artemovsk 2/6,single,NA,NA,2,1,0,1,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+71,Donetsk-Luhansk,Artemovsk,Artemovsk,Donetsk,4,1,Artemovsk 4/1,single,NA,adult,2,1,0,1,1,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,0,1,0
+72,Donetsk-Luhansk,Artemovsk,Artemovsk,Donetsk,4,2,Artemovsk 4/2,single,NA,adult,2,1,0,1,0,1,0,1,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+73,Donetsk-Luhansk,Artemovsk,Artemovsk,Donetsk,4,3,Artemovsk 4/3,single,NA,adult,2,2,0,0,0,0,0,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+74,Donetsk-Luhansk,Bobrikove,Antratsyt,Luhansk,1,3,Bobrikove 1/3,single,NA,juvenile,2,2,0,1,1,1,0,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+75,Donetsk-Luhansk,Bobrikove,Antratsyt,Luhansk,1,4,Bobrikove 1/4,single,NA,adult,NA,NA,0,1,1,0,0,1,NA,NA,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+76,Donetsk-Luhansk,Chernukhino,Antratsyt,Luhansk,1,4,Chernukhino 1/4,single,NA,adult,2,1,0,1,1,0,0,1,NA,NA,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+77,Donetsk-Luhansk,Chernukhino,Antratsyt,Luhansk,1,6,Chernukhino 1/6,single,male,adult,2,2,1,1,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+78,Donetsk-Luhansk,Chernukhino,Antratsyt,Luhansk,1,7,Chernukhino 1/7,single,NA,adult,2,1,0,1,1,1,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+79,Donetsk-Luhansk,Chernukhino,Antratsyt,Luhansk,1,9,Chernukhino 1/9,single,male,adult,2,2,0,0,0,0,0,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+80,Donetsk-Luhansk,Chernukhino,Antratsyt,Luhansk,1,10,Chernukhino 1/10,single,NA,adult,NA,NA,0,0,0,0,0,1,NA,NA,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+81,Donetsk-Luhansk,Ivano-Darevka,Artemovsk,Donetsk,1,3,Ivano-Darevka 1/3,single,NA,juvenile,2,1,0,1,1,0,0,1,NA,NA,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+82,Donetsk-Luhansk,Ivano-Darevka,Artemovsk,Donetsk,1,6,Ivano-Darevka 1/6,twin,NA,NA,2,1,0,1,0,1,0,1,NA,NA,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+83,Donetsk-Luhansk,Ivano-Darevka,Artemovsk,Donetsk,1,8,Ivano-Darevka 1/8,single,NA,adult,2,1,0,1,1,1,0,1,1,1,0,1,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+84,Donetsk-Luhansk,Ivano-Darevka,Artemovsk,Donetsk,1,9,Ivano-Darevka 1/9,single,NA,adult,2,2,0,1,1,1,0,0,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+85,Donetsk-Luhansk,Ivano-Darevka,Artemovsk,Donetsk,1,10,Ivano-Darevka 1/10,single,NA,adult,2,1,0,0,0,1,0,0,1,1,0,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+86,Donetsk-Luhansk,Ivano-Darevka,Artemovsk,Donetsk,1,11,Ivano-Darevka 1/11,single,NA,adult,NA,NA,0,1,1,1,0,1,1,1,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+87,Donetsk-Luhansk,Ivano-Darevka,Artemovsk,Donetsk,1,12,Ivano-Darevka 1/12,single,NA,NA,2,1,0,1,0,1,0,1,1,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+88,Donetsk-Luhansk,Ivano-Darevka,Artemovsk,Donetsk,1,14,Ivano-Darevka 1/14,single,NA,adult,2,1,0,1,1,0,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+89,Donetsk-Luhansk,Ivano-Darevka,Artemovsk,Donetsk,1,17,Ivano-Darevka 1/17,single,NA,juvenile,2,1,0,1,0,1,0,1,1,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+90,Donetsk-Luhansk,Ivano-Darevka,Artemovsk,Donetsk,1,18,Ivano-Darevka 1/18,single,NA,juvenile,NA,NA,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+91,Donetsk-Luhansk,Ivano-Darevka,Artemovsk,Donetsk,1,19,Ivano-Darevka 1/19,single,NA,juvenile,2,5,0,1,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+92,Donetsk-Luhansk,Ivano-Darevka,Artemovsk,Donetsk,2,2,Ivano-Darevka 2/2,single,NA,adult,NA,NA,0,0,0,1,0,0,0,1,1,0,1,0,0,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+93,Donetsk-Luhansk,Ivano-Darevka,Artemovsk,Donetsk,2,3,Ivano-Darevka 2/3,single,NA,adult,2,3,0,1,1,0,0,0,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+94,Donetsk-Luhansk,Ivano-Darevka,Artemovsk,Donetsk,2,5,Ivano-Darevka 2/5,single,NA,NA,2,1,0,1,1,1,0,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+95,Donetsk-Luhansk,Ivano-Darevka,Artemovsk,Donetsk,2,6,Ivano-Darevka 2/6,collective,NA,NA,3,3,0,1,1,1,0,0,NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+96,Donetsk-Luhansk,Ivano-Darevka,Artemovsk,Donetsk,4,1,Ivano-Darevka 4/1,single,NA,adult,NA,NA,0,0,0,0,0,0,NA,NA,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+97,Donetsk-Luhansk,Ivano-Darevka,Artemovsk,Donetsk,4,2,Ivano-Darevka 4/2,single,NA,NA,2,1,0,1,1,1,0,1,NA,NA,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+98,Donetsk-Luhansk,Kindrativka,Dobropillia,Donetsk,1,6,Kindrativka 1/6,single,NA,adult,2,1,0,1,0,0,0,1,1,1,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+99,Donetsk-Luhansk,Kindrativka,Dobropillia,Donetsk,1,9,Kindrativka 1/9,single,NA,adult,2,1,0,1,0,0,0,1,1,1,1,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+100,Donetsk-Luhansk,Kindrativka,Dobropillia,Donetsk,1,10,Kindrativka 1/10,single,NA,adult,2,2,0,1,1,1,0,1,1,1,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+101,Donetsk-Luhansk,Kindrativka,Dobropillia,Donetsk,2,8,Kindrativka 2/8,single,NA,NA,NA,NA,0,0,0,1,0,0,NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0
+102,Donetsk-Luhansk,Kindrativka,Dobropillia,Donetsk,3,4,Kindrativka 3/4,single,NA,adult,NA,NA,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0
+103,Donetsk-Luhansk,Kindrativka,Dobropillia,Donetsk,3,7,Kindrativka 3/7,single,NA,adult,2,5,0,1,1,1,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+104,Donetsk-Luhansk,Kindrativka,Dobropillia,Donetsk,3,10,Kindrativka 3/10,single,NA,adult,NA,NA,0,0,0,1,0,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+105,Donetsk-Luhansk,Kindrativka,Dobropillia,Donetsk,3,14,Kindrativka 3/14,single,NA,NA,NA,NA,0,0,0,1,0,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+106,Donetsk-Luhansk,Kindrativka,Dobropillia,Donetsk,4,4,Kindrativka 4/4,single,NA,juvenile,2,1,0,1,0,0,0,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0
+107,Donetsk-Luhansk,Krasnaya Zarya,Perevalsk,Luhansk,1,1,Krasnaya Zarya 1/1,single,NA,adult,NA,NA,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+108,Donetsk-Luhansk,Krasnaya Zarya,Perevalsk,Luhansk,1,3,Krasnaya Zarya 1/3,single,NA,adult,2,3,0,1,1,1,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+109,Donetsk-Luhansk,Krasnaya Zarya,Perevalsk,Luhansk,2,4,Krasnaya Zarya 2/4,single,NA,adult,2,2,0,1,1,1,0,1,NA,NA,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+110,Donetsk-Luhansk,Krasnaya Zarya,Perevalsk,Luhansk,2,5,Krasnaya Zarya 2/5,single,NA,adult,2,2,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+111,Donetsk-Luhansk,Krasnaya Zarya,Perevalsk,Luhansk,2,6,Krasnaya Zarya 2/6,single,NA,adult,NA,NA,0,0,0,1,0,1,NA,NA,1,1,0,2,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+112,Donetsk-Luhansk,Krasnaya Zarya,Perevalsk,Luhansk,2,8,Krasnaya Zarya 2/8,single,NA,adult,NA,NA,0,0,0,1,0,1,NA,NA,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+113,Donetsk-Luhansk,Krasnaya Zarya,Perevalsk,Luhansk,2,9,Krasnaya Zarya 2/9,collective,NA,NA,2,5,0,1,0,1,0,1,NA,NA,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+114,Donetsk-Luhansk,Krasnaya Zarya,Perevalsk,Luhansk,3,2,Krasnaya Zarya 3/2,single,NA,juvenile,NA,NA,0,0,0,0,0,1,0,1,1,0,0,2,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+115,Donetsk-Luhansk,Krasnaya Zarya,Perevalsk,Luhansk,3,4,Krasnaya Zarya 3/4,single,NA,NA,NA,NA,0,0,0,1,0,0,NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+116,Donetsk-Luhansk,Krasnaya Zarya,Perevalsk,Luhansk,4,1,Krasnaya Zarya 4/1,single,NA,juvenile,NA,NA,0,0,0,0,0,0,NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+117,Donetsk-Luhansk,Krasnaya Zarya,Perevalsk,Luhansk,4,2,Krasnaya Zarya 4/2,single,NA,adult,NA,NA,0,0,0,1,0,1,0,1,1,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+118,Donetsk-Luhansk,Krasnaya Zarya,Perevalsk,Luhansk,5,2,Krasnaya Zarya 5/2,single,NA,NA,NA,NA,0,0,0,1,0,0,NA,NA,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+119,Donetsk-Luhansk,Krasnaya Zarya,Perevalsk,Luhansk,6,1,Krasnaya Zarya 6/1,single,NA,adult,2,2,0,1,0,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+120,Donetsk-Luhansk,Krasnaya Zarya,Perevalsk,Luhansk,6,2,Krasnaya Zarya 6/2,single,NA,juvenile,NA,NA,0,0,0,0,0,0,1,1,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+121,Donetsk-Luhansk,Krasnaya Zarya,Perevalsk,Luhansk,6,3,Krasnaya Zarya 6/3,single,NA,adult,NA,NA,0,0,0,0,0,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+122,Donetsk-Luhansk,Krasnaya Zarya,Perevalsk,Luhansk,6,6,Krasnaya Zarya 6/6,single,NA,NA,2,1,0,1,0,1,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+123,Donetsk-Luhansk,Krasnaya Zarya,Perevalsk,Luhansk,6,7,Krasnaya Zarya 6/7,single,NA,adult,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+124,Donetsk-Luhansk,Krasnaya Zarya,Perevalsk,Luhansk,6,8,Krasnaya Zarya 6/8,single,NA,adult,2,1,0,1,1,1,0,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+125,Donetsk-Luhansk,Krasnaya Zarya,Perevalsk,Luhansk,6,10,Krasnaya Zarya 6/10,single,NA,adult,2,1,0,1,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+126,Donetsk-Luhansk,Krasnaya Zarya,Perevalsk,Luhansk,6,11,Krasnaya Zarya 6/11,single,NA,adult,2,5,0,1,0,0,0,0,1,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+127,Donetsk-Luhansk,Krasnaya Zarya,Perevalsk,Luhansk,7,2,Krasnaya Zarya 7/2,single,NA,adult,2,2,0,0,0,0,0,0,1,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+128,Donetsk-Luhansk,Krasnaya Zarya,Perevalsk,Luhansk,7,3,Krasnaya Zarya 7/3,single,NA,adult,NA,NA,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+129,Donetsk-Luhansk,Krasnaya Zarya,Perevalsk,Luhansk,7,4,Krasnaya Zarya 7/4,single,NA,adult,2,2,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+130,Donetsk-Luhansk,Krasnaya Zarya,Perevalsk,Luhansk,7,5,Krasnaya Zarya 7/5,single,NA,NA,2,5,0,1,1,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+131,Donetsk-Luhansk,Kripiaki,Antratsyt,Luhansk,2,5,Kripiaki 2/5,single,NA,adult,2,4,0,1,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+132,Donetsk-Luhansk,Lisichansk LNPZ,Popasna,Luhansk,2,1,Lisichansk LNPZ 2/1,single,NA,NA,2,1,0,1,1,1,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+133,Donetsk-Luhansk,Lisichansk LNPZ,Popasna,Luhansk,2,2,Lisichansk LNPZ 2/2,single,NA,juvenile,2,4,0,0,0,1,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+134,Donetsk-Luhansk,Lisichansk LNPZ,Popasna,Luhansk,2,3,Lisichansk LNPZ 2/3,single,NA,adult,2,1,0,1,1,1,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+135,Donetsk-Luhansk,Lisichansk LNPZ,Popasna,Luhansk,2,4,Lisichansk LNPZ 2/4,single,NA,NA,2,2,0,0,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0
+136,Donetsk-Luhansk,Lisichansk LNPZ,Popasna,Luhansk,2,5,Lisichansk LNPZ 2/5,single,NA,adult,2,2,0,1,0,1,0,1,NA,NA,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+137,Donetsk-Luhansk,Lisichansk LNPZ,Popasna,Luhansk,2,6,Lisichansk LNPZ 2/6,single,NA,NA,2,1,0,1,0,0,0,0,NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+138,Donetsk-Luhansk,Lisichansk LNPZ,Popasna,Luhansk,2,7,Lisichansk LNPZ 2/7,single,NA,NA,3,3,1,1,1,0,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+139,Donetsk-Luhansk,Lisichansk LNPZ,Popasna,Luhansk,2,8,Lisichansk LNPZ 2/8,single,NA,adult,2,2,0,0,0,0,0,0,1,1,0,1,0,2,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+140,Donetsk-Luhansk,Lisichansk LNPZ,Popasna,Luhansk,2,11,Lisichansk LNPZ 2/11,single,NA,adult,3,3,0,0,0,1,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+141,Donetsk-Luhansk,Nikolaivka,Stanichno-Luhanskoe,Luhansk,1,2,Nikolaivka 1/2,single,NA,adult,2,4,0,1,0,1,0,1,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+142,Donetsk-Luhansk,Nikolaivka,Stanichno-Luhanskoe,Luhansk,1,3,Nikolaivka 1/3,single,NA,adult,2,2,0,1,0,0,0,0,1,1,1,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+143,Donetsk-Luhansk,Nikolaivka,Stanichno-Luhanskoe,Luhansk,1,5,Nikolaivka 1/5,single,NA,adult,2,4,0,0,0,1,0,2,1,1,1,0,0,2,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+144,Donetsk-Luhansk,Nikolaivka,Stanichno-Luhanskoe,Luhansk,1,7,Nikolaivka 1/7,single,NA,NA,2,1,0,1,0,0,0,1,NA,NA,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+145,Donetsk-Luhansk,Nikolaivka,Stanichno-Luhanskoe,Luhansk,1,8,Nikolaivka 1/8,single,NA,NA,2,5,0,1,0,0,0,1,NA,NA,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+146,Donetsk-Luhansk,Nikolaivka,Stanichno-Luhanskoe,Luhansk,1,9,Nikolaivka 1/9,single,NA,NA,NA,NA,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+147,Donetsk-Luhansk,Nikolaivka,Stanichno-Luhanskoe,Luhansk,2,4,Nikolaivka 2/4,single,female,adult,NA,NA,0,1,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+148,Donetsk-Luhansk,Nikolaivka,Stanichno-Luhanskoe,Luhansk,2,6,Nikolaivka 2/6,twin,NA,juvenile,2,4,0,0,0,0,0,1,NA,NA,0,0,0,2,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+149,Donetsk-Luhansk,Nikolaivka,Stanichno-Luhanskoe,Luhansk,2,9,Nikolaivka 2/9,single,NA,NA,NA,NA,0,0,0,0,0,0,1,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+150,Donetsk-Luhansk,Nikolaivka,Stanichno-Luhanskoe,Luhansk,2,10,Nikolaivka 2/10,single,NA,juvenile,2,4,0,0,0,0,0,2,0,1,1,0,0,2,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+151,Donetsk-Luhansk,Nikolaivka,Stanichno-Luhanskoe,Luhansk,6,2,Nikolaivka 6/2,single,NA,adult,NA,NA,0,0,0,1,0,1,1,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+152,Donetsk-Luhansk,Nikolaivka,Stanichno-Luhanskoe,Luhansk,6,4A,Nikolaivka 6/4A,single,female,adult,2,4,0,1,0,1,0,1,NA,NA,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+153,Donetsk-Luhansk,Nikolaivka,Stanichno-Luhanskoe,Luhansk,6,4B,Nikolaivka 6/4B,single,NA,NA,2,1,0,1,0,1,0,1,1,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+154,Donetsk-Luhansk,Nikolaivka,Stanichno-Luhanskoe,Luhansk,6,6,Nikolaivka 6/6,single,male,adult,NA,NA,0,0,0,0,0,1,1,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+155,Donetsk-Luhansk,Nikolaivka,Stanichno-Luhanskoe,Luhansk,8,1,Nikolaivka 8/1,single,male,adult,1,0,0,1,0,1,0,1,1,1,0,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+156,Donetsk-Luhansk,Nikolaivka,Stanichno-Luhanskoe,Luhansk,8,2,Nikolaivka 8/2,single,female,NA,2,2,0,1,1,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+157,Donetsk-Luhansk,Nikolaivka,Stanichno-Luhanskoe,Luhansk,8,4,Nikolaivka 8/4,single,NA,juvenile,2,2,1,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+158,Donetsk-Luhansk,Nikolaivka,Stanichno-Luhanskoe,Luhansk,8,5,Nikolaivka 8/5,single,NA,juvenile,2,2,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+159,Donetsk-Luhansk,Nikolaivka,Stanichno-Luhanskoe,Luhansk,11,4,Nikolaivka 11/4,single,NA,adult,2,1,0,1,0,0,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+160,Donetsk-Luhansk,Nikolaivka,Stanichno-Luhanskoe,Luhansk,11,5,Nikolaivka 11/5,single,NA,juvenile,3,3,1,1,1,0,0,0,2,NA,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+161,Donetsk-Luhansk,Nikolaivka,Stanichno-Luhanskoe,Luhansk,11,6,Nikolaivka 11/6,twin,NA,NA,3,3,0,1,1,0,0,0,NA,NA,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+162,Donetsk-Luhansk,Nikolaivka,Stanichno-Luhanskoe,Luhansk,11,7,Nikolaivka 11/7,collective,NA,NA,3,3,0,0,0,0,0,1,NA,NA,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+163,Donetsk-Luhansk,Novoamvrosyevka,Amvrosyevka,Donetsk,4,2,Novoamvrosyevka 4/2,single,NA,adult,2,2,1,1,0,0,0,0,NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+164,Donetsk-Luhansk,Novoamvrosyevka,Amvrosyevka,Donetsk,4,6,Novoamvrosyevka 4/6,single,NA,NA,NA,NA,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+165,Donetsk-Luhansk,Oleksandrivsk,Lihansk,Luhansk,1,6,Oleksandrivsk 1/6,single,NA,adult,2,1,0,0,1,0,0,1,NA,NA,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+166,Donetsk-Luhansk,Oleksandrivsk,Lihansk,Luhansk,1,7,Oleksandrivsk 1/7,single,NA,NA,2,1,0,1,0,0,0,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+167,Donetsk-Luhansk,Oleksandrivsk,Lihansk,Luhansk,1,8,Oleksandrivsk 1/8,single,NA,juvenile,2,1,1,1,1,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+168,Donetsk-Luhansk,Oleksandrivsk,Lihansk,Luhansk,1,12,Oleksandrivsk 1/12,single,NA,adult,2,1,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+169,Donetsk-Luhansk,Oleksandrivsk,Lihansk,Luhansk,1,15,Oleksandrivsk 1/15,single,NA,juvenile,2,5,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+170,Donetsk-Luhansk,Oleksandrivsk,Lihansk,Luhansk,1,17,Oleksandrivsk 1/17,single,NA,juvenile,NA,NA,0,0,0,0,0,0,1,1,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+171,Donetsk-Luhansk,Oleksandrivsk,Lihansk,Luhansk,1,19,Oleksandrivsk 1/19,single,NA,adult,NA,NA,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+172,Donetsk-Luhansk,Oleksandrivsk,Lihansk,Luhansk,1,20,Oleksandrivsk 1/20,single,NA,juvenile,NA,NA,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+173,Donetsk-Luhansk,Oleksandrivsk,Lihansk,Luhansk,1,21,Oleksandrivsk 1/21,single,NA,juvenile,2,2,0,1,0,0,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+174,Donetsk-Luhansk,Oleksandrivsk,Lihansk,Luhansk,1,29,Oleksandrivsk 1/29,single,NA,adult,NA,NA,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0
+175,Donetsk-Luhansk,Oleksandrivsk,Lihansk,Luhansk,1,30,Oleksandrivsk 1/30,single,NA,NA,2,1,0,0,0,0,0,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+176,Donetsk-Luhansk,Oleksandrivsk,Lihansk,Luhansk,1,31,Oleksandrivsk 1/31,single,NA,juvenile,NA,NA,0,0,0,0,0,1,1,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+177,Donetsk-Luhansk,Oleksandrivsk,Lihansk,Luhansk,1,32,Oleksandrivsk 1/32,single,NA,NA,2,3,0,1,1,0,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+178,Donetsk-Luhansk,Oleksandrivsk,Lihansk,Luhansk,1,33,Oleksandrivsk 1/33,single,NA,juvenile,2,1,0,0,0,1,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+179,Donetsk-Luhansk,Oleksandrivsk,Lihansk,Luhansk,1,34,Oleksandrivsk 1/34,cenotaph,NA,NA,2,1,0,0,0,1,0,1,NA,NA,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+180,Donetsk-Luhansk,Oleksandrivsk,Lihansk,Luhansk,1,35,Oleksandrivsk 1/35,single,NA,adult,2,1,0,1,0,1,0,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+181,Donetsk-Luhansk,Oleksandrivsk,Lihansk,Luhansk,1,37,Oleksandrivsk 1/37,single,NA,NA,2,1,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+182,Donetsk-Luhansk,Oleksandrivsk,Lihansk,Luhansk,1,38,Oleksandrivsk 1/38,single,NA,juvenile,NA,NA,0,0,0,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+183,Donetsk-Luhansk,Oleksandrivsk,Lihansk,Luhansk,1,41,Oleksandrivsk 1/41,single,NA,adult,NA,NA,0,0,0,1,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+184,Donetsk-Luhansk,Oleksandrivsk,Lihansk,Luhansk,1,42,Oleksandrivsk 1/42,single,NA,adult,2,1,0,0,1,0,0,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+185,Donetsk-Luhansk,Oleksandrivsk,Lihansk,Luhansk,1,43,Oleksandrivsk 1/43,single,NA,juvenile,2,2,0,0,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+186,Donetsk-Luhansk,Oleksandrivsk,Lihansk,Luhansk,1,44,Oleksandrivsk 1/44,single,NA,juvenile,NA,NA,0,0,0,1,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+187,Donetsk-Luhansk,Peredelsk,Stanichno-Luhanskoe,Luhansk,1,1,Peredelsk 1/1,single,NA,juvenile,2,1,0,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+188,Donetsk-Luhansk,Peredelsk,Stanichno-Luhanskoe,Luhansk,1,2,Peredelsk 1/2,single,NA,juvenile,2,1,0,0,0,1,0,2,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+189,Donetsk-Luhansk,Peredelsk,Stanichno-Luhanskoe,Luhansk,1,4,Peredelsk 1/4,single,NA,adult,2,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+190,Donetsk-Luhansk,Peredelsk,Stanichno-Luhanskoe,Luhansk,1,6,Peredelsk 1/6,single,NA,juvenile,2,1,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+191,Donetsk-Luhansk,Peredelsk,Stanichno-Luhanskoe,Luhansk,1,9,Peredelsk 1/9,single,NA,adult,2,1,0,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+192,Donetsk-Luhansk,Peredelsk,Stanichno-Luhanskoe,Luhansk,1,10,Peredelsk 1/10,single,NA,NA,2,1,0,1,0,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+193,Donetsk-Luhansk,Peredelsk,Stanichno-Luhanskoe,Luhansk,1,11,Peredelsk 1/11,single,NA,adult,NA,NA,0,1,0,1,0,1,1,1,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+194,Donetsk-Luhansk,Peredelsk,Stanichno-Luhanskoe,Luhansk,1,12,Peredelsk 1/12,single,NA,adult,3,3,0,1,0,1,0,1,0,0,1,0,0,2,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+195,Donetsk-Luhansk,Peredelsk,Stanichno-Luhanskoe,Luhansk,1,13,Peredelsk 1/13,cenotaph,NA,NA,2,2,0,1,0,0,0,0,NA,NA,1,0,0,2,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+196,Donetsk-Luhansk,Peredelsk,Stanichno-Luhanskoe,Luhansk,2,1,Peredelsk 2/1,single,NA,juvenile,2,4,0,1,0,0,0,1,1,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+197,Donetsk-Luhansk,Peredelsk,Stanichno-Luhanskoe,Luhansk,2,3,Peredelsk 2/3,single,NA,adult,2,4,0,1,0,0,0,2,1,1,1,1,0,2,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+198,Donetsk-Luhansk,Preobrazhennoe,Svatovo,Luhansk,1,2,Preobrazhennoe 1/2,single,NA,adult,2,4,0,1,0,1,0,1,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+199,Donetsk-Luhansk,Preobrazhennoe,Svatovo,Luhansk,1,3,Preobrazhennoe 1/3,single,NA,NA,2,4,0,1,0,0,0,1,1,1,1,0,0,2,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,1
+200,Donetsk-Luhansk,Preobrazhennoe,Svatovo,Luhansk,1,5,Preobrazhennoe 1/5,single,NA,adult,3,3,1,1,1,0,0,1,NA,NA,1,0,0,0,1,0,1,1,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+201,Donetsk-Luhansk,Preobrazhennoe,Svatovo,Luhansk,1,6,Preobrazhennoe 1/6,single,NA,adult,2,3,0,1,0,1,0,1,0,1,1,0,0,2,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+202,Donetsk-Luhansk,Preobrazhennoe,Svatovo,Luhansk,1,7,Preobrazhennoe 1/7,single,NA,adult,2,1,0,1,0,1,0,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+203,Donetsk-Luhansk,Preobrazhennoe,Svatovo,Luhansk,1,8,Preobrazhennoe 1/8,single,male,adult,NA,NA,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+204,Donetsk-Luhansk,Preobrazhennoe,Svatovo,Luhansk,1,9,Preobrazhennoe 1/9,cenotaph,NA,NA,2,1,0,1,0,0,0,2,NA,NA,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+205,Donetsk-Luhansk,Preobrazhennoe,Svatovo,Luhansk,1,10,Preobrazhennoe 1/10,single,NA,adult,2,2,0,1,1,1,0,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+206,Donetsk-Luhansk,Preobrazhennoe,Svatovo,Luhansk,1,12,Preobrazhennoe 1/12,single,NA,juvenile,2,1,0,1,0,1,0,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+207,Donetsk-Luhansk,Preobrazhennoe,Svatovo,Luhansk,1,13,Preobrazhennoe 1/13,single,NA,adult,2,1,0,1,1,1,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0
+208,Donetsk-Luhansk,Preobrazhennoe,Svatovo,Luhansk,1,14,Preobrazhennoe 1/14,single,NA,adult,2,2,0,1,1,1,0,0,NA,NA,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+209,Donetsk-Luhansk,Preobrazhennoe,Svatovo,Luhansk,1,15,Preobrazhennoe 1/15,single,NA,adult,2,1,0,1,0,1,0,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+210,Donetsk-Luhansk,Preobrazhennoe,Svatovo,Luhansk,1,16,Preobrazhennoe 1/16,single,NA,juvenile,NA,NA,0,0,0,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+211,Donetsk-Luhansk,Preobrazhennoe,Svatovo,Luhansk,1,17,Preobrazhennoe 1/17,single,NA,adult,2,1,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+212,Donetsk-Luhansk,Preobrazhennoe,Svatovo,Luhansk,1,18,Preobrazhennoe 1/18,single,NA,juvenile,2,1,0,0,0,1,0,1,NA,NA,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+213,Donetsk-Luhansk,Prishib,Antratsyt,Luhansk,1,9,Prishib 1/9,single,NA,NA,2,1,0,0,0,1,0,0,NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,1,0
+214,Donetsk-Luhansk,Prishib,Antratsyt,Luhansk,1,10,Prishib 1/10,single,NA,adult,2,1,0,0,0,1,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+215,Donetsk-Luhansk,Prishib,Antratsyt,Luhansk,1,11,Prishib 1/11,single,NA,adult,2,1,0,0,0,1,0,1,1,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+216,Donetsk-Luhansk,Prishib,Antratsyt,Luhansk,1,12,Prishib 1/12,single,NA,adult,2,1,0,1,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+217,Donetsk-Luhansk,Prishib,Antratsyt,Luhansk,1,13,Prishib 1/13,single,NA,adult,2,1,0,0,1,0,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+218,Donetsk-Luhansk,Sokolniki,Antratsyt,Luhansk,2,1,Sokolniki 2/1,cenotaph,NA,NA,NA,NA,0,0,0,1,0,0,NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+219,Donetsk-Luhansk,Sokolniki,Antratsyt,Luhansk,2,2,Sokolniki 2/2,single,NA,juvenile,2,1,0,0,0,1,0,0,NA,NA,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+220,Donetsk-Luhansk,Sokolniki,Antratsyt,Luhansk,2,3,Sokolniki 2/3,single,NA,NA,2,1,0,0,0,0,0,1,NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+221,Donetsk-Luhansk,Sokolniki,Antratsyt,Luhansk,2,4,Sokolniki 2/4,single,NA,adult,2,1,0,0,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0
+222,Donetsk-Luhansk,Sokolniki,Antratsyt,Luhansk,2,6,Sokolniki 2/6,cenotaph,NA,NA,2,1,0,0,0,0,0,1,NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+223,Donetsk-Luhansk,Sokolniki,Antratsyt,Luhansk,2,8,Sokolniki 2/8,single,NA,NA,2,1,0,0,0,0,0,0,NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+224,Donetsk-Luhansk,Sokolniki,Antratsyt,Luhansk,5,6,Sokolniki 5/6,single,NA,adult,2,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+225,Donetsk-Luhansk,Sokolniki,Antratsyt,Luhansk,5,8,Sokolniki 5/8,single,NA,adult,2,1,0,0,0,0,0,1,NA,NA,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+226,Donetsk-Luhansk,Stepnoy,Slaviansk,Donetsk,1,3,Stepnoy 1/3,single,NA,juvenile,2,1,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+227,Donetsk-Luhansk,Stepnoy,Slaviansk,Donetsk,1,4,Stepnoy 1/4,single,NA,juvenile,2,1,0,0,0,1,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+228,Donetsk-Luhansk,Stepnoy,Slaviansk,Donetsk,2,5,Stepnoy 2/5,single,NA,NA,2,5,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+229,Donetsk-Luhansk,Stepnoy,Slaviansk,Donetsk,2,6,Stepnoy 2/6,single,NA,adult,2,1,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+230,Donetsk-Luhansk,Triokhizbenka,Slovaianoserbsk,Luhansk,3,3,Triokhizbenka 3/3,single,NA,adult,2,1,0,0,1,1,0,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+231,Donetsk-Luhansk,Triokhizbenka,Slovaianoserbsk,Luhansk,3,4,Triokhizbenka 3/4,single,NA,NA,2,1,0,1,0,0,0,0,NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+232,Donetsk-Luhansk,Triokhizbenka,Slovaianoserbsk,Luhansk,3,6,Triokhizbenka 3/6,single,NA,adult,2,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+233,Donetsk-Luhansk,Triokhizbenka,Slovaianoserbsk,Luhansk,3,8,Triokhizbenka 3/8,single,NA,adult,NA,NA,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+234,Donetsk-Luhansk,Triokhizbenka,Slovaianoserbsk,Luhansk,3,9,Triokhizbenka 3/9,single,NA,adult,2,1,0,0,1,0,0,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+235,Donetsk-Luhansk,Triokhizbenka,Slovaianoserbsk,Luhansk,3,10,Triokhizbenka 3/10,single,NA,NA,NA,NA,0,0,0,0,0,0,NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+236,Donetsk-Luhansk,Triokhizbenka,Slovaianoserbsk,Luhansk,3,11,Triokhizbenka 3/11,single,NA,NA,2,2,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+237,Donetsk-Luhansk,Triokhizbenka,Slovaianoserbsk,Luhansk,3,12,Triokhizbenka 3/12,single,NA,adult,2,3,0,1,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+238,Donetsk-Luhansk,Triokhizbenka,Slovaianoserbsk,Luhansk,3,13,Triokhizbenka 3/13,single,NA,adult,NA,NA,0,1,0,0,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+239,Donetsk-Luhansk,Voroshilovgrad Trikotazhnaya Fabrika,Luhansk,Luhansk,2,1,Voroshilovgrad Trikotazhnaya Fabrika 2/1,single,NA,juvenile,2,2,1,1,1,1,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+240,Donetsk-Luhansk,Voroshilovgrad VSHI,Luhansk,Luhansk,1,2,Voroshilovgrad VSHI 1/2,single,NA,adult,2,4,0,1,0,1,0,1,0,1,1,1,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+241,Donetsk-Luhansk,Voroshilovgrad VSHI,Luhansk,Luhansk,1,4,Voroshilovgrad VSHI 1/4,single,NA,adult,2,4,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+242,Donetsk-Luhansk,Voroshilovgrad VSHI,Luhansk,Luhansk,1,5,Voroshilovgrad VSHI 1/5,single,NA,adult,2,4,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+243,Donetsk-Luhansk,Voroshilovgrad VSHI,Luhansk,Luhansk,2B,3,Voroshilovgrad VSHI 2B/3,single,NA,adult,2,5,1,1,1,1,0,0,1,1,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+244,Donetsk-Luhansk,Voroshilovgrad VSHI,Luhansk,Luhansk,2B,4,Voroshilovgrad VSHI 2B/4,single,NA,adult,NA,NA,0,1,0,1,0,1,1,1,1,1,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+245,Donetsk-Luhansk,Voroshilovgrad VSHI,Luhansk,Luhansk,2B,5,Voroshilovgrad VSHI 2B/5,single,NA,adult,2,4,0,1,0,1,0,1,1,1,1,0,0,2,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+246,Donetsk-Luhansk,Voroshilovgrad VSHI,Luhansk,Luhansk,2B,7,Voroshilovgrad VSHI 2B/7,single,NA,adult,2,5,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+247,Donetsk-Luhansk,Voroshilovgrad VSHI,Luhansk,Luhansk,2B,9,Voroshilovgrad VSHI 2B/9,single,NA,adult,2,5,1,1,1,1,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+248,Donetsk-Luhansk,Voroshilovgrad VSHI,Luhansk,Luhansk,2B,10,Voroshilovgrad VSHI 2B/10,single,NA,adult,2,3,0,1,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+249,Donetsk-Luhansk,Voroshilovgrad VSHI,Luhansk,Luhansk,2B,11,Voroshilovgrad VSHI 2B/11,single,NA,adult,2,4,0,1,0,1,0,0,0,1,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+250,Donetsk-Luhansk,Voroshilovgrad VSHI,Luhansk,Luhansk,3,2,Voroshilovgrad VSHI 3/2,single,NA,adult,NA,NA,0,0,0,1,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+251,Donetsk-Luhansk,Voroshilovgrad VSHI,Luhansk,Luhansk,3,3,Voroshilovgrad VSHI 3/3,single,NA,adult,NA,NA,0,0,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0
+252,Donetsk-Luhansk,Voroshilovgrad VSHI,Luhansk,Luhansk,3,4,Voroshilovgrad VSHI 3/4,single,NA,adult,2,5,0,1,0,1,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+253,Donetsk-Luhansk,Voroshilovgrad VSHI,Luhansk,Luhansk,3,7,Voroshilovgrad VSHI 3/7,single,NA,adult,2,1,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+254,Donetsk-Luhansk,Voroshilovgrad VSHI,Luhansk,Luhansk,3,11,Voroshilovgrad VSHI 3/11,single,NA,adult,2,4,0,1,0,1,0,0,1,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+255,Donetsk-Luhansk,Voroshilovgrad VSHI,Luhansk,Luhansk,3,13,Voroshilovgrad VSHI 3/13,single,NA,juvenile,NA,NA,0,0,0,1,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+256,Donetsk-Luhansk,Voroshilovgrad VSHI,Luhansk,Luhansk,3,14,Voroshilovgrad VSHI 3/14,single,NA,adult,2,1,0,1,0,1,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+257,Donetsk-Luhansk,Voroshilovgrad VSHI,Luhansk,Luhansk,3,15,Voroshilovgrad VSHI 3/15,single,NA,adult,NA,NA,0,0,0,1,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+258,Donetsk-Luhansk,Voroshilovgrad VSHI,Luhansk,Luhansk,3,16,Voroshilovgrad VSHI 3/16,cenotaph,NA,NA,NA,NA,0,0,0,1,0,0,NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,1,0,1,1
+259,Donetsk-Luhansk,Voroshilovgrad VSHI,Luhansk,Luhansk,3,18,Voroshilovgrad VSHI 3/18,single,NA,juvenile,2,1,0,1,0,0,0,0,NA,NA,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+260,Donetsk-Luhansk,Voroshilovgrad VSHI,Luhansk,Luhansk,3,19,Voroshilovgrad VSHI 3/19,single,NA,NA,2,5,0,1,0,0,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+261,Donetsk-Luhansk,Voroshilovgrad VSHI,Luhansk,Luhansk,5,2,Voroshilovgrad VSHI 5/2,single,NA,adult,NA,NA,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+262,Donetsk-Luhansk,Voroshilovgrad VSHI,Luhansk,Luhansk,5,4,Voroshilovgrad VSHI 5/4,single,NA,adult,NA,NA,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+263,Donetsk-Luhansk,Zhitenko,Amvrosyevka,Donetsk,2,3,Zhitenko 2/3,single,NA,adult,NA,NA,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+264,Donetsk-Luhansk,Zhitenko,Amvrosyevka,Donetsk,4,2,Zhitenko 4/2,single,NA,adult,2,1,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+265,Donetsk-Luhansk,Znamianka,Antratsyt,Luhansk,1,5,Znamianka 1/5,single,NA,adult,2,1,0,1,1,0,0,1,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+266,Donetsk-Luhansk,Znamianka,Antratsyt,Luhansk,1,9,Znamianka 1/9,single,NA,adult,2,1,0,0,0,0,0,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+267,Donetsk-Luhansk,Znamianka,Antratsyt,Luhansk,2,3,Znamianka 2/3,single,NA,juvenile,NA,NA,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+268,Donetsk-Luhansk,Znamianka,Antratsyt,Luhansk,2,7,Znamianka 2/7,single,NA,NA,2,2,0,1,1,0,0,0,NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+269,Ingul,Bilogradovka,Bashtankiy,Mykolaiv,*,7,Bilogradovka */7,single,NA,adult,NA,NA,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+270,Ingul,Bilogradovka,Bashtankiy,Mykolaiv,*,9,Bilogradovka */9,single,NA,adult,2,2,0,0,0,1,0,0,NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+271,Ingul,Bilogradovka,Bashtankiy,Mykolaiv,*,10,Bilogradovka */10,single,NA,NA,2,2,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+272,Ingul,Bilogradovka,Bashtankiy,Mykolaiv,*,13,Bilogradovka */13,single,NA,adult,2,1,0,0,0,1,0,1,0,0,1,1,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+273,Ingul,Bilogradovka,Bashtankiy,Mykolaiv,*,17,Bilogradovka */17,single,NA,adult,3,3,1,1,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+274,Ingul,Bilogradovka,Bashtankiy,Mykolaiv,*,20,Bilogradovka */20,single,NA,NA,2,2,0,0,0,1,0,1,NA,NA,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+275,Ingul,Bilogradovka,Bashtankiy,Mykolaiv,*,23,Bilogradovka */23,single,NA,adult,3,3,1,1,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+276,Ingul,Bilogradovka,Bashtankiy,Mykolaiv,*,28,Bilogradovka */28,single,NA,adult,2,4,0,1,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+277,Ingul,Kristoforovka,Bashtankiy,Mykolaiv,1,3,Kristoforovka 1/3,single,NA,adult,2,2,0,0,0,0,0,1,0,0,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+278,Ingul,Kristoforovka,Bashtankiy,Mykolaiv,1,4,Kristoforovka 1/4,single,NA,NA,NA,NA,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+279,Ingul,Kristoforovka,Bashtankiy,Mykolaiv,1,5,Kristoforovka 1/5,single,NA,adult,NA,NA,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+280,Ingul,Kristoforovka,Bashtankiy,Mykolaiv,1,6,Kristoforovka 1/6,single,NA,juvenile,3,3,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+281,Ingul,Kristoforovka,Bashtankiy,Mykolaiv,1,7,Kristoforovka 1/7,single,NA,NA,2,2,0,1,0,1,0,1,NA,NA,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0
+282,Ingul,Kristoforovka,Bashtankiy,Mykolaiv,1,8,Kristoforovka 1/8,single,NA,NA,2,2,0,1,0,1,0,1,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+283,Ingul,Kristoforovka,Bashtankiy,Mykolaiv,1,9,Kristoforovka 1/9,single,NA,adult,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+284,Ingul,Kristoforovka,Bashtankiy,Mykolaiv,1,10,Kristoforovka 1/10,single,NA,adult,2,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+285,Ingul,Kristoforovka,Bashtankiy,Mykolaiv,1,12,Kristoforovka 1/12,single,NA,adult,2,2,0,1,0,0,0,0,3,NA,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+286,Ingul,Kristoforovka,Bashtankiy,Mykolaiv,1,18,Kristoforovka 1/18,cenotaph,NA,NA,NA,NA,0,0,0,0,0,1,NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+287,Ingul,Kristoforovka,Bashtankiy,Mykolaiv,3,3,Kristoforovka 3/3,single,NA,adult,2,4,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+288,Ingul,Kristoforovka,Bashtankiy,Mykolaiv,6,7,Kristoforovka 6/7,single,NA,adult,2,4,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+289,Ingul,Kristoforovka,Bashtankiy,Mykolaiv,6,16,Kristoforovka 6/16,single,NA,adult,2,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+290,Ingul,Kristoforovka,Bashtankiy,Mykolaiv,7,4,Kristoforovka 7/4,single,NA,adult,2,2,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+291,Ingul,Kristoforovka,Bashtankiy,Mykolaiv,7,8,Kristoforovka 7/8,single,NA,NA,NA,NA,0,0,0,0,0,0,NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+292,Ingul,Kristoforovka,Bashtankiy,Mykolaiv,7,13,Kristoforovka 7/13,single,NA,adult,2,1,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+293,Ingul,Kristoforovka,Bashtankiy,Mykolaiv,8,3,Kristoforovka 8/3,single,NA,juvenile,3,3,0,1,0,0,0,1,1,1,1,0,0,2,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+294,Ingul,Kristoforovka,Bashtankiy,Mykolaiv,8,4,Kristoforovka 8/4,single,NA,adult,NA,NA,0,1,1,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+295,Ingul,Kristoforovka,Bashtankiy,Mykolaiv,8,5,Kristoforovka 8/5,single,NA,NA,2,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+296,Ingul,Kristoforovka,Bashtankiy,Mykolaiv,8,6,Kristoforovka 8/6,single,NA,juvenile,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+297,Ingul,Konstantynovka,Bashtankiy,Mykolaiv,1,8,Konstantynovka 1/8,twin,NA,NA,3,3,0,1,0,1,0,1,NA,NA,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+298,Ingul,Konstantynovka,Bashtankiy,Mykolaiv,1,9.10,Konstantynovka 1/9.10,single,NA,adult,2,1,0,1,0,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+299,Ingul,Konstantynovka,Bashtankiy,Mykolaiv,1,10,Konstantynovka 1/10,single,NA,adult,2,1,0,0,0,0,0,0,NA,NA,0,0,0,2,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+300,Ingul,Konstantynovka,Bashtankiy,Mykolaiv,2,2,Konstantynovka 2/2,single,NA,adult,NA,NA,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+301,Ingul,Konstantynovka,Bashtankiy,Mykolaiv,8,1,Konstantynovka 8/1,single,NA,adult,3,3,0,0,0,0,0,1,1,1,0,0,0,2,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+302,Ingul,Konstantynovka,Bashtankiy,Mykolaiv,8,4,Konstantynovka 8/4,single,NA,NA,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+303,Ingul,Konstantynovka,Bashtankiy,Mykolaiv,8,5,Konstantynovka 8/5,single,NA,adult,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+304,Ingul,Konstantynovka,Bashtankiy,Mykolaiv,8,7,Konstantynovka 8/7,single,NA,adult,3,3,0,1,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+305,Ingul,Konstantynovka,Bashtankiy,Mykolaiv,8,25,Konstantynovka 8/25,single,NA,adult,2,3,0,1,1,0,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+306,Ingul,Konstantynovka,Bashtankiy,Mykolaiv,8,26,Konstantynovka 8/26,single,NA,adult,3,3,0,1,0,0,0,0,1,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+307,Ingul,Konstantynovka,Bashtankiy,Mykolaiv,9,3,Konstantynovka 9/3,cenotaph,NA,NA,NA,NA,0,0,0,0,0,0,NA,NA,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+308,Ingul,Konstantynovka,Bashtankiy,Mykolaiv,9,4,Konstantynovka 9/4,twin,NA,NA,2,1,0,1,0,0,0,0,NA,NA,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+309,Ingul,Konstantynovka,Bashtankiy,Mykolaiv,9,6,Konstantynovka 9/6,single,NA,NA,NA,NA,0,0,0,0,0,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+310,Ingul,Konstantynovka,Bashtankiy,Mykolaiv,12,8,Konstantynovka 12/8,twin,female,NA,NA,NA,0,0,0,0,0,1,NA,NA,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+311,Ingul,Konstantynovka,Bashtankiy,Mykolaiv,12,9,Konstantynovka 12/9,single,NA,NA,NA,NA,0,0,0,0,0,1,NA,NA,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+312,Ingul,Konstantynovka,Bashtankiy,Mykolaiv,12,10,Konstantynovka 12/10,single,NA,NA,NA,NA,0,0,0,1,0,0,NA,NA,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+313,Ingul,Konstantynovka,Bashtankiy,Mykolaiv,12,14,Konstantynovka 12/14,single,NA,NA,2,1,0,1,0,0,0,0,NA,NA,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+314,Ingul,Konstantynovka,Bashtankiy,Mykolaiv,12,17,Konstantynovka 12/17,single,NA,NA,2,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+315,Ingul,Konstantynovka,Bashtankiy,Mykolaiv,12,20,Konstantynovka 12/20,single,NA,NA,2,2,0,0,1,1,0,1,NA,NA,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+316,Ingul,Konstantynovka,Bashtankiy,Mykolaiv,13,6,Konstantynovka 13/6,single,NA,NA,NA,NA,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+317,Ingul,Konstantynovka,Bashtankiy,Mykolaiv,13,"8,9","Konstantynovka 13/8,9",single,NA,adult,2,4,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+318,Ingul,Konstantynovka,Bashtankiy,Mykolaiv,13,9,Konstantynovka 13/9,single,NA,NA,2,4,0,1,0,0,0,0,NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+319,Ingul,Konstantynovka,Bashtankiy,Mykolaiv,13,12,Konstantynovka 13/12,single,NA,juvenile,2,5,0,1,0,1,0,1,NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+320,Ingul,Konstantynovka,Bashtankiy,Mykolaiv,13,14,Konstantynovka 13/14,single,NA,adult,NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+321,Ingul,Konstantynovka,Bashtankiy,Mykolaiv,15,4,Konstantynovka 15/4,single,NA,juvenile,2,1,0,1,0,0,0,1,NA,NA,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+322,Ingul,Konstantynovka,Bashtankiy,Mykolaiv,15,5,Konstantynovka 15/5,single,NA,NA,NA,NA,0,0,0,0,0,0,NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+323,Ingul,Konstantynovka,Bashtankiy,Mykolaiv,15,6,Konstantynovka 15/6,single,NA,adult,NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+324,Ingul,Limantsy Gorodska mogila,Snigirevskiy,Mykolaiv,1,5,Limantsy Gorodska mogila 1/5,single,NA,NA,NA,NA,0,0,0,0,0,0,NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+325,Ingul,Limantsy Gorodska mogila,Snigirevskiy,Mykolaiv,1,15,Limantsy Gorodska mogila 1/15,twin,NA,NA,2,1,0,0,0,0,0,0,NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+326,Ingul,Limantsy Gorodska mogila,Snigirevskiy,Mykolaiv,1,17,Limantsy Gorodska mogila 1/17,single,NA,adult,2,1,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+327,Ingul,Limantsy Gorodska mogila,Snigirevskiy,Mykolaiv,1,19,Limantsy Gorodska mogila 1/19,collective,NA,NA,2,1,0,1,1,0,0,0,NA,NA,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+328,Ingul,Limantsy Gorodska mogila,Snigirevskiy,Mykolaiv,1,20,Limantsy Gorodska mogila 1/20,single,NA,adult,2,1,0,1,1,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0
+329,Ingul,Limantsy Gorodska mogila,Snigirevskiy,Mykolaiv,1,21,Limantsy Gorodska mogila 1/21,single,NA,adult,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0
+330,Ingul,Limantsy Gorodska mogila,Snigirevskiy,Mykolaiv,1,26,Limantsy Gorodska mogila 1/26,twin,NA,NA,2,2,0,1,0,1,0,0,NA,NA,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+331,Ingul,Limantsy II,Snigirevskiy,Mykolaiv,7,5,Limantsy II 7/5,single,NA,adult,2,1,0,1,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+332,Ingul,Limantsy II,Snigirevskiy,Mykolaiv,7,9,Limantsy II 7/9,single,NA,adult,2,1,0,1,0,1,0,2,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+333,Ingul,Limantsy II,Snigirevskiy,Mykolaiv,7,10,Limantsy II 7/10,single,NA,NA,2,3,0,1,1,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+334,Ingul,Limantsy II,Snigirevskiy,Mykolaiv,7,11,Limantsy II 7/11,single,NA,adult,2,2,0,1,1,1,0,0,0,0,1,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+335,Ingul,Novorozanovka,Novobugskiy,Mykolaiv,2,8,Novorozanovka 2/8,single,NA,adult,NA,NA,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+336,Ingul,Novorozanovka,Novobugskiy,Mykolaiv,2,12,Novorozanovka 2/12,cenotaph,NA,NA,NA,NA,0,0,0,0,0,1,NA,NA,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+337,Ingul,Novorozanovka,Novobugskiy,Mykolaiv,2,14,Novorozanovka 2/14,single,NA,adult,NA,NA,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+338,Ingul,Novorozanovka,Novobugskiy,Mykolaiv,2,15,Novorozanovka 2/15,single,NA,adult,NA,NA,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+339,Ingul,Novorozanovka,Novobugskiy,Mykolaiv,2,16,Novorozanovka 2/16,single,NA,adult,NA,NA,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+340,Ingul,Novorozanovka,Novobugskiy,Mykolaiv,2,17,Novorozanovka 2/17,single,NA,NA,NA,NA,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+341,Ingul,Novorozanovka,Novobugskiy,Mykolaiv,2,18,Novorozanovka 2/18,single,NA,adult,NA,NA,0,0,0,1,0,1,NA,NA,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+342,Ingul,Otradnoye,Bashtankiy,Mykolaiv,1,15a,Otradnoye 1/15a,single,NA,adult,NA,NA,0,0,0,0,0,1,0,0,1,1,1,0,0,0,1,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+343,Ingul,Otradnoye,Bashtankiy,Mykolaiv,1,16,Otradnoye 1/16,single,NA,adult,NA,NA,0,0,0,1,0,1,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+344,Ingul,Otradnoye,Bashtankiy,Mykolaiv,1,18,Otradnoye 1/18,single,NA,adult,NA,NA,0,0,0,1,0,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+345,Ingul,Otradnoye,Bashtankiy,Mykolaiv,22,13,Otradnoye 22/13,single,NA,adult,NA,NA,0,0,0,0,0,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+346,Ingul,Otradnoye,Bashtankiy,Mykolaiv,22,19,Otradnoye 22/19,single,male,adult,NA,NA,0,0,0,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+347,Ingul,Otradnoye,Bashtankiy,Mykolaiv,22,20,Otradnoye 22/20,single,NA,adult,NA,NA,0,0,0,1,0,1,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+348,Ingul,Otradnoye,Bashtankiy,Mykolaiv,22,24,Otradnoye 22/24,single,NA,adult,2,2,0,0,1,0,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+349,Ingul,Otradnoye,Bashtankiy,Mykolaiv,25,8,Otradnoye 25/8,single,NA,adult,2,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+350,Ingul,Otradnoye,Bashtankiy,Mykolaiv,25,9,Otradnoye 25/9,single,NA,NA,NA,NA,0,0,0,0,0,1,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+351,Ingul,Otradnoye,Bashtankiy,Mykolaiv,25,10,Otradnoye 25/10,single,NA,adult,NA,NA,0,0,0,1,0,0,NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+352,Ingul,Otradnoye,Bashtankiy,Mykolaiv,25,11,Otradnoye 25/11,single,NA,adult,2,4,0,1,0,1,0,1,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+353,Ingul,Otradnoye,Bashtankiy,Mykolaiv,26,7,Otradnoye 26/7,single,NA,NA,NA,NA,0,0,0,1,0,1,0,0,0,0,0,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+354,Ingul,Otradnoye,Bashtankiy,Mykolaiv,26,8,Otradnoye 26/8,single,NA,adult,3,3,0,1,0,1,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+355,Ingul,Otradnoye,Bashtankiy,Mykolaiv,26,10,Otradnoye 26/10,single,NA,adult,NA,NA,0,0,0,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+356,Ingul,Otradnoye,Bashtankiy,Mykolaiv,28,6,Otradnoye 28/6,twin,NA,NA,3,3,0,1,0,0,0,0,NA,NA,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+357,Ingul,Otradnoye,Bashtankiy,Mykolaiv,28,7,Otradnoye 28/7,single,NA,adult,NA,NA,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+358,Ingul,Otradnoye,Bashtankiy,Mykolaiv,28,8,Otradnoye 28/8,single,NA,adult,2,2,0,0,0,1,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+359,Ingul,Otradnoye,Bashtankiy,Mykolaiv,28,9,Otradnoye 28/9,single,NA,adult,3,3,0,1,0,1,0,0,NA,NA,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+360,Ingul,Otradnoye,Bashtankiy,Mykolaiv,28,10,Otradnoye 28/10,single,NA,adult,3,3,0,1,1,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+361,Ingul,Otradnoye,Bashtankiy,Mykolaiv,28,11,Otradnoye 28/11,single,male,adult,3,3,0,0,0,0,0,1,0,0,0,0,0,2,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+362,Ingul,Otradnoye,Bashtankiy,Mykolaiv,28,12,Otradnoye 28/12,single,NA,adult,2,2,0,1,0,0,0,1,NA,NA,1,0,0,2,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+363,Ingul,Otradnoye,Bashtankiy,Mykolaiv,28,15,Otradnoye 28/15,single,NA,juvenile,NA,NA,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+364,Ingul,Otradnoye,Bashtankiy,Mykolaiv,28,17,Otradnoye 28/17,single,NA,juvenile,2,2,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+365,Ingul,Otradnoye,Bashtankiy,Mykolaiv,36,8,Otradnoye 36/8,single,NA,adult,3,3,1,0,1,1,0,0,NA,NA,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+366,Ingul,Otradnoye,Bashtankiy,Mykolaiv,36,18,Otradnoye 36/18,single,NA,adult,2,2,0,0,1,0,0,0,0,0,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+367,Ingul,Otradnoye,Bashtankiy,Mykolaiv,36,23,Otradnoye 36/23,single,NA,NA,3,3,0,1,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+368,Ingul,Otradnoye,Bashtankiy,Mykolaiv,36,24,Otradnoye 36/24,single,NA,adult,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+369,Ingul,Otradnoye,Bashtankiy,Mykolaiv,36,26,Otradnoye 36/26,single,NA,adult,3,3,0,1,0,1,0,1,0,1,1,0,0,2,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+370,Ingul,Otradnoye,Bashtankiy,Mykolaiv,1,4,Otradnoye 1/4,single,NA,adult,NA,NA,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+371,Ingul,Otradnoye,Bashtankiy,Mykolaiv,1,12,Otradnoye 1/12,single,NA,adult,2,2,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+372,Ingul,Otradnoye,Bashtankiy,Mykolaiv,1,15b,Otradnoye 1/15b,single,NA,adult,3,3,0,1,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+373,Ingul,Otradnoye,Bashtankiy,Mykolaiv,1,19,Otradnoye 1/19,single,NA,adult,2,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,1,1
+374,Ingul,Pelageevka,Novobugskiy,Mykolaiv,1,4,Pelageevka 1/4,single,NA,adult,NA,NA,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+375,Ingul,Pelageevka,Novobugskiy,Mykolaiv,1,12,Pelageevka 1/12,single,NA,adult,2,2,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+376,Ingul,Pelageevka,Novobugskiy,Mykolaiv,1,15,Pelageevka 1/15,single,NA,adult,3,3,0,1,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+377,Ingul,Pelageevka,Novobugskiy,Mykolaiv,1,19,Pelageevka 1/19,single,NA,NA,2,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,1,1
+378,Ingul,Pieski,Bashtankiy,Mykolaiv,1,3,Pieski 1/3,single,NA,adult,NA,NA,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+379,Ingul,Pieski,Bashtankiy,Mykolaiv,1,4,Pieski 1/4,single,NA,adult,NA,NA,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+380,Ingul,Pieski,Bashtankiy,Mykolaiv,4,8,Pieski 4/8,single,NA,adult,NA,NA,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+381,Ingul,Pieski,Bashtankiy,Mykolaiv,6,6,Pieski 6/6,single,NA,NA,NA,NA,0,0,0,0,0,0,NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+382,Ingul,Pieski,Bashtankiy,Mykolaiv,6,10,Pieski 6/10,single,NA,NA,2,1,0,1,1,0,0,0,NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+383,Ingul,Pieski,Bashtankiy,Mykolaiv,6,12,Pieski 6/12,single,NA,NA,3,3,0,0,0,0,0,1,NA,NA,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+384,Ingul,Pieski,Bashtankiy,Mykolaiv,6,15,Pieski 6/15,single,NA,adult,2,1,0,0,1,0,0,0,3,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+385,Ingul,Pieski,Bashtankiy,Mykolaiv,7,4,Pieski 7/4,twin,NA,NA,2,1,0,0,0,0,0,0,NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+386,Ingul,Pieski,Bashtankiy,Mykolaiv,8,6,Pieski 8/6,cenotaph,NA,NA,2,1,0,0,1,0,0,0,NA,NA,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+387,Ingul,Privolnoie,Bashtankiy,Mykolaiv,1,2,Privolnoie 1/2,twin,NA,NA,2,1,0,0,1,0,0,1,NA,NA,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+388,Ingul,Privolnoie,Bashtankiy,Mykolaiv,1,3,Privolnoie 1/3,single,NA,NA,2,1,0,1,1,0,0,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+389,Ingul,Privolnoie,Bashtankiy,Mykolaiv,1,16(18),Privolnoie 1/16(18),twin,NA,NA,2,1,0,0,0,0,0,1,NA,NA,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+390,Ingul,Privolnoie,Bashtankiy,Mykolaiv,1,21(23),Privolnoie 1/21(23),cenotaph,NA,NA,2,1,0,1,1,0,0,0,NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+391,Ingul,Privolnoie,Bashtankiy,Mykolaiv,1,23(26),Privolnoie 1/23(26),single,NA,juvenile,2,1,0,0,1,0,0,1,1,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+392,Ingul,Privolnoie,Bashtankiy,Mykolaiv,1,28(30),Privolnoie 1/28(30),single,female,adult,2,1,0,1,1,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+393,Ingul,Privolnoie,Bashtankiy,Mykolaiv,2,10,Privolnoie 2/10,twin,NA,NA,2,1,0,1,1,0,0,1,NA,NA,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+394,Ingul,Privolnoie,Bashtankiy,Mykolaiv,2,26,Privolnoie 2/26,single,male,adult,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+395,Ingul,Privolnoie,Bashtankiy,Mykolaiv,2,27,Privolnoie 2/27,twin,NA,NA,2,1,0,0,0,2,0,1,NA,NA,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+396,Ingul,Privolnoie,Bashtankiy,Mykolaiv,4,8,Privolnoie 4/8,single,NA,adult,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+397,Ingul,Privolnoie,Bashtankiy,Mykolaiv,4,25,Privolnoie 4/25,single,NA,adult,NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+398,Ingul,Privolnoie,Bashtankiy,Mykolaiv,4,29,Privolnoie 4/29,single,NA,adult,2,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+399,Ingul,Sofievka,Bashtankiy,Mykolaiv,1,10,Sofievka 1/10,single,NA,adult,NA,NA,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+400,Ingul,Sofievka,Bashtankiy,Mykolaiv,1,12,Sofievka 1/12,single,NA,NA,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+401,Ingul,Sokolovka,Bashtankiy,Mykolaiv,1,23,Sokolovka 1/23,twin,NA,NA,2,1,0,0,1,0,0,0,NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+402,Ingul,Sokolovka,Bashtankiy,Mykolaiv,1,24,Sokolovka 1/24,single,NA,adult,NA,NA,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+403,Ingul,Sokolovka,Bashtankiy,Mykolaiv,1,28,Sokolovka 1/28,single,NA,adult,NA,NA,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+404,Ingul,Sokolovka,Bashtankiy,Mykolaiv,2,6,Sokolovka 2/6,cenotaph,NA,NA,3,3,0,1,1,0,0,1,NA,NA,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+405,Ingul,Sokolovka,Bashtankiy,Mykolaiv,2,14,Sokolovka 2/14,twin,NA,NA,2,2,0,1,0,0,0,0,NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+406,Ingul,Sokolovka,Bashtankiy,Mykolaiv,2,17,Sokolovka 2/17,single,NA,adult,3,3,0,1,0,1,0,1,0,0,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+407,Ingul,Sokolovka,Bashtankiy,Mykolaiv,2,20,Sokolovka 2/20,single,NA,adult,NA,NA,0,0,0,0,0,0,NA,NA,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+408,Ingul,Sokolovka,Bashtankiy,Mykolaiv,2,27,Sokolovka 2/27,single,NA,NA,2,4,0,1,0,1,0,0,NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+409,Ingul,Sokolovka,Bashtankiy,Mykolaiv,3,4,Sokolovka 3/4,single,NA,adult,2,5,0,0,1,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+410,Ingul,Sokolovka,Bashtankiy,Mykolaiv,3,14,Sokolovka 3/14,single,NA,NA,NA,NA,0,0,0,1,0,1,NA,NA,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+411,Ingul,Sokolovka,Bashtankiy,Mykolaiv,3,21,Sokolovka 3/21,single,NA,adult,NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+412,Ingul,Starorozanovka,Novobugskiy,Mykolaiv,1,5,Starorozanovka 1/5,single,NA,adult,NA,NA,0,0,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+413,Ingul,Starorozanovka,Novobugskiy,Mykolaiv,1,9,Starorozanovka 1/9,single,NA,NA,3,3,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0,1,1,0,0,1,0,0,0,0,0,0,0,0,1,1
+414,Ingul,Starogorozheno,Bashtankiy,Mykolaiv,1,10,Starogorozheno 1/10,collective,NA,NA,NA,NA,0,0,0,2,0,1,NA,NA,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1
+415,Ingul,Starogorozheno,Bashtankiy,Mykolaiv,1,23,Starogorozheno 1/23,single,NA,adult,3,3,0,1,0,1,0,0,0,1,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+416,Ingul,Starogorozheno,Bashtankiy,Mykolaiv,2,8,Starogorozheno 2/8,single,NA,juvenile,NA,NA,0,1,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+417,Ingul,Starogorozheno,Bashtankiy,Mykolaiv,2,19,Starogorozheno 2/19,single,NA,juvenile,NA,NA,0,1,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+418,Ingul,Starogorozheno,Bashtankiy,Mykolaiv,2,22,Starogorozheno 2/22,single,NA,juvenile,NA,NA,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+419,Ingul,Starogorozheno,Bashtankiy,Mykolaiv,2,23,Starogorozheno 2/23,single,NA,adult,2,5,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+420,Ingul,Starogorozheno,Bashtankiy,Mykolaiv,2,24,Starogorozheno 2/24,single,NA,adult,3,3,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+421,Ingul,Starogorozheno,Bashtankiy,Mykolaiv,3,4,Starogorozheno 3/4,twin,NA,NA,2,2,0,1,0,1,0,0,NA,NA,1,0,0,2,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+422,Ingul,Starogorozheno,Bashtankiy,Mykolaiv,3,14,Starogorozheno 3/14,twin,NA,NA,NA,NA,0,0,0,0,0,1,NA,NA,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+423,Ingul,Timofeevka,Snigirevskiy,Mykolaiv,4,9,Timofeevka 4/9,single,NA,adult,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+424,Ingul,Timofeevka,Snigirevskiy,Mykolaiv,4,12,Timofeevka 4/12,single,NA,NA,2,2,0,1,0,0,0,1,NA,NA,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+425,Ingul,Timofeevka,Snigirevskiy,Mykolaiv,4,14,Timofeevka 4/14,single,NA,NA,NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+426,Ingul,Timofeevka,Snigirevskiy,Mykolaiv,4,16,Timofeevka 4/16,single,NA,adult,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+427,Ingul,Timofeevka,Snigirevskiy,Mykolaiv,4,17,Timofeevka 4/17,single,NA,adult,3,3,0,0,0,0,0,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+428,Ingul,Timofeevka,Snigirevskiy,Mykolaiv,4,18,Timofeevka 4/18,single,NA,NA,2,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+429,Ingul,Timofeevka,Snigirevskiy,Mykolaiv,4,25,Timofeevka 4/25,single,NA,NA,2,2,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+430,Ingul,Timofeevka,Snigirevskiy,Mykolaiv,5,6,Timofeevka 5/6,twin,NA,NA,NA,NA,0,0,0,0,0,0,NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+431,Molochna,Iushanli,Vasylievka,Zaporozhe,1,*,Iushanli 1/*,single,NA,adult,2,1,0,1,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+432,Molochna,Iushanli,Vasylievka,Zaporozhe,8,2,Iushanli 8/2,single,NA,NA,2,4,0,1,0,0,0,0,NA,NA,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+433,Molochna,Akkermen I,Vasylievka,Zaporozhe,1,4,Akkermen I 1/4,single,NA,adult,2,5,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+434,Molochna,Akkermen I,Vasylievka,Zaporozhe,1,6,Akkermen I 1/6,single,female,adult,2,2,0,1,1,0,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+435,Molochna,Akkermen I,Vasylievka,Zaporozhe,1,7,Akkermen I 1/7,single,NA,adult,2,4,0,1,0,1,0,0,0,1,0,0,0,2,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+436,Molochna,Akkermen I,Vasylievka,Zaporozhe,3,1,Akkermen I 3/1,single,NA,juvenile,2,5,0,1,0,0,0,0,0,0,1,0,0,2,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+437,Molochna,Akkermen I,Vasylievka,Zaporozhe,3,1’,Akkermen I 3/1’,single,NA,juvenile,NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+438,Molochna,Akkermen I,Vasylievka,Zaporozhe,2,3,Akkermen I 2/3,single,NA,adult,2,1,0,0,0,1,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+439,Molochna,Akkermen I,Vasylievka,Zaporozhe,4,1,Akkermen I 4/1,single,NA,adult,2,4,0,1,0,1,0,0,0,1,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+440,Molochna,Akkermen I,Vasylievka,Zaporozhe,4,2,Akkermen I 4/2,single,NA,juvenile,2,4,0,1,0,0,0,1,1,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+441,Molochna,Akkermen I,Vasylievka,Zaporozhe,4,3,Akkermen I 4/3,single,NA,NA,NA,NA,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+442,Molochna,Akkermen I,Vasylievka,Zaporozhe,4,5,Akkermen I 4/5,collective,NA,NA,2,4,0,1,0,1,0,1,NA,NA,1,0,0,2,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+443,Molochna,Akkermen I,Vasylievka,Zaporozhe,5,3,Akkermen I 5/3,single,NA,adult,2,4,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+444,Molochna,Akkermen I,Vasylievka,Zaporozhe,6,1,Akkermen I 6/1,single,NA,juvenile,2,4,0,1,0,1,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+445,Molochna,Akkermen I,Vasylievka,Zaporozhe,6,3,Akkermen I 6/3,single,male,adult,2,4,0,1,0,1,0,1,0,1,1,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+446,Molochna,Akkermen I,Vasylievka,Zaporozhe,6,4,Akkermen I 6/4,single,NA,adult,2,2,0,0,0,1,0,0,NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+447,Molochna,Akkermen I,Vasylievka,Zaporozhe,7,1,Akkermen I 7/1,twin,NA,NA,NA,NA,0,0,0,1,0,1,NA,NA,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0
+448,Molochna,Akkermen I,Vasylievka,Zaporozhe,7,2,Akkermen I 7/2,single,NA,adult,2,5,0,1,1,0,0,0,0,1,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+449,Molochna,Akkermen I,Vasylievka,Zaporozhe,7,7,Akkermen I 7/7,twin,NA,NA,2,5,0,1,0,0,0,0,NA,NA,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+450,Molochna,Akkermen I,Vasylievka,Zaporozhe,9,4,Akkermen I 9/4,single,male,adult,3,3,0,1,0,0,0,1,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+451,Molochna,Akkermen I,Vasylievka,Zaporozhe,9,6,Akkermen I 9/6,single,male,adult,NA,NA,0,1,0,1,0,1,0,1,1,0,0,2,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1
+452,Molochna,Akkermen I,Vasylievka,Zaporozhe,11,1,Akkermen I 11/1,single,NA,NA,NA,NA,0,0,0,1,0,1,0,1,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+453,Molochna,Akkermen I,Vasylievka,Zaporozhe,11,2,Akkermen I 11/2,twin,NA,NA,3,3,0,0,0,1,0,0,NA,NA,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+454,Molochna,Akkermen I,Vasylievka,Zaporozhe,12,1,Akkermen I 12/1,single,male,adult,NA,NA,0,0,0,1,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+455,Molochna,Akkermen I,Vasylievka,Zaporozhe,12,3,Akkermen I 12/3,single,NA,adult,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+456,Molochna,Akkermen I,Vasylievka,Zaporozhe,12,5,Akkermen I 12/5,single,NA,adult,2,2,0,1,0,0,0,1,0,1,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+457,Molochna,Akkermen I,Vasylievka,Zaporozhe,14,4,Akkermen I 14/4,single,NA,juvenile,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+458,Molochna,Akkermen I,Vasylievka,Zaporozhe,14,6,Akkermen I 14/6,single,NA,juvenile,2,1,0,0,1,0,0,0,NA,NA,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+459,Molochna,Akkermen I,Vasylievka,Zaporozhe,14,7,Akkermen I 14/7,single,male,adult,2,1,0,0,0,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+460,Molochna,Akkermen I,Vasylievka,Zaporozhe,14,10,Akkermen I 14/10,single,female,adult,NA,NA,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+461,Molochna,Akkermen I,Vasylievka,Zaporozhe,17,1,Akkermen I 17/1,single,male,adult,2,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+462,Molochna,Akkermen I,Vasylievka,Zaporozhe,17,2,Akkermen I 17/2,twin,NA,NA,NA,NA,0,0,0,0,0,0,NA,NA,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+463,Molochna,Akkermen I,Vasylievka,Zaporozhe,17,3,Akkermen I 17/3,single,male,adult,NA,NA,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0
+464,Molochna,Akkermen I,Vasylievka,Zaporozhe,17,4,Akkermen I 17/4,single,male,adult,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0
+465,Molochna,Akkermen I,Vasylievka,Zaporozhe,18,2,Akkermen I 18/2,single,NA,adult,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+466,Molochna,Akkermen I,Vasylievka,Zaporozhe,18,3,Akkermen I 18/3,twin,NA,NA,3,3,0,1,1,0,0,1,NA,NA,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+467,Molochna,Akkermen I,Vasylievka,Zaporozhe,19,1,Akkermen I 19/1,collective,NA,NA,2,2,0,1,1,1,0,0,NA,NA,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+468,Molochna,Akkermen I,Vasylievka,Zaporozhe,20,1,Akkermen I 20/1,single,NA,NA,NA,NA,0,0,0,1,0,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+469,Molochna,Akkermen I,Vasylievka,Zaporozhe,20,2,Akkermen I 20/2,single,NA,NA,NA,NA,0,0,0,1,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+470,Molochna,Akkermen I,Vasylievka,Zaporozhe,20,5,Akkermen I 20/5,single,male,adult,NA,NA,0,0,0,1,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+471,Molochna,Akkermen II,Vasylievka,Zaporozhe,2,1,Akkermen II 2/1,single,NA,NA,NA,NA,0,0,0,1,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+472,Molochna,Akkermen II,Vasylievka,Zaporozhe,2,2,Akkermen II 2/2,single,NA,juvenile,NA,NA,0,0,0,0,0,1,NA,NA,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+473,Molochna,Akkermen II,Vasylievka,Zaporozhe,2,4,Akkermen II 2/4,single,NA,adult,NA,NA,0,0,0,0,0,0,NA,NA,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+474,Molochna,Akkermen II,Vasylievka,Zaporozhe,3,6,Akkermen II 3/6,single,NA,juvenile,NA,NA,0,0,0,0,0,1,NA,NA,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+475,Molochna,Akkermen II,Vasylievka,Zaporozhe,4,1,Akkermen II 4/1,single,NA,adult,NA,NA,0,0,0,0,0,1,0,1,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+476,Molochna,Dolina,Vasylievka,Zaporozhe,*,5,Dolina */5,single,NA,NA,NA,NA,0,0,0,0,0,1,NA,NA,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+477,Molochna,Novo-Pilipvika,Vasylievka,Zaporozhe,1,5,Novo-Pilipvika 1/5,single,NA,adult,NA,NA,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+478,Molochna,Novo-Pilipvika,Vasylievka,Zaporozhe,1,17,Novo-Pilipvika 1/17,single,NA,adult,NA,NA,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+479,Molochna,Novo-Pilipvika,Vasylievka,Zaporozhe,3,11,Novo-Pilipvika 3/11,single,NA,NA,NA,NA,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+480,Molochna,Novo-Pilipvika,Vasylievka,Zaporozhe,4,3,Novo-Pilipvika 4/3,single,NA,adult,2,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+481,Molochna,Troiskie,Vasylievka,Zaporozhe,2,3,Troiskie 2/3,single,female,adult,2,2,0,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+482,Molochna,Troiskie,Vasylievka,Zaporozhe,2,26,Troiskie 2/26,single,male,adult,2,4,1,1,1,1,0,1,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+483,Molochna,Troiskie,Vasylievka,Zaporozhe,3,1,Troiskie 3/1,single,male,adult,2,2,1,1,1,0,0,1,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+484,Molochna,Troiskie,Vasylievka,Zaporozhe,3,9,Troiskie 3/9,collective,NA,NA,2,2,0,0,1,0,0,1,NA,NA,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+485,Molochna,Troiskie,Vasylievka,Zaporozhe,3,11,Troiskie 3/11,twin,NA,NA,2,2,0,1,1,1,0,1,NA,NA,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+486,Molochna,Troiskie,Vasylievka,Zaporozhe,3,28,Troiskie 3/28,twin,NA,NA,2,2,0,1,0,0,0,0,NA,NA,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+487,Molochna,Troiskie,Vasylievka,Zaporozhe,4,20,Troiskie 4/20,single,NA,adult,2,1,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+488,Molochna,Troiskie,Vasylievka,Zaporozhe,4,22,Troiskie 4/22,single,male,adult,2,1,0,1,1,0,0,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+489,Molochna,Troiskie,Vasylievka,Zaporozhe,4,24,Troiskie 4/24,single,male,adult,1,0,0,0,0,1,0,0,NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+490,Molochna,Veliki Tokmak,Vasylievka,Zaporozhe,1,1,Veliki Tokmak 1/1,single,female,adult,2,5,1,1,1,0,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+491,Molochna,Veliki Tokmak,Vasylievka,Zaporozhe,1,"2,3","Veliki Tokmak 1/2,3",single,NA,NA,2,1,0,0,0,0,0,1,NA,NA,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+492,Molochna,Veliki Tokmak,Vasylievka,Zaporozhe,1,6,Veliki Tokmak 1/6,single,NA,adult,2,1,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+493,Molochna,Veliki Tokmak,Vasylievka,Zaporozhe,1,9,Veliki Tokmak 1/9,single,male,adult,2,1,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+494,Molochna,Veliki Tokmak,Vasylievka,Zaporozhe,1,10,Veliki Tokmak 1/10,single,male,adult,2,4,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+495,Molochna,Veliki Tokmak,Vasylievka,Zaporozhe,1,18,Veliki Tokmak 1/18,single,NA,adult,2,1,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+496,Molochna,Veliki Tokmak,Vasylievka,Zaporozhe,2,1,Veliki Tokmak 2/1,single,NA,adult,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+497,Molochna,Veliki Tokmak,Vasylievka,Zaporozhe,2,2,Veliki Tokmak 2/2,single,NA,adult,2,2,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+498,Molochna,Veliki Tokmak,Vasylievka,Zaporozhe,2,5,Veliki Tokmak 2/5,single,male,adult,2,5,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+499,Molochna,Veliki Tokmak,Vasylievka,Zaporozhe,2,10,Veliki Tokmak 2/10,single,NA,juvenile,2,5,0,0,1,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+500,Molochna,Veliki Tokmak,Vasylievka,Zaporozhe,2,13,Veliki Tokmak 2/13,single,male,adult,2,5,0,1,1,0,0,1,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+501,Molochna,Veliki Tokmak,Vasylievka,Zaporozhe,2,21,Veliki Tokmak 2/21,single,NA,adult,2,1,0,1,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+502,Molochna,Zamozhne,Vasylievka,Zaporozhe,1,3,Zamozhne 1/3,single,NA,NA,NA,NA,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+503,Molochna,Zamozhne,Vasylievka,Zaporozhe,2,7,Zamozhne 2/7,single,NA,adult,2,2,0,0,0,1,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+504,Molochna,Zamozhne,Vasylievka,Zaporozhe,2,8,Zamozhne 2/8,single,NA,adult,NA,NA,0,0,0,0,0,1,NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+505,Molochna,Zamozhne,Vasylievka,Zaporozhe,2,9,Zamozhne 2/9,single,NA,adult,NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+506,Molochna,Zamozhne,Vasylievka,Zaporozhe,3,3,Zamozhne 3/3,single,NA,adult,3,3,0,0,0,0,0,1,NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+507,Molochna,Zamozhne,Vasylievka,Zaporozhe,3,4,Zamozhne 3/4,single,NA,NA,NA,NA,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+508,Molochna,Zamozhne,Vasylievka,Zaporozhe,4,1,Zamozhne 4/1,single,NA,juvenile,NA,NA,0,0,0,0,0,0,NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1
+509,Molochna,Zamozhne,Vasylievka,Zaporozhe,4,5,Zamozhne 4/5,single,NA,adult,2,4,0,1,1,0,0,0,NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+510,Molochna,Zamozhne,Vasylievka,Zaporozhe,4,6,Zamozhne 4/6,single,NA,juvenile,2,1,0,1,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+511,Molochna,Zamozhne,Vasylievka,Zaporozhe,4,7,Zamozhne 4/7,twin,NA,NA,2,4,0,1,1,0,0,0,NA,NA,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+512,Molochna,Zamozhne,Vasylievka,Zaporozhe,5,1,Zamozhne 5/1,single,NA,adult,2,2,0,0,0,0,0,0,NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+513,Molochna,Zamozhne,Vasylievka,Zaporozhe,5,2,Zamozhne 5/2,single,male,adult,2,1,0,0,0,3,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0
+514,Molochna,Zamozhne,Vasylievka,Zaporozhe,5,4,Zamozhne 5/4,twin,NA,NA,2,1,0,0,0,0,0,1,NA,NA,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+515,Molochna,Zamozhne,Vasylievka,Zaporozhe,5,5,Zamozhne 5/5,single,male,adult,2,4,0,1,0,3,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+516,Molochna,Zamozhne,Vasylievka,Zaporozhe,5,6,Zamozhne 5/6,single,NA,adult,2,5,0,0,0,0,0,0,NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+517,Molochna,Zamozhne,Vasylievka,Zaporozhe,5,7,Zamozhne 5/7,single,male,adult,NA,NA,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0
+518,Molochna,Zamozhne,Vasylievka,Zaporozhe,6,2,Zamozhne 6/2,single,female,adult,NA,NA,0,0,0,0,0,1,NA,NA,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+519,Molochna,Zamozhne,Vasylievka,Zaporozhe,6,3,Zamozhne 6/3,single,male,adult,NA,NA,0,0,0,3,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0
+520,Molochna,Zamozhne,Vasylievka,Zaporozhe,7,1,Zamozhne 7/1,single,NA,juvenile,2,2,0,0,0,0,0,0,NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+521,Molochna,Zamozhne,Vasylievka,Zaporozhe,7,2,Zamozhne 7/2,single,NA,adult,NA,NA,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+522,Molochna,Zamozhne,Vasylievka,Zaporozhe,7,3,Zamozhne 7/3,single,NA,juvenile,2,1,0,0,1,3,0,1,NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+523,Molochna,Zamozhne,Vasylievka,Zaporozhe,7,5,Zamozhne 7/5,single,NA,NA,1,0,0,0,0,3,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+524,Molochna,Zamozhne,Vasylievka,Zaporozhe,8,0,Zamozhne 8/0,single,NA,adult,2,1,0,1,0,1,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+525,Orel-Samara,Aleksandrovka,Novomoskovsk,Dnepropetrovsk,2,3,Aleksandrovka 2/3,single,NA,adult,2,4,0,1,0,0,0,1,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+526,Orel-Samara,Aleksandrovka,Novomoskovsk,Dnepropetrovsk,2,4,Aleksandrovka 2/4,single,NA,adult,2,4,0,1,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+527,Orel-Samara,Aleksandrovka,Novomoskovsk,Dnepropetrovsk,2,6,Aleksandrovka 2/6,single,NA,adult,2,4,0,1,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+528,Orel-Samara,Aleksandrovka,Novomoskovsk,Dnepropetrovsk,2,7,Aleksandrovka 2/7,single,NA,juvenile,NA,NA,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+529,Orel-Samara,Aleksandrovka,Novomoskovsk,Dnepropetrovsk,9,4,Aleksandrovka 9/4,single,NA,juvenile,NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+530,Orel-Samara,Blagodatnoe IV,Pavlograd,Dnepropetrovsk,3,6,Blagodatnoe IV 3/6,single,NA,juvenile,2,2,0,1,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+531,Orel-Samara,Blagodatnoe IV,Pavlograd,Dnepropetrovsk,3,10,Blagodatnoe IV 3/10,single,NA,adult,2,1,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+532,Orel-Samara,Blagodatnoe IV,Pavlograd,Dnepropetrovsk,4,4,Blagodatnoe IV 4/4,single,NA,adult,2,4,0,1,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+533,Orel-Samara,Blagodatnoe IV,Pavlograd,Dnepropetrovsk,5,6,Blagodatnoe IV 5/6,single,NA,adult,2,1,0,1,0,0,0,1,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+534,Orel-Samara,Blagodatnoe IV,Pavlograd,Dnepropetrovsk,10,2,Blagodatnoe IV 10/2,single,NA,adult,2,2,0,0,0,0,0,1,0,1,0,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0
+535,Orel-Samara,Blagodatnoe IV,Pavlograd,Dnepropetrovsk,10,5,Blagodatnoe IV 10/5,single,NA,NA,NA,NA,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+536,Orel-Samara,Blagodatnoe IV,Pavlograd,Dnepropetrovsk,12,1,Blagodatnoe IV 12/1,single,NA,adult,2,1,0,0,0,0,0,2,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+537,Orel-Samara,Blagodatnoe IV,Pavlograd,Dnepropetrovsk,13,4,Blagodatnoe IV 13/4,single,NA,adult,2,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+538,Orel-Samara,Blagodatnoe IV,Pavlograd,Dnepropetrovsk,13,6,Blagodatnoe IV 13/6,collective,NA,NA,2,5,0,1,1,0,0,1,NA,NA,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+539,Orel-Samara,Blagodatnoe IV,Pavlograd,Dnepropetrovsk,13,7,Blagodatnoe IV 13/7,single,NA,adult,2,2,0,1,0,0,0,1,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+540,Orel-Samara,Blagodatnoe IV,Pavlograd,Dnepropetrovsk,13,11,Blagodatnoe IV 13/11,single,NA,adult,2,1,0,1,0,0,0,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0
+541,Orel-Samara,Blagodatnoe IV,Pavlograd,Dnepropetrovsk,13,12,Blagodatnoe IV 13/12,single,NA,adult,3,3,0,1,0,1,0,1,0,0,0,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+542,Orel-Samara,Blagodatnoe IV,Pavlograd,Dnepropetrovsk,13,14,Blagodatnoe IV 13/14,cenotaph,NA,NA,2,1,0,1,0,0,0,1,NA,NA,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+543,Orel-Samara,Blagodatnoe IV,Pavlograd,Dnepropetrovsk,13,15,Blagodatnoe IV 13/15,single,NA,adult,NA,NA,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+544,Orel-Samara,Blagodatnoe IV,Pavlograd,Dnepropetrovsk,13,16,Blagodatnoe IV 13/16,single,NA,adult,2,1,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+545,Orel-Samara,Blagodatnoe V,Pavlograd,Dnepropetrovsk,3,3,Blagodatnoe V 3/3,single,NA,adult,NA,NA,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+546,Orel-Samara,Blagodatnoe V,Pavlograd,Dnepropetrovsk,7,6,Blagodatnoe V 7/6,cenotaph,NA,NA,2,1,0,0,1,0,0,1,NA,NA,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+547,Orel-Samara,Blagodatnoe V,Pavlograd,Dnepropetrovsk,10,4,Blagodatnoe V 10/4,single,NA,juvenile,2,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+548,Orel-Samara,Buzovka,Charichanka,Dnepropetrovsk,1,1,Buzovka 1/1,single,NA,adult,2,1,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+549,Orel-Samara,Buzovka,Charichanka,Dnepropetrovsk,1,2,Buzovka 1/2,single,NA,adult,2,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+550,Orel-Samara,Buzovka,Charichanka,Dnepropetrovsk,1,3,Buzovka 1/3,single,NA,NA,2,1,0,1,1,0,0,0,NA,NA,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+551,Orel-Samara,Buzovka,Charichanka,Dnepropetrovsk,1,4,Buzovka 1/4,single,NA,adult,NA,NA,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+552,Orel-Samara,Buzovka,Charichanka,Dnepropetrovsk,1,5,Buzovka 1/5,single,NA,adult,2,1,0,0,1,0,0,0,1,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+553,Orel-Samara,Buzovka,Charichanka,Dnepropetrovsk,1,7,Buzovka 1/7,single,NA,adult,NA,NA,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+554,Orel-Samara,Buzovka,Charichanka,Dnepropetrovsk,2,4,Buzovka 2/4,cenotaph,NA,NA,NA,NA,0,0,0,0,0,0,NA,NA,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+555,Orel-Samara,Buzovka,Charichanka,Dnepropetrovsk,2,5,Buzovka 2/5,single,NA,juvenile,2,1,0,1,1,0,0,1,NA,NA,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+556,Orel-Samara,Buzovka,Charichanka,Dnepropetrovsk,2,10,Buzovka 2/10,single,NA,juvenile,2,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+557,Orel-Samara,Buzovka,Charichanka,Dnepropetrovsk,2,11,Buzovka 2/11,single,NA,adult,2,1,0,1,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+558,Orel-Samara,Buzovka,Charichanka,Dnepropetrovsk,2,16,Buzovka 2/16,single,NA,NA,NA,NA,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+559,Orel-Samara,Buzovka,Charichanka,Dnepropetrovsk,6,1,Buzovka 6/1,single,NA,adult,NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+560,Orel-Samara,Buzovka,Charichanka,Dnepropetrovsk,6,3,Buzovka 6/3,single,NA,juvenile,NA,NA,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+561,Orel-Samara,Buzovka,Charichanka,Dnepropetrovsk,6,6,Buzovka 6/6,single,NA,adult,2,1,0,1,0,0,0,0,NA,NA,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+562,Orel-Samara,Buzovka,Charichanka,Dnepropetrovsk,6,7,Buzovka 6/7,single,NA,adult,2,1,0,1,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+563,Orel-Samara,Buzovka,Charichanka,Dnepropetrovsk,8,1,Buzovka 8/1,single,NA,adult,2,1,0,1,1,0,0,0,NA,NA,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+564,Orel-Samara,Buzovka,Charichanka,Dnepropetrovsk,8,2,Buzovka 8/2,single,NA,NA,2,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+565,Orel-Samara,Buzovka,Charichanka,Dnepropetrovsk,8,3,Buzovka 8/3,single,NA,NA,NA,NA,0,0,0,0,0,0,NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+566,Orel-Samara,Dmukhaylovka XI,Magdalinovka,Dnepropetrovsk,1,6,Dmukhaylovka XI 1/6,single,NA,adult,2,1,0,0,0,0,0,1,NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+567,Orel-Samara,Dmukhaylovka XI,Magdalinovka,Dnepropetrovsk,1,9,Dmukhaylovka XI 1/9,cenotaph,NA,NA,2,2,0,0,0,0,0,0,NA,NA,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+568,Orel-Samara,Dmukhaylovka XI,Magdalinovka,Dnepropetrovsk,1,11,Dmukhaylovka XI 1/11,single,NA,NA,2,2,0,1,0,0,0,0,NA,NA,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+569,Orel-Samara,Dmukhaylovka XIII,Magdalinovka,Dnepropetrovsk,3,7,Dmukhaylovka XIII 3/7,single,NA,adult,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+570,Orel-Samara,Dmukhaylovka XIV,Magdalinovka,Dnepropetrovsk,2,10,Dmukhaylovka XIV 2/10,single,NA,juvenile,NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+571,Orel-Samara,Ignatovka,Pavlograd,Dnepropetrovsk,2,4,Ignatovka 2/4,cenotaph,NA,NA,2,1,0,1,0,0,0,0,NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+572,Orel-Samara,Ignatovka,Pavlograd,Dnepropetrovsk,2,5,Ignatovka 2/5,single,NA,adult,2,2,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+573,Orel-Samara,Ignatovka,Pavlograd,Dnepropetrovsk,2,7,Ignatovka 2/7,single,NA,adult,2,3,0,0,1,0,0,0,NA,NA,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+574,Orel-Samara,Ignatovka,Pavlograd,Dnepropetrovsk,2,8,Ignatovka 2/8,single,NA,adult,NA,NA,1,0,1,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+575,Orel-Samara,Ignatovka,Pavlograd,Dnepropetrovsk,2,9,Ignatovka 2/9,single,NA,juvenile,2,2,1,0,0,0,0,1,NA,NA,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+576,Orel-Samara,Ignatovka,Pavlograd,Dnepropetrovsk,6,3,Ignatovka 6/3,single,NA,adult,2,3,0,0,1,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+577,Orel-Samara,Ignatovka,Pavlograd,Dnepropetrovsk,6,5,Ignatovka 6/5,single,NA,adult,2,2,0,0,1,0,0,1,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+578,Orel-Samara,Ignatovka,Pavlograd,Dnepropetrovsk,6,8,Ignatovka 6/8,single,NA,adult,2,5,0,1,0,1,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+579,Orel-Samara,Ignatovka,Pavlograd,Dnepropetrovsk,6,9,Ignatovka 6/9,single,NA,NA,2,5,0,1,1,0,0,0,NA,NA,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+580,Orel-Samara,Ignatovka,Pavlograd,Dnepropetrovsk,6,10,Ignatovka 6/10,single,NA,adult,2,4,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+581,Orel-Samara,Ignatovka,Pavlograd,Dnepropetrovsk,6,13,Ignatovka 6/13,single,NA,NA,NA,NA,0,0,0,0,0,0,NA,NA,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+582,Orel-Samara,Ignatovka,Pavlograd,Dnepropetrovsk,6,14,Ignatovka 6/14,twin,NA,NA,3,3,0,1,0,0,0,1,NA,NA,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+583,Orel-Samara,Khashchevoe,Novomoskovsk,Dnepropetrovsk,2,1,Khashchevoe 2/1,single,NA,NA,3,3,0,1,1,0,0,1,NA,NA,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+584,Orel-Samara,Khashchevoe,Novomoskovsk,Dnepropetrovsk,2,6,Khashchevoe 2/6,single,NA,juvenile,2,1,0,1,0,0,0,1,NA,NA,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+585,Orel-Samara,Khashchevoe,Novomoskovsk,Dnepropetrovsk,2,7,Khashchevoe 2/7,single,NA,NA,3,3,0,1,0,0,0,1,NA,NA,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+586,Orel-Samara,Khashchevoe,Novomoskovsk,Dnepropetrovsk,2,9,Khashchevoe 2/9,single,NA,adult,2,2,0,1,1,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+587,Orel-Samara,Khashchevoe,Novomoskovsk,Dnepropetrovsk,3,7,Khashchevoe 3/7,single,NA,adult,2,2,1,1,1,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+588,Orel-Samara,Khashchevoe,Novomoskovsk,Dnepropetrovsk,3,8,Khashchevoe 3/8,single,NA,adult,2,1,0,1,1,1,0,1,NA,NA,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+589,Orel-Samara,Khashchevoe,Novomoskovsk,Dnepropetrovsk,5,7,Khashchevoe 5/7,single,NA,adult,2,1,0,1,1,0,0,0,NA,NA,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+590,Orel-Samara,Khashchevoe,Novomoskovsk,Dnepropetrovsk,5,8,Khashchevoe 5/8,single,NA,NA,2,5,0,1,1,0,0,1,NA,NA,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+591,Orel-Samara,Khashchevoe,Novomoskovsk,Dnepropetrovsk,5,11,Khashchevoe 5/11,single,NA,adult,2,1,0,1,1,0,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+592,Orel-Samara,Khashchevoe,Novomoskovsk,Dnepropetrovsk,5,16,Khashchevoe 5/16,single,NA,adult,2,1,1,1,1,0,0,1,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+593,Orel-Samara,Khashchevoe,Novomoskovsk,Dnepropetrovsk,5,17,Khashchevoe 5/17,cenotaph,NA,NA,2,5,0,1,1,1,0,1,NA,NA,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+594,Orel-Samara,Khashchevoe,Novomoskovsk,Dnepropetrovsk,5,28,Khashchevoe 5/28,single,NA,adult,2,1,0,1,1,0,0,1,NA,NA,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+595,Orel-Samara,Khashchevoe,Novomoskovsk,Dnepropetrovsk,6,6,Khashchevoe 6/6,single,NA,NA,2,2,0,1,1,0,0,0,NA,NA,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+596,Orel-Samara,Khashchevoe,Novomoskovsk,Dnepropetrovsk,6,9,Khashchevoe 6/9,single,NA,adult,2,3,0,1,1,0,0,0,NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+597,Orel-Samara,Khashchevoe,Novomoskovsk,Dnepropetrovsk,6,11,Khashchevoe 6/11,twin,NA,NA,2,1,0,1,1,0,0,0,NA,NA,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+598,Orel-Samara,Khashchevoe,Novomoskovsk,Dnepropetrovsk,6,20,Khashchevoe 6/20,single,NA,adult,2,2,1,1,1,0,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+599,Orel-Samara,Khashchevoe,Novomoskovsk,Dnepropetrovsk,6,22,Khashchevoe 6/22,single,NA,NA,2,5,0,0,0,0,0,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+600,Orel-Samara,Malaya Kozyrshchyna,Pavlograd,Dnepropetrovsk,7,2,Malaya Kozyrshchyna 7/2,single,NA,adult,NA,NA,1,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+601,Orel-Samara,Mykolaivka,Petropavlovka,Dnepropetrovsk,1,5,Mykolaivka 1/5,single,NA,adult,2,2,0,1,0,0,0,0,NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+602,Orel-Samara,Mykolaivka,Petropavlovka,Dnepropetrovsk,1,7,Mykolaivka 1/7,single,NA,adult,2,1,0,1,1,0,0,1,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+603,Orel-Samara,Mykolaivka,Petropavlovka,Dnepropetrovsk,4,2,Mykolaivka 4/2,single,NA,adult,2,3,0,1,1,0,0,0,NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+604,Orel-Samara,Mykolaivka,Petropavlovka,Dnepropetrovsk,4,4,Mykolaivka 4/4,single,NA,adult,2,4,0,1,1,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+605,Orel-Samara,Pryadovka,Charichanka,Dnepropetrovsk,4,6,Pryadovka 4/6,single,NA,NA,2,5,0,1,1,0,0,1,NA,NA,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+606,Orel-Samara,Pryadovka,Charichanka,Dnepropetrovsk,4,8,Pryadovka 4/8,single,NA,adult,3,3,1,1,1,0,0,0,NA,NA,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+607,Orel-Samara,Shandrovka I,Pavlograd,Dnepropetrovsk,1,6,Shandrovka I 1/6,single,NA,adult,2,2,0,1,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+608,Orel-Samara,Shandrovka I,Pavlograd,Dnepropetrovsk,1,7,Shandrovka I 1/7,cenotaph,NA,NA,3,3,0,1,0,1,0,1,NA,NA,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0
+609,Orel-Samara,Shandrovka I,Pavlograd,Dnepropetrovsk,1,8,Shandrovka I 1/8,single,NA,adult,2,2,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+610,Orel-Samara,Shandrovka I,Pavlograd,Dnepropetrovsk,1,10,Shandrovka I 1/10,single,NA,adult,NA,NA,0,0,0,0,0,0,1,1,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+611,Orel-Samara,Shandrovka III,Pavlograd,Dnepropetrovsk,1,1,Shandrovka III 1/1,single,NA,adult,NA,NA,0,0,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+612,Orel-Samara,Shandrovka III,Pavlograd,Dnepropetrovsk,1,4,Shandrovka III 1/4,single,NA,NA,2,2,0,1,0,0,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+613,Orel-Samara,Shandrovka III,Pavlograd,Dnepropetrovsk,1,5,Shandrovka III 1/5,single,NA,juvenile,1,0,0,0,0,1,0,1,NA,NA,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+614,Orel-Samara,Shandrovka III,Pavlograd,Dnepropetrovsk,1,6,Shandrovka III 1/6,single,NA,adult,NA,NA,0,0,0,0,0,1,NA,NA,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+615,Orel-Samara,Shandrovka III,Pavlograd,Dnepropetrovsk,1,8,Shandrovka III 1/8,single,NA,adult,NA,NA,0,0,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+616,Orel-Samara,Shandrovka III,Pavlograd,Dnepropetrovsk,1,9,Shandrovka III 1/9,single,NA,adult,NA,NA,0,0,0,0,0,1,NA,NA,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+617,Orel-Samara,Shandrovka III,Pavlograd,Dnepropetrovsk,1,10,Shandrovka III 1/10,single,NA,adult,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+618,Orel-Samara,Shandrovka III,Pavlograd,Dnepropetrovsk,1,11,Shandrovka III 1/11,single,NA,adult,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+619,Orel-Samara,Terny-Dolgaya mogila II,Pavlograd,Dnepropetrovsk,1,5,Terny-Dolgaya mogila II 1/5,single,NA,adult,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+620,Orel-Samara,Terny-Dolgaya mogila II,Pavlograd,Dnepropetrovsk,1,7,Terny-Dolgaya mogila II 1/7,single,NA,adult,1,0,0,1,0,0,0,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+621,Orel-Samara,Terny-Dolgaya mogila II,Pavlograd,Dnepropetrovsk,4.1,3,Terny-Dolgaya mogila II 4.1/3,twin,NA,NA,NA,NA,0,0,0,0,0,1,NA,NA,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+622,Orel-Samara,Terny-Dolgaya mogila II,Pavlograd,Dnepropetrovsk,4.1,4,Terny-Dolgaya mogila II 4.1/4,single,NA,juvenile,2,1,0,1,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0
+623,Orel-Samara,Terny-Dolgaya mogila II,Pavlograd,Dnepropetrovsk,4.1,5,Terny-Dolgaya mogila II 4.1/5,single,NA,adult,3,3,0,1,0,0,0,1,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+624,Orel-Samara,Terny-Dolgaya mogila II,Pavlograd,Dnepropetrovsk,4.1,6,Terny-Dolgaya mogila II 4.1/6,twin,NA,NA,2,1,0,1,0,3,0,1,NA,NA,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+625,Orel-Samara,Terny-Dolgaya mogila II,Pavlograd,Dnepropetrovsk,4.1,7,Terny-Dolgaya mogila II 4.1/7,single,NA,NA,3,3,0,1,0,0,0,1,NA,NA,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+626,Orel-Samara,Terny-Dolgaya mogila II,Pavlograd,Dnepropetrovsk,4.1,8,Terny-Dolgaya mogila II 4.1/8,single,NA,NA,3,3,0,1,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+627,Orel-Samara,Terny-Dolgaya mogila II,Pavlograd,Dnepropetrovsk,4.1,10,Terny-Dolgaya mogila II 4.1/10,single,male,adult,2,1,0,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+628,Orel-Samara,Terny-Dolgaya mogila II,Pavlograd,Dnepropetrovsk,4.1,11,Terny-Dolgaya mogila II 4.1/11,single,female,adult,2,2,0,1,1,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+629,Orel-Samara,Terny-Dolgaya mogila II,Pavlograd,Dnepropetrovsk,4.2,22,Terny-Dolgaya mogila II 4.2/22,single,NA,NA,2,2,0,1,0,0,0,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0
+630,Orel-Samara,Terny-Dolgaya mogila II,Pavlograd,Dnepropetrovsk,4.2,23,Terny-Dolgaya mogila II 4.2/23,single,NA,adult,2,3,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+631,Orel-Samara,Verbki,Pavlograd,Dnepropetrovsk,3,9,Verbki 3/9,single,NA,adult,2,3,0,1,1,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+632,Orel-Samara,Verkhnyaya Mayovka XII,Dnepropetrovsk,Dnepropetrovsk,1,3,Verkhnyaya Mayovka XII 1/3,single,NA,adult,2,2,0,0,0,1,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+633,Orel-Samara,Verkhnyaya Mayovka XII,Dnepropetrovsk,Dnepropetrovsk,1,4,Verkhnyaya Mayovka XII 1/4,single,NA,adult,3,3,0,1,0,1,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+634,Orel-Samara,Verkhnyaya Mayovka XII,Dnepropetrovsk,Dnepropetrovsk,1,20,Verkhnyaya Mayovka XII 1/20,single,NA,juvenile,2,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+635,Orel-Samara,Verkhnyaya Mayovka XII,Dnepropetrovsk,Dnepropetrovsk,1,22,Verkhnyaya Mayovka XII 1/22,single,NA,adult,3,3,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+636,Orel-Samara,Verkhnyaya Mayovka XII,Dnepropetrovsk,Dnepropetrovsk,1,23,Verkhnyaya Mayovka XII 1/23,single,NA,juvenile,NA,NA,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+637,Orel-Samara,Verkhnyaya Mayovka XII,Dnepropetrovsk,Dnepropetrovsk,2,13,Verkhnyaya Mayovka XII 2/13,single,NA,adult,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+638,Orel-Samara,Verkhnyaya Mayovka XIII,Dnepropetrovsk,Dnepropetrovsk,1,12,Verkhnyaya Mayovka XIII 1/12,single,NA,adult,2,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+639,Orel-Samara,Verkhnyaya Mayovka XIII,Dnepropetrovsk,Dnepropetrovsk,1,13,Verkhnyaya Mayovka XIII 1/13,single,NA,adult,2,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+640,Orel-Samara,Verkhnyaya Mayovka XIV,Dnepropetrovsk,Dnepropetrovsk,1,4,Verkhnyaya Mayovka XIV 1/4,single,NA,NA,2,4,0,1,1,0,0,0,NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+641,Orel-Samara,Verkhnyaya Mayovka XIV,Dnepropetrovsk,Dnepropetrovsk,1,7,Verkhnyaya Mayovka XIV 1/7,single,NA,adult,3,3,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+642,Orel-Samara,Verkhnyaya Mayovka XIV,Dnepropetrovsk,Dnepropetrovsk,1,12,Verkhnyaya Mayovka XIV 1/12,single,NA,adult,1,0,0,1,0,0,0,0,NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+643,Orel-Samara,Verkhnyaya Mayovka XIV,Dnepropetrovsk,Dnepropetrovsk,7,6,Verkhnyaya Mayovka XIV 7/6,single,NA,adult,2,1,0,1,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+644,Orel-Samara,Verkhnyaya Mayovka XIV,Dnepropetrovsk,Dnepropetrovsk,7,7,Verkhnyaya Mayovka XIV 7/7,single,NA,juvenile,2,2,0,1,0,0,0,1,3,NA,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+645,Orel-Samara,Verkhnyaya Mayovka XIV,Dnepropetrovsk,Dnepropetrovsk,7,9,Verkhnyaya Mayovka XIV 7/9,single,NA,adult,2,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+646,Orel-Samara,Verkhnyaya Mayovka XIV,Dnepropetrovsk,Dnepropetrovsk,7,10,Verkhnyaya Mayovka XIV 7/10,single,NA,adult,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+647,Orel-Samara,Verkhnyaya Mayovka XIV,Dnepropetrovsk,Dnepropetrovsk,7,11,Verkhnyaya Mayovka XIV 7/11,single,NA,adult,NA,NA,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+648,Orel-Samara,Verkhnyaya Mayovka XIV,Dnepropetrovsk,Dnepropetrovsk,10,2,Verkhnyaya Mayovka XIV 10/2,single,NA,adult,2,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+649,Orel-Samara,Verkhnyaya Mayovka XIV,Dnepropetrovsk,Dnepropetrovsk,10,4,Verkhnyaya Mayovka XIV 10/4,single,NA,adult,NA,NA,0,0,0,0,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+650,Orel-Samara,Verkhnyaya Mayovka XIV,Dnepropetrovsk,Dnepropetrovsk,1,8,Verkhnyaya Mayovka XIV 1/8,single,NA,adult,2,1,0,1,0,0,0,1,0,1,1,0,0,2,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+651,Orel-Samara,Verkhnyaya Mayovka XVIII,Dnepropetrovsk,Dnepropetrovsk,1,16,Verkhnyaya Mayovka XVIII 1/16,single,NA,NA,2,4,0,1,0,0,0,1,NA,NA,0,0,0,2,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+652,Orel-Samara,Verkhnyaya Mayovka XVIII,Dnepropetrovsk,Dnepropetrovsk,2,4,Verkhnyaya Mayovka XVIII 2/4,single,NA,NA,2,4,0,1,0,0,0,1,0,0,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+653,Orel-Samara,Verkhnyaya Mayovka XVIII,Dnepropetrovsk,Dnepropetrovsk,4,11,Verkhnyaya Mayovka XVIII 4/11,single,NA,adult,NA,NA,0,1,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+654,Orel-Samara,Verkhnyaya Mayovka XVIII,Dnepropetrovsk,Dnepropetrovsk,4,12,Verkhnyaya Mayovka XVIII 4/12,single,NA,adult,3,3,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+655,Verkhnetarasovka,Kislichuvata I,Tomakivka,Dnepropetrovsk,1,3,Kislichuvata I 1/3,single,NA,adult,2,1,0,1,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+656,Verkhnetarasovka,Kislichuvata I,Tomakivka,Dnepropetrovsk,13,5,Kislichuvata I 13/5,single,NA,juvenile,3,3,0,1,1,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+657,Verkhnetarasovka,Kislichuvata II,Tomakivka,Dnepropetrovsk,1,4,Kislichuvata II 1/4,single,NA,adult,2,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+658,Verkhnetarasovka,Kislichuvata II,Tomakivka,Dnepropetrovsk,4,5,Kislichuvata II 4/5,collective,NA,NA,2,2,0,1,0,0,0,0,NA,NA,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+659,Verkhnetarasovka,Kislichuvata II,Tomakivka,Dnepropetrovsk,4,8,Kislichuvata II 4/8,single,NA,adult,2,1,0,1,0,0,0,0,0,1,0,1,0,2,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+660,Verkhnetarasovka,Kislichuvata II,Tomakivka,Dnepropetrovsk,4,13,Kislichuvata II 4/13,single,NA,adult,2,1,0,1,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+661,Verkhnetarasovka,Kislichuvata II,Tomakivka,Dnepropetrovsk,4,14,Kislichuvata II 4/14,cenotaph,NA,NA,2,2,0,1,0,0,0,1,NA,NA,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+662,Verkhnetarasovka,Kislichuvata III,Tomakivka,Dnepropetrovsk,2,3,Kislichuvata III 2/3,single,NA,adult,2,2,0,1,0,0,0,1,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+663,Verkhnetarasovka,Kislichuvata III,Tomakivka,Dnepropetrovsk,2,4,Kislichuvata III 2/4,single,NA,adult,2,5,0,1,0,0,0,1,0,1,0,0,0,2,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+664,Verkhnetarasovka,Novyi Mir Rodina,Tomakivka,Dnepropetrovsk,2,3,Novyi Mir Rodina 2/3,twin,NA,NA,3,3,0,1,0,0,0,1,NA,NA,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+665,Verkhnetarasovka,Novyi Mir Rodina,Tomakivka,Dnepropetrovsk,2,6,Novyi Mir Rodina 2/6,single,NA,juvenile,2,2,0,1,0,0,0,1,1,1,1,0,0,2,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+666,Verkhnetarasovka,Novyi Mir Rodina,Tomakivka,Dnepropetrovsk,2,7,Novyi Mir Rodina 2/7,single,male,adult,3,3,0,1,0,0,0,1,0,0,1,0,0,2,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+667,Verkhnetarasovka,Novyi Mir Rodina,Tomakivka,Dnepropetrovsk,2,8,Novyi Mir Rodina 2/8,single,female,adult,2,2,0,1,0,0,0,1,0,1,0,0,0,2,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+668,Verkhnetarasovka,Novyi Mir Rodina,Tomakivka,Dnepropetrovsk,2,13,Novyi Mir Rodina 2/13,cenotaph,NA,NA,3,3,0,1,0,0,0,1,,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+669,Verkhnetarasovka,Pavlovka,Tomakivka,Dnepropetrovsk,*,2,Pavlovka */2,single,female,adult,2,2,0,1,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+670,Verkhnetarasovka,Pavlovka,Tomakivka,Dnepropetrovsk,*,5,Pavlovka */5,twin,female,NA,NA,NA,0,0,0,0,0,1,NA,NA,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+671,Verkhnetarasovka,Pavlovka,Tomakivka,Dnepropetrovsk,*,8,Pavlovka */8,single,NA,NA,3,3,1,1,0,0,0,1,1,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+672,Verkhnetarasovka,Pavlovka,Tomakivka,Dnepropetrovsk,*,11,Pavlovka */11,single,NA,adult,3,3,0,1,0,0,0,0,1,1,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+673,Verkhnetarasovka,Pavlovka,Tomakivka,Dnepropetrovsk,*,12,Pavlovka */12,collective,NA,NA,3,3,0,1,0,0,0,1,NA,NA,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+674,Verkhnetarasovka,Propashnoe,Tomakivka,Dnepropetrovsk,*,13,Propashnoe */13,single,NA,adult,2,5,0,1,1,0,0,0,NA,NA,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+675,Verkhnetarasovka,Propashnoe,Tomakivka,Dnepropetrovsk,*,15,Propashnoe */15,single,male,adult,2,4,0,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+676,Verkhnetarasovka,Propashnoe,Tomakivka,Dnepropetrovsk,*,16,Propashnoe */16,single,NA,adult,2,5,0,1,0,1,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+677,Verkhnetarasovka,Verkhnetarasovka,Tomakivka,Dnepropetrovsk,18,7,Verkhnetarasovka 18/7,single,NA,adult,NA,NA,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+678,Verkhnetarasovka,Verkhnetarasovka,Tomakivka,Dnepropetrovsk,19,1,Verkhnetarasovka 19/1,single,male,adult,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+679,Verkhnetarasovka,Verkhnetarasovka,Tomakivka,Dnepropetrovsk,19,4,Verkhnetarasovka 19/4,single,NA,juvenile,NA,NA,0,1,1,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0
+680,Verkhnetarasovka,Verkhnetarasovka,Tomakivka,Dnepropetrovsk,19,5,Verkhnetarasovka 19/5,single,NA,adult,2,3,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+681,Verkhnetarasovka,Verkhnetarasovka,Tomakivka,Dnepropetrovsk,19,8,Verkhnetarasovka 19/8,single,NA,adult,3,3,0,1,0,0,0,1,1,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+682,Verkhnetarasovka,Verkhnetarasovka,Tomakivka,Dnepropetrovsk,19,9,Verkhnetarasovka 19/9,single,NA,adult,NA,NA,0,0,0,0,0,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+683,Verkhnetarasovka,Verkhnetarasovka,Tomakivka,Dnepropetrovsk,19,10,Verkhnetarasovka 19/10,single,NA,adult,2,2,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+684,Verkhnetarasovka,Verkhnetarasovka,Tomakivka,Dnepropetrovsk,22,3,Verkhnetarasovka 22/3,twin,NA,NA,NA,NA,0,0,0,0,0,0,NA,NA,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+685,Verkhnetarasovka,Verkhnetarasovka,Tomakivka,Dnepropetrovsk,22,5,Verkhnetarasovka 22/5,single,male,adult,2,1,0,1,0,0,0,1,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+686,Verkhnetarasovka,Verkhnetarasovka,Tomakivka,Dnepropetrovsk,22,7,Verkhnetarasovka 22/7,single,NA,adult,2,1,0,1,0,0,0,1,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+687,Verkhnetarasovka,Verkhnetarasovka,Tomakivka,Dnepropetrovsk,22,13,Verkhnetarasovka 22/13,single,NA,NA,2,1,0,1,0,0,0,1,1,1,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+688,Verkhnetarasovka,Verkhnetarasovka,Tomakivka,Dnepropetrovsk,26,1,Verkhnetarasovka 26/1,collective,NA,NA,2,1,0,1,0,0,0,0,NA,NA,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+689,Verkhnetarasovka,Verkhnetarasovka,Tomakivka,Dnepropetrovsk,26,3,Verkhnetarasovka 26/3,single,NA,adult,2,1,0,1,0,0,0,1,1,1,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+690,Verkhnetarasovka,Verkhnetarasovka,Tomakivka,Dnepropetrovsk,52,8,Verkhnetarasovka 52/8,single,NA,adult,NA,NA,0,0,0,0,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+691,Verkhnetarasovka,Verkhnetarasovka,Tomakivka,Dnepropetrovsk,52,10,Verkhnetarasovka 52/10,single,NA,NA,2,1,0,1,0,0,0,1,0,0,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+692,Verkhnetarasovka,Verkhnetarasovka,Tomakivka,Dnepropetrovsk,52,11,Verkhnetarasovka 52/11,collective,NA,NA,2,1,0,0,0,0,0,1,NA,NA,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+693,Verkhnetarasovka,Verkhnetarasovka,Tomakivka,Dnepropetrovsk,52,13,Verkhnetarasovka 52/13,single,NA,juvenile,NA,NA,0,0,0,0,0,0,1,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+694,Verkhnetarasovka,Verkhnetarasovka,Tomakivka,Dnepropetrovsk,52,14,Verkhnetarasovka 52/14,cenotaph,NA,NA,NA,NA,0,0,0,0,0,0,NA,NA,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+695,Verkhnetarasovka,Verkhnetarasovka,Tomakivka,Dnepropetrovsk,52,16,Verkhnetarasovka 52/16,collective,NA,NA,NA,NA,0,0,0,0,0,0,NA,NA,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+696,Verkhnetarasovka,Verkhnetarasovka,Tomakivka,Dnepropetrovsk,57,6,Verkhnetarasovka 57/6,single,male,adult,2,1,0,1,0,0,0,1,2,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+697,Verkhnetarasovka,Verkhnetarasovka,Tomakivka,Dnepropetrovsk,57,7,Verkhnetarasovka 57/7,single,NA,adult,2,2,0,1,0,0,0,1,1,1,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+698,Verkhnetarasovka,Verkhnetarasovka,Tomakivka,Dnepropetrovsk,57,8,Verkhnetarasovka 57/8,single,NA,NA,2,4,0,1,0,0,0,0,NA,NA,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+699,Verkhnetarasovka,Verkhnetarasovka,Tomakivka,Dnepropetrovsk,57,10,Verkhnetarasovka 57/10,collective,NA,NA,2,5,0,0,1,0,0,1,NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+700,Verkhnetarasovka,Verkhnetarasovka,Tomakivka,Dnepropetrovsk,57,13,Verkhnetarasovka 57/13,single,NA,adult,2,1,0,1,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+701,Verkhnetarasovka,Verkhnetarasovka,Tomakivka,Dnepropetrovsk,57,14,Verkhnetarasovka 57/14,single,NA,adult,NA,NA,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+702,Verkhnetarasovka,Verkhnetarasovka,Tomakivka,Dnepropetrovsk,57,15,Verkhnetarasovka 57/15,single,NA,adult,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+703,Verkhnetarasovka,Verkhnetarasovka,Tomakivka,Dnepropetrovsk,57,18,Verkhnetarasovka 57/18,single,male,adult,NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
