@@ -105,6 +105,20 @@ kurgans_catacomb %<>%
                        `1` = "present",
                        `2` = "censer"))
 
+# Add approximate site coordinates
+read_csv("data-raw/kurgans_catacomb/kurgan_coordinates.csv",
+                               col_types = cols(
+                                 site = col_character(),
+                                 group = col_character(),
+                                 latitude = col_double(),
+                                 longitude = col_double()
+                               )) %>%
+  select(-group) %>%
+  right_join(kurgans_catacomb, by = "site") %>%
+  relocate(raion, oblast, latitude, longitude, .after = name) %>%
+  relocate(site, .after = group) ->
+  kurgans_catacomb
+
 # Export
 write_csv(kurgans_catacomb, "data-raw/kurgans_catacomb/kurgans_catacomb.csv")
 usethis::use_data(kurgans_catacomb, overwrite = TRUE)
