@@ -3,7 +3,7 @@
 \docType{data}
 \name{ceramics_lbk_merzbach}
 \alias{ceramics_lbk_merzbach}
-\title{Frequencies of different decorative motifs in the Merzbach assemblage, Neolithic Germany (Crema et al. 2016; many other papers)}
+\title{Decorative motifs in the Merzbach assemblage, Neolithic Germany \insertCite{Crema2016-cv}{evoarchdata}}
 \format{
 A data frame with 8 rows and 37 variables:
 \describe{
@@ -19,17 +19,29 @@ A data frame with 8 rows and 37 variables:
 ceramics_lbk_merzbach
 }
 \description{
-Thirty-six types of pottery motifs, grouped into 8 phases on the basis of a seriation of the pottery assemblages based on motif frequencies.
+Frequencies of 36 types of pottery motif, grouped into 8 phases on the basis
+of a seriation of the pottery assemblages based on motif frequencies.
 }
 \details{
-These data have been used in numerous publications. I only mention Crema et al. (2016) here because they are the only ones that make the raw data available.
+These data have been used in numerous publications. I only mention
+\insertCite{Crema2016-cv;textual}{evoarchdata} here because they are the only
+ones that make the raw data available.
 
-From Crema et al. (2016):
+From \insertCite{Crema2016-cv;textual}{evoarchdata}:
 
-"Over 5800 pottery vessels recovered from a small group of settlements of the first farmers in Central Europe in the valley of the Merzbach stream in western Germany. The settlements belong to the so-called Linearbandkeramik culture. The number of houses in occupation varied through time, but altogether the settlement and ceramic sequence covers nearly five centuries, from ca. 5300 to 4850 cal B.C. The sites were almost completely excavated prior to their destruction by lignite mining, so the archaeological record of what has survived is largely complete. The ceramic vessels take the form of deep bowls whose decoration is highly distinctive and stylised, comprising a variety of distinct but clearly related band-types that were defined by the original excavation team.
-
-References:
-
-Crema, E.R, Kandler, A., Shennan, S.J. "Revealing patterns of cultural transmission from frequency data: equilibrium and non-equilibrium assumptions." Sci. Rep. 6, 39122; doi: 10.1038/srep39122 (2016).
+Over 5800 pottery vessels recovered from a small group of settlements of
+the first farmers in Central Europe in the valley of the Merzbach stream in
+western Germany. The settlements belong to the so-called Linearbandkeramik
+culture. The number of houses in occupation varied through time, but
+altogether the settlement and ceramic sequence covers nearly five centuries,
+from ca. 5300 to 4850 cal B.C. The sites were almost completely excavated
+prior to their destruction by lignite mining, so the archaeological record
+of what has survived is largely complete. The ceramic vessels take the form
+of deep bowls whose decoration is highly distinctive and stylised,
+comprising a variety of distinct but clearly related band-types that were
+defined by the original excavation team.
+}
+\references{
+\insertAllCited{}
 }
 \keyword{datasets}

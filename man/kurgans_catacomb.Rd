@@ -3,7 +3,7 @@
 \docType{data}
 \name{kurgans_catacomb}
 \alias{kurgans_catacomb}
-\title{Kurgans of the Catacomb culture \insertCite{Slusarska2006-zc;textual}{evoarchdata}}
+\title{Kurgans of the Catacomb culture \insertCite{Slusarska2006-zc}{evoarchdata}}
 \format{
 A data frame with 703 rows and 56 variables:
 \describe{
@@ -38,16 +38,14 @@ burials (\emph{kurgans}) of the Bronze Age Catacomb culture of the West Eurasian
 steppe. Each row represents one burial, from 207 mounds across 82 sites.
 }
 \details{
-Originally compiled by \insertCite{Slusarska2006-zc;textual}{evoarchdata}. Transcribed and recoded for
-phylogenetic analysis by \insertCite{Roe2013-ls;textual}{evoarchdata}.
+Originally compiled by \insertCite{Slusarska2006-zc;textual}{evoarchdata}.
+Transcribed and recoded for phylogenetic analysis by
+\insertCite{Roe2013-ls;textual}{evoarchdata}.
 
 Coordinates were not included in the original dataset; those included are
 approximate, based on the nearest identifiable place name to each site.
 }
 \references{
-\itemize{
-\item \insertRef{Roe2013-ls}{evoarchdata}
-\item \insertRef{Slusarska2006-zc}{evoarchdata}
-}
+\insertAllCited{}
 }
 \keyword{datasets}
