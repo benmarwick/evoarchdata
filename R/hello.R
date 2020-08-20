@@ -163,6 +163,31 @@ NULL
 "lithics_acheulean_virtual"
 
 #-------------------------------------------------------------------------
+#' Late Palaeolithic Projectile Points from Northern Europe \insertCite{Riede2009-he}{evoarchdata}
+#'
+#' @description
+#' Data on the shape and size of lithic projectile points from the Late
+#'   Palaeolithic of Northern Europe.
+#'
+#' @format A data frame with 632 rows and 6 variables:
+#' \describe{
+#'   \item{number}{Unique identifier of the specimen.}
+#'   \item{length}{Measured length of the specimen in mm.}
+#'   \item{length_total}{Estimated total length of the point in mm, if it is broken. If not broken, equal to `length`.}
+#'   \item{width}{Width of the specimen in mm.}
+#'   \item{thickness}{Thickness of the specimen in mm.}
+#'   \item{type}{Typological classification according to literature or the museum creator.}
+#' }
+#'
+#' @references
+#'
+#' * \insertRef{Riede2009-he}{evoarchdata}
+#'
+#' @source <http://www.cecd.ucl.ac.uk/ceacb_files/datasets/Riede_SI.xls>
+"lithics_lpalaeolithic_neurope"
+
+
+#-------------------------------------------------------------------------
 #' Southeast Asian Warp Ikat Weaving \insertCite{Buckley2012-ye}{evoarchdata}
 #'
 #' @description

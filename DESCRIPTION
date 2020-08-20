@@ -19,3 +19,4 @@ Imports:
 RdMacros: Rdpack
 Suggests: 
     tidyverse,
+    readxl

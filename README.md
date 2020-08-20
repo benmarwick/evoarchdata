@@ -35,6 +35,7 @@ Here’s a summary of the datasets currently in this package:
 | kurgans\_catacomb                | data.frame | 703x56 | Kurgans of the Catacomb culture (Ślusarska 2006)                                                                                            |
 | lithics\_acheulean\_experimental | data.frame | 200x4  |                                                                                                                                             |
 | lithics\_acheulean\_virtual      | data.frame | 200x4  | Copying error in virtual Acheulean handaxes                                                                                                 |
+| lithics\_lpalaeolithic\_neurope  | data.frame | 632x6  | Late Palaeolithic Projectile Points from Northern Europe (Riede 2009)                                                                       |
 | textiles\_ikat\_seasia           | data.frame | 36x111 | Southeast Asian Warp Ikat Weaving (Buckley 2012)                                                                                            |
 
 Use
