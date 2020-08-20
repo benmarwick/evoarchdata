@@ -3,7 +3,7 @@
 \docType{data}
 \name{kurgans_catacomb}
 \alias{kurgans_catacomb}
-\title{Kurgans of the Catacomb culture \insertCite{Slusarska2006-zc;textual}{evoarchdata}}
+\title{Kurgans of the Catacomb culture \insertCite{Slusarska2006-zc}{evoarchdata}}
 \format{
 A data frame with 703 rows and 56 variables:
 \describe{
