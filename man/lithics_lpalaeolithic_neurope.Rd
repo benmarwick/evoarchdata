@@ -26,8 +26,6 @@ Data on the shape and size of lithic projectile points from the Late
 Palaeolithic of Northern Europe.
 }
 \references{
-\itemize{
-\item \insertRef{Riede2009-he}{evoarchdata}
-}
+\insertAllCited{}
 }
 \keyword{datasets}

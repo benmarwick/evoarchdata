@@ -3,13 +3,12 @@
 \docType{data}
 \name{armature_types_france}
 \alias{armature_types_france}
-\title{Counts of arrowheads from two sites in Neotlithic France (Crema et al. 2014; Saintot 1998)}
+\title{Arrowheads from Neolithic France \insertCite{Crema2014-jj,Saintot1998-de}{evoarchdata}}
 \format{
 A data frame with 9 rows and 20 variables:
 \describe{
 \item{Period}{chronologically distinct phases}
 \item{...}{the various armature types. See the PDF in data-raw/ for the paradigmatic classification scheme for the armatures data}
-...
 }
 }
 \source{
@@ -19,13 +18,27 @@ A data frame with 9 rows and 20 variables:
 armature_types_france
 }
 \description{
-Counts of armature types from the Clairvaux and Chalain sites (Pétrequin, 1986, 1989,1997; Pétrequin and Bailly, 2004) in the Jura region of southeast France. The dataset comprises a total of 280 arrowheads subdivided into nine chronologically distinct phases (I: 3700–3600 B C; II: 3450 BC; III: 3200 IV: 3100 BC; V: 3050–3010 BC; VI: 3010–2930 BC; VII: 2850–2750 BC; VIII: 2750–2600 BC; IX: 2600–1650 BC) defined by Saintot (1998).
+Counts of armature types from the Clairvaux and Chalain sites
+(Pétrequin, 1986, 1989, 1997; Pétrequin and Bailly, 2004) in the Jura region
+of southeast France. The dataset comprises a total of 280 arrowheads
+subdivided into nine chronologically distinct phases (see details).
 }
 \details{
-References:
-
-Crema, E.R., Edinborough, K., Kerig, T., Shennan, S.J., 2014. An Approximate Bayesian Computation approach for inferring patterns of cultural evolutionary change. Journal of Archaeological Science 50, 160–170. https://doi.org/10.1016/j.jas.2014.07.014
-
-Saintot, S. 1998 Les Armatures de Flèches en Silex de Chalain et de Clairvaux In Gallia préhistoire. Tome 40 (1998), pp. 204-241
+The phases, as defined by \insertCite{Saintot1998-de;textual}{evoarchdata},
+are dated as follows:
+\itemize{
+\item I: 3700–3600 BC
+\item II: 3450 BC
+\item III: 3200 BC
+\item IV: 3100 BC
+\item V: 3050–3010 BC
+\item VI: 3010–2930 BC
+\item VII: 2850–2750 BC
+\item VIII: 2750–2600 BC
+\item IX: 2600–1650 BC
+}
+}
+\references{
+\insertAllCited{}
 }
 \keyword{datasets}

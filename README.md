@@ -26,16 +26,16 @@ Here’s a summary of the datasets currently in this package:
     #> Loading package: evoarchdata
     knitr::kable(tbl_of_data)
 
-| Item                            | class      | dim    | Title                                                                                                                                       |
-|:--------------------------------|:-----------|:-------|:--------------------------------------------------------------------------------------------------------------------------------------------|
-| armature\_types\_france         | data.frame | 9x20   | Counts of arrowheads from two sites in Neotlithic France (Crema et al. 2014; Saintot 1998)                                                  |
-| ceramics\_hittite\_turkey       | data.frame | 18x7   | Counts of ceramic bowl types from Boğazköy-Hattusa, a Hittite site in Turkey (Steele et al. 2010; Brantingham and Perreault 2010)           |
-| ceramics\_lbk\_merzbach         | data.frame | 8x37   | Frequencies of different decorative motifs in the Merzbach assemblage, Neolithic Germany (Crema et al. 2016; many other papers)             |
-| ceramics\_woodland\_illinois    | data.frame | 160x15 | Stylistic element frequencies for lip exterior decoration for five regions in Illinois, by thickness class (Braun 1977; 1985; Neiman 1995). |
-| kurgans\_catacomb               | data.frame | 703x56 | Kurgans of the Catacomb culture (Ślusarska 2006)                                                                                            |
-| lithics\_acheulean\_virtual     | data.frame | 200x4  | Copying error in virtual Acheulean handaxes                                                                                                 |
-| lithics\_lpalaeolithic\_neurope | data.frame | 632x6  | Late Palaeolithic Projectile Points from Northern Europe (Riede 2009)                                                                       |
-| textiles\_ikat\_seasia          | data.frame | 36x111 | Southeast Asian Warp Ikat Weaving (Buckley 2012)                                                                                            |
+| Item                            | class      | dim    | Title                                                                                    |
+|:--------------------------------|:-----------|:-------|:-----------------------------------------------------------------------------------------|
+| armature\_types\_france         | data.frame | 9x20   | Arrowheads from Neolithic France (Crema et al. 2014; Saintot 1998)                       |
+| ceramics\_hittite\_turkey       | data.frame | 18x7   | Ceramic bowls from Boğazköy-Hattusa (Steele et al. 2010; Brantingham and Perreault 2010) |
+| ceramics\_lbk\_merzbach         | data.frame | 8x37   | Decorative motifs in the Merzbach assemblage, Neolithic Germany (Crema et al. 2016)      |
+| ceramics\_woodland\_illinois    | data.frame | 160x15 | Illinois Woodland Ceramics (Braun 1977, 1985; Neiman 1995)                               |
+| kurgans\_catacomb               | data.frame | 703x56 | Kurgans of the Catacomb culture (Ślusarska 2006)                                         |
+| lithics\_acheulean\_virtual     | data.frame | 200x4  | Copying error in virtual Acheulean handaxes (Kempe et al. 2012)                          |
+| lithics\_lpalaeolithic\_neurope | data.frame | 632x6  | Late Palaeolithic Projectile Points from Northern Europe (Riede 2009)                    |
+| textiles\_ikat\_seasia          | data.frame | 36x111 | Southeast Asian Warp Ikat Weaving (Buckley 2012)                                         |
 
 Use
 ===
@@ -86,49 +86,127 @@ license](https://creativecommons.org/licenses/), which permits
 unrestricted use, distribution, and reproduction in any medium, provided
 the original work is properly cited.
 
-References
-==========
-
-Brantingham, P. J., & Perreault, C. (2010). Detecting the effects of
-selection and stochastic forces in archaeological assemblages. *Journal
-of Archaeological Science*, 37(12), 3211-3225.
-<a href="https://doi.org/10.1016/j.jas.2010.07.021" class="uri">https://doi.org/10.1016/j.jas.2010.07.021</a>
-
-Braun, D. 1977. *Middle Woodland-Early Late Woodland Social Change in
-the Prehistoric Central Midwestern U.S.* Ph.D. dissertation, University
-of Michigan, University Microfilms, Ann Arbor.
-
-Braun, D. 1985. Ceramic decorative diversity and Illinois Woodland
-regional integration. In *Decoding Prehistoric Ceramics*, edited by Ben
-A. Nelson, pp.128-153. Southern Illinois University Press Carbondale.
-
-Crema, E.R., Edinborough, K., Kerig, T., Shennan, S.J., 2014. An
-Approximate Bayesian Computation approach for inferring patterns of
-cultural evolutionary change. *Journal of Archaeological Science* 50,
-160–170.
-<a href="https://doi.org/10.1016/j.jas.2014.07.014" class="uri">https://doi.org/10.1016/j.jas.2014.07.014</a>
-
-Crema, E.R, Kandler, A., Shennan, S.J. 2016. “Revealing patterns of
-cultural transmission from frequency data: equilibrium and
-non-equilibrium assumptions.” *Scientific Reports* 6, 39122;
-<a href="https://doi.org/10.1038/srep39122" class="uri">https://doi.org/10.1038/srep39122</a>
-
-Neiman, F.D., 1995. Stylistic Variation in Evolutionary Perspective:
-Inferences from Decorative Diversity and Interassemblage Distance in
-Illinois Woodland Ceramic Assemblages. *American Antiqity* 60, 7–36.
-<a href="https://doi.org/10.2307/282074" class="uri">https://doi.org/10.2307/282074</a>
-
-Saintot, S. 1998 Les Armatures de Flèches en Silex de Chalain et de
-Clairvaux In *Gallia préhistoire*. Tome 40 (1998), pp. 204-241
-
-Steele, J., Glatz, C., Kandler, A., 2010. Ceramic diversity, random
-copying, and tests for selectivity in ceramic production. *Journal of
-Archaeological Science* 37, 1348–1358.
-<a href="https://doi.org/10.1016/j.jas.2009.12.039" class="uri">https://doi.org/10.1016/j.jas.2009.12.039</a>
-
 Contributing
 ============
 
 Please note that this project is released with a [Contributor Code of
 Conduct](CODE_OF_CONDUCT.md). By participating in this project you agree
 to abide by its terms.
+
+Bibliography
+============
+
+<div id="refs" class="references hanging-indent">
+
+<div id="ref-Brantingham2010-yd">
+
+Brantingham, P Jeffrey, and Charles Perreault. 2010. “Detecting the
+Effects of Selection and Stochastic Forces in Archaeological
+Assemblages.” *Journal of Archaeological Science* 37 (12): 3211–25.
+<https://doi.org/10.1016/j.jas.2010.07.021>.
+
+</div>
+
+<div id="ref-Braun1977-hy">
+
+Braun, David P. 1977. “Middle Woodland—(Early) Late Woodland Social
+Change in the Prehistoric Central Midwestern US.” PhD thesis, University
+of Michigan.
+
+</div>
+
+<div id="ref-Braun1985-wv">
+
+———. 1985. “Ceramic Decorative Diversity and Illinois Woodland Regional
+Integration.” In *Decoding Prehistoric Ceramics*, edited by Ben A
+Nelson, 128–53. Carbondale, IL: Southern Illinois University Press.
+
+</div>
+
+<div id="ref-Buckley2012-ye">
+
+Buckley, Christopher D. 2012. “Investigating Cultural Evolution Using
+Phylogenetic Analysis: The Origins and Descent of the Southeast Asian
+Tradition of Warp Ikat Weaving.” *PLoS ONE* 7 (12): e52064.
+<https://doi.org/10.1371/journal.pone.0052064>.
+
+</div>
+
+<div id="ref-Crema2016-cv">
+
+Crema, Enrico R, Anne Kandler, and Stephen Shennan. 2016. “Revealing
+Patterns of Cultural Transmission from Frequency Data: Equilibrium and
+Non-Equilibrium Assumptions.” *Scientific Reports* 6 (December): 39122.
+<https://doi.org/10.1038/srep39122>.
+
+</div>
+
+<div id="ref-Crema2014-jj">
+
+Crema, E R, K Edinborough, T Kerig, and S J Shennan. 2014. “An
+Approximate Bayesian Computation Approach for Inferring Patterns of
+Cultural Evolutionary Change.” *Journal of Archaeological Science* 50
+(October): 160–70. <https://doi.org/10.1016/j.jas.2014.07.014>.
+
+</div>
+
+<div id="ref-Kempe2012-ns">
+
+Kempe, Marius, Stephen Lycett, and Alex Mesoudi. 2012. “An Experimental
+Test of the Accumulated Copying Error Model of Cultural Mutation for
+Acheulean Handaxe Size.” Edited by Carles Lalueza-Fox. *PloS ONE* 7
+(11): e48333. <https://doi.org/10.1371/journal.pone.0048333>.
+
+</div>
+
+<div id="ref-Neiman1995-ar">
+
+Neiman, Fraser D. 1995. “Stylistic Variation in Evolutionary
+Perspective: Inferences from Decorative Diversity and Interassemblage
+Distance in Illinois Woodland Ceramic Assemblages.” *American Antiquity*
+60 (1): 7–36. <https://doi.org/10.2307/282074>.
+
+</div>
+
+<div id="ref-Riede2009-he">
+
+Riede, Felix. 2009. “The Loss and Re-Introduction of Bow-and-Arrow
+Technology: A Case Study from the Northern European Late Paleolithic.”
+*Lithic Technology* 34 (1): 27–45.
+<https://doi.org/10.1080/01977261.2009.11721072>.
+
+</div>
+
+<div id="ref-Roe2013-ls">
+
+Roe, Joe. 2013. “Cultural Phylogeny of Kurgan Burial Mounds in the West
+Eurasian Steppe.” Master’s thesis, University College London.
+
+</div>
+
+<div id="ref-Saintot1998-de">
+
+Saintot, Sylvie. 1998. “III. Les Armatures de Flèches En Silex de
+Chalain et de Clairvaux.” *Gallia Préhistoire* 40 (1): 204–41.
+
+</div>
+
+<div id="ref-Slusarska2006-zc">
+
+Ślusarska, Katarzyna. 2006. *Funeral Rites of the Catacomb Community:
+2800–1900 BC: Ritual, Thanatology and Geographical Origins*. Adam
+Mickiewicz University. Institute of Eastern Studies. Institute of
+Prehistory.
+
+</div>
+
+<div id="ref-Steele2010-bq">
+
+Steele, James, Claudia Glatz, and Anne Kandler. 2010. “Ceramic
+Diversity, Random Copying, and Tests for Selectivity in Ceramic
+Production.” *Journal of Archaeological Science* 37 (6): 1348–58.
+<https://doi.org/10.1016/j.jas.2009.12.039>.
+
+</div>
+
+</div>

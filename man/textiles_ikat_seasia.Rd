@@ -29,8 +29,6 @@ in \insertCite{Buckley2012-ye;textual}{evoarchdata} for an explanation of
 the coding system used.
 }
 \references{
-\itemize{
-\item \insertRef{Buckley2012-ye}{evoarchdata}
-}
+\insertAllCited{}
 }
 \keyword{datasets}
