@@ -95,7 +95,7 @@ NULL
 "ceramics_lbk_merzbach"
 
 #-------------------------------------------------------------------------
-#' Kurgans of the Catacomb culture \insertCite{Slusarska2006-zc;textual}{evoarchdata}
+#' Kurgans of the Catacomb culture \insertCite{Slusarska2006-zc}{evoarchdata}
 #'
 #' @description
 #' Data on the construction, interment style, and grave goods of 703 mound
@@ -159,5 +159,32 @@ NULL
 #'
 #' * \insertRef{Kempe2012-ns}{evoarchdata}
 #'
-#' @source \url{https://doi.org/10.1371/journal.pone.0048333.s002}
+#' @source <https://doi.org/10.1371/journal.pone.0048333.s002>
 "lithics_acheulean_virtual"
+
+#-------------------------------------------------------------------------
+#' Southeast Asian Warp Ikat Weaving \insertCite{Buckley2012-ye}{evoarchdata}
+#'
+#' @description
+#' Data on decorative motifs used in warp ikat weaving, a method of textile
+#'   manufactured widely used in Southeast Asia. Includes 36 weaving traditions,
+#'   which according to Buckley "correspond to broadly recognized cultural
+#'   groups with distinct languages or dialects".
+#'
+#' @format A data frame with 36 rows and 111 variables:
+#' \describe{
+#'   \item{tradition}{Name of the weaving tradition.}
+#'   \item{...}{`logical`. Presence/absence of coded characters. See details for the coding system.}
+#' }
+#'
+#' @details
+#' See the supplementary information (`Motif_S1.pdf` and `TaxaChars_S1.pdf`)
+#'   in \insertCite{Buckley2012-ye;textual}{evoarchdata} for an explanation of
+#'   the coding system used.
+#'
+#' @references
+#'
+#' * \insertRef{Buckley2012-ye}{evoarchdata}
+#'
+#' @source <https://figshare.com/articles/dataset/Investigating_Cultural_Evolution_Using_Phylogenetic_Analysis_The_Origins_and_Descent_of_the_Southeast_Asian_Tradition_of_Warp_Ikat_Weaving__/115810>
+"textiles_ikat_seasia"

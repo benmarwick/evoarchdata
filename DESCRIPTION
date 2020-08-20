@@ -17,3 +17,5 @@ Roxygen: list(markdown = TRUE)
 Imports: 
     Rdpack
 RdMacros: Rdpack
+Suggests: 
+    tidyverse,
