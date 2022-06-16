@@ -2,37 +2,44 @@
 NULL
 
 #-------------------------------------------------------------------------
-#' Counts of arrowheads from two sites in Neotlithic France (Crema et al. 2014; Saintot 1998)
+#' Arrowheads from Neolithic France \insertCite{Crema2014-jj,Saintot1998-de}{evoarchdata}
 #'
-#' Counts of armature types from the Clairvaux and Chalain sites (Pétrequin, 1986, 1989,1997; Pétrequin and Bailly, 2004) in the Jura region of southeast France. The dataset comprises a total of 280 arrowheads subdivided into nine chronologically distinct phases (I: 3700–3600 B C; II: 3450 BC; III: 3200 IV: 3100 BC; V: 3050–3010 BC; VI: 3010–2930 BC; VII: 2850–2750 BC; VIII: 2750–2600 BC; IX: 2600–1650 BC) defined by Saintot (1998).
-#'
-#' References:
-#'
-#' Crema, E.R., Edinborough, K., Kerig, T., Shennan, S.J., 2014. An Approximate Bayesian Computation approach for inferring patterns of cultural evolutionary change. Journal of Archaeological Science 50, 160–170. https://doi.org/10.1016/j.jas.2014.07.014
-#'
-#' Saintot, S. 1998 Les Armatures de Flèches en Silex de Chalain et de Clairvaux In Gallia préhistoire. Tome 40 (1998), pp. 204-241
+#' Counts of armature types from the Clairvaux and Chalain sites
+#'   (Pétrequin, 1986, 1989, 1997; Pétrequin and Bailly, 2004) in the Jura region
+#'   of southeast France. The dataset comprises a total of 280 arrowheads
+#'   subdivided into nine chronologically distinct phases (see details).
 #'
 #' @format A data frame with 9 rows and 20 variables:
 #' \describe{
 #'   \item{Period}{chronologically distinct phases}
 #'   \item{...}{the various armature types. See the PDF in data-raw/ for the paradigmatic classification scheme for the armatures data}
-#'   ...
 #' }
+#'
+#' @details
+#' The phases, as defined by \insertCite{Saintot1998-de;textual}{evoarchdata},
+#' are dated as follows:
+#'
+#' * I: 3700–3600 BC
+#' * II: 3450 BC
+#' * III: 3200 BC
+#' * IV: 3100 BC
+#' * V: 3050–3010 BC
+#' * VI: 3010–2930 BC
+#' * VII: 2850–2750 BC
+#' * VIII: 2750–2600 BC
+#' * IX: 2600–1650 BC
+#'
 #' @source <https://doi.org/10.1016/j.jas.2014.07.014>
+#'
+#' @references \insertAllCited{}
 "armature_types_france"
 
 #-------------------------------------------------------------------------
-#' Counts of ceramic bowl types from Boğazköy-Hattusa, a Hittite site in Turkey (Steele et al. 2010; Brantingham and Perreault 2010)
+#' Ceramic bowls from Boğazköy-Hattusa \insertCite{Steele2010-bq,Brantingham2010-yd}{evoarchdata}
 #'
-#'Frequencies of rim sherds of the main bowl groups in each of the four wares, by phase, from  Boğazköy-Hattusa, a Hittite site in Turke
+#' Frequencies of rim sherds of the main bowl groups in each of the four wares,
+#' by phase, from  Boğazköy-Hattusa, a Hittite site in Turkey.
 #'
-#' Data from Table 1 of
-#'
-#' Steele, J., Glatz, C., Kandler, A., 2010. Ceramic diversity, random copying, and tests for selectivity in ceramic production. Journal of Archaeological Science 37, 1348–1358. https://doi.org/10.1016/j.jas.2009.12.039
-#'
-#' Also Table 2 of
-#'
-#' Brantingham, P. J., & Perreault, C. (2010). Detecting the effects of selection and stochastic forces in archaeological assemblages. Journal of Archaeological Science, 37(12), 3211-3225.
 #'
 #' @format A data frame with 18 rows and 7 variables:
 #' \describe{
@@ -41,21 +48,23 @@ NULL
 #'   \item{Ware A, etc.}{Ceramic fabric types}
 #'   ...
 #' }
+#'
+#' @details
+#' Data from Table 1 of \insertCite{Steele2010-bq;textual}{evoarchdata} and
+#' Table 2 of \insertCite{Brantingham2010-yd;textual}{evoarchdata}.
+#'
 #' @source <https://doi.org/10.1016/j.jas.2009.12.039>
+#'
+#' @references \insertAllCited{}
 "ceramics_hittite_turkey"
 
 #-------------------------------------------------------------------------
-#' Stylistic element frequencies for lip exterior decoration for five regions in Illinois, by thickness class (Braun 1977; 1985; Neiman 1995).
+#' Illinois Woodland Ceramics \insertCite{Braun1977-hy,Braun1985-wv,Neiman1995-ar}{evoarchdata}
 #'
-#' Pottery data from the Middle Woodland-Early Late Woodland periods in  Central Midwestern U.S. (Illinois)
+#' Data on ceramics from the Middle Woodland-Early Late Woodland periods in
+#' the Central Midwest (Illinois). Includes stylistic element frequencies for
+#' lip exterior decoration for five regions, by thickness class \insertCite{Braun1977-hy,Braun1985-wv,Neiman1995-ar}{evoarchdata}.
 #'
-#' References:
-#'
-#'Braun, David  1977 Middle Woodland-Early Late Woodland Social Change in the Prehistoric Central Midwestern U.S. Ph.D. dissertation, University of Michigan, University Microfilms, Ann Arbor.
-#'
-#' 1985 Ceramic decorative diversity and Illinois Woodland regional integration. In Decoding Prehistoric Ceramics, edited by Ben A. Nelson, pp.128-153. Southern Illinois University Press Carbondale.
-#'
-#' Neiman, F.D., 1995. Stylistic Variation in Evolutionary Perspective: Inferences from Decorative Diversity and Interassemblage Distance in Illinois Woodland Ceramic Assemblages. _American Antiqity_ 60, 7–36. https://doi.org/10.2307/282074
 #'
 #' @format A data frame with 106 rows and 15 variables:
 #' \describe{
@@ -65,25 +74,17 @@ NULL
 #'   \item{mm02_3, etc.}{Total}
 #'   ...
 #' }
+#'
 #' @source <http://www.people.virginia.edu/~fn9r/anth588/WoodlandIllinoisData.html>
+#'
+#' @references \insertAllCited{}
 "ceramics_woodland_illinois"
 
-
 #-------------------------------------------------------------------------
-#' Frequencies of different decorative motifs in the Merzbach assemblage, Neolithic Germany (Crema et al. 2016; many other papers)
+#' Decorative motifs in the Merzbach assemblage, Neolithic Germany \insertCite{Crema2016-cv}{evoarchdata}
 #'
-#'
-#'   Thirty-six types of pottery motifs, grouped into 8 phases on the basis of a seriation of the pottery assemblages based on motif frequencies.
-#'
-#'   These data have been used in numerous publications. I only mention Crema et al. (2016) here because they are the only ones that make the raw data available.
-#'
-#'   From Crema et al. (2016):
-#'
-#' "Over 5800 pottery vessels recovered from a small group of settlements of the first farmers in Central Europe in the valley of the Merzbach stream in western Germany. The settlements belong to the so-called Linearbandkeramik culture. The number of houses in occupation varied through time, but altogether the settlement and ceramic sequence covers nearly five centuries, from ca. 5300 to 4850 cal B.C. The sites were almost completely excavated prior to their destruction by lignite mining, so the archaeological record of what has survived is largely complete. The ceramic vessels take the form of deep bowls whose decoration is highly distinctive and stylised, comprising a variety of distinct but clearly related band-types that were defined by the original excavation team.
-#'
-#' References:
-#'
-#' Crema, E.R, Kandler, A., Shennan, S.J. "Revealing patterns of cultural transmission from frequency data: equilibrium and non-equilibrium assumptions." Sci. Rep. 6, 39122; doi: 10.1038/srep39122 (2016).
+#' Frequencies of 36 types of pottery motif, grouped into 8 phases on the basis
+#' of a seriation of the pottery assemblages based on motif frequencies.
 #'
 #' @format A data frame with 8 rows and 37 variables:
 #' \describe{
@@ -91,11 +92,34 @@ NULL
 #'   \item{BT14, etc}{Counts of a motif}
 #'   ...
 #' }
+#'
+#' @details
+#' These data have been used in numerous publications. I only mention
+#' \insertCite{Crema2016-cv;textual}{evoarchdata} here because they are the only
+#' ones that make the raw data available.
+#'
+#' From \insertCite{Crema2016-cv;textual}{evoarchdata}:
+#'
+#' Over 5800 pottery vessels recovered from a small group of settlements of
+#' the first farmers in Central Europe in the valley of the Merzbach stream in
+#' western Germany. The settlements belong to the so-called Linearbandkeramik
+#' culture. The number of houses in occupation varied through time, but
+#' altogether the settlement and ceramic sequence covers nearly five centuries,
+#' from ca. 5300 to 4850 cal B.C. The sites were almost completely excavated
+#' prior to their destruction by lignite mining, so the archaeological record
+#' of what has survived is largely complete. The ceramic vessels take the form
+#' of deep bowls whose decoration is highly distinctive and stylised,
+#' comprising a variety of distinct but clearly related band-types that were
+#' defined by the original excavation team.
+#'
+#'
 #' @source <https://doi.org/10.1038/srep39122>
+#'
+#' @references \insertAllCited{}
 "ceramics_lbk_merzbach"
 
 #-------------------------------------------------------------------------
-#' Kurgans of the Catacomb culture \insertCite{Slusarska2006-zc;textual}{evoarchdata}
+#' Kurgans of the Catacomb culture \insertCite{Slusarska2006-zc}{evoarchdata}
 #'
 #' @description
 #' Data on the construction, interment style, and grave goods of 703 mound
@@ -124,22 +148,20 @@ NULL
 #' }
 #'
 #' @details
-#' Originally compiled by \insertCite{Slusarska2006-zc;textual}{evoarchdata}. Transcribed and recoded for
-#'   phylogenetic analysis by \insertCite{Roe2013-ls;textual}{evoarchdata}.
+#' Originally compiled by \insertCite{Slusarska2006-zc;textual}{evoarchdata}.
+#' Transcribed and recoded for phylogenetic analysis by
+#' \insertCite{Roe2013-ls;textual}{evoarchdata}.
 #'
 #' Coordinates were not included in the original dataset; those included are
 #'   approximate, based on the nearest identifiable place name to each site.
 #'
-#' @references
-#'
-#' * \insertRef{Roe2013-ls}{evoarchdata}
-#' * \insertRef{Slusarska2006-zc}{evoarchdata}
-#'
 #' @source \insertCite{Roe2013-ls;textual}{evoarchdata}
+#'
+#' @references \insertAllCited{}
 "kurgans_catacomb"
 
 #-------------------------------------------------------------------------
-#' Copying error in virtual Acheulean handaxes
+#' Copying error in virtual Acheulean handaxes \insertCite{Kempe2012-ns}{evoarchdata}
 #'
 #' @description
 #' Experimental data on unintential copying error in cultural transmission. In
@@ -155,9 +177,55 @@ NULL
 #'   \item{condition}{Whether the handaxe is larger or smaller than the previous handaxe in the chain.}
 #' }
 #'
-#' @references
+#' @source <https://doi.org/10.1371/journal.pone.0048333.s002>
 #'
-#' * \insertRef{Kempe2012-ns}{evoarchdata}
-#'
-#' @source \url{https://doi.org/10.1371/journal.pone.0048333.s002}
+#' @references \insertAllCited{}
 "lithics_acheulean_virtual"
+
+#-------------------------------------------------------------------------
+#' Late Palaeolithic Projectile Points from Northern Europe \insertCite{Riede2009-he}{evoarchdata}
+#'
+#' @description
+#' Data on the shape and size of lithic projectile points from the Late
+#'   Palaeolithic of Northern Europe.
+#'
+#' @format A data frame with 632 rows and 6 variables:
+#' \describe{
+#'   \item{number}{Unique identifier of the specimen.}
+#'   \item{length}{Measured length of the specimen in mm.}
+#'   \item{length_total}{Estimated total length of the point in mm, if it is broken. If not broken, equal to `length`.}
+#'   \item{width}{Width of the specimen in mm.}
+#'   \item{thickness}{Thickness of the specimen in mm.}
+#'   \item{type}{Typological classification according to literature or the museum creator.}
+#' }
+#'
+#' @source <http://www.cecd.ucl.ac.uk/ceacb_files/datasets/Riede_SI.xls>
+#'
+#' @references \insertAllCited{}
+"lithics_lpalaeolithic_neurope"
+
+
+#-------------------------------------------------------------------------
+#' Southeast Asian Warp Ikat Weaving \insertCite{Buckley2012-ye}{evoarchdata}
+#'
+#' @description
+#' Data on decorative motifs used in warp ikat weaving, a method of textile
+#'   manufactured widely used in Southeast Asia. Includes 36 weaving traditions,
+#'   which according to Buckley "correspond to broadly recognized cultural
+#'   groups with distinct languages or dialects".
+#'
+#' @format A data frame with 36 rows and 111 variables:
+#' \describe{
+#'   \item{tradition}{Name of the weaving tradition.}
+#'   \item{...}{`logical`. Presence/absence of coded characters. See details for the coding system.}
+#' }
+#'
+#' @details
+#' See the supplementary information (`Motif_S1.pdf` and `TaxaChars_S1.pdf`)
+#'   in \insertCite{Buckley2012-ye;textual}{evoarchdata} for an explanation of
+#'   the coding system used.
+#'
+#' @source <https://figshare.com/articles/dataset/Investigating_Cultural_Evolution_Using_Phylogenetic_Analysis_The_Origins_and_Descent_of_the_Southeast_Asian_Tradition_of_Warp_Ikat_Weaving__/115810>
+#'
+#' @references \insertAllCited{}
+"textiles_ikat_seasia"

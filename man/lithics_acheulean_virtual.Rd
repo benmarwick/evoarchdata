@@ -3,7 +3,7 @@
 \docType{data}
 \name{lithics_acheulean_virtual}
 \alias{lithics_acheulean_virtual}
-\title{Copying error in virtual Acheulean handaxes}
+\title{Copying error in virtual Acheulean handaxes \insertCite{Kempe2012-ns}{evoarchdata}}
 \format{
 A data frame with 200 rows and 4 variables:
 \describe{
@@ -26,8 +26,6 @@ were split into 20 transmission chains and asked to copy the size of a
 virtual Acheulean handaxe.
 }
 \references{
-\itemize{
-\item \insertRef{Kempe2012-ns}{evoarchdata}
-}
+\insertAllCited{}
 }
 \keyword{datasets}

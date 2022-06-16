@@ -3,7 +3,7 @@
 \docType{data}
 \name{ceramics_hittite_turkey}
 \alias{ceramics_hittite_turkey}
-\title{Counts of ceramic bowl types from Boğazköy-Hattusa, a Hittite site in Turkey (Steele et al. 2010; Brantingham and Perreault 2010)}
+\title{Ceramic bowls from Boğazköy-Hattusa \insertCite{Steele2010-bq,Brantingham2010-yd}{evoarchdata}}
 \format{
 A data frame with 18 rows and 7 variables:
 \describe{
@@ -20,15 +20,14 @@ A data frame with 18 rows and 7 variables:
 ceramics_hittite_turkey
 }
 \description{
-Frequencies of rim sherds of the main bowl groups in each of the four wares, by phase, from  Boğazköy-Hattusa, a Hittite site in Turke
+Frequencies of rim sherds of the main bowl groups in each of the four wares,
+by phase, from  Boğazköy-Hattusa, a Hittite site in Turkey.
 }
 \details{
-Data from Table 1 of
-
-Steele, J., Glatz, C., Kandler, A., 2010. Ceramic diversity, random copying, and tests for selectivity in ceramic production. Journal of Archaeological Science 37, 1348–1358. https://doi.org/10.1016/j.jas.2009.12.039
-
-Also Table 2 of
-
-Brantingham, P. J., & Perreault, C. (2010). Detecting the effects of selection and stochastic forces in archaeological assemblages. Journal of Archaeological Science, 37(12), 3211-3225.
+Data from Table 1 of \insertCite{Steele2010-bq;textual}{evoarchdata} and
+Table 2 of \insertCite{Brantingham2010-yd;textual}{evoarchdata}.
+}
+\references{
+\insertAllCited{}
 }
 \keyword{datasets}

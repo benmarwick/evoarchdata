@@ -1,5 +1,7 @@
 ---
 output: github_document
+bibliography: inst/REFERENCES.bib
+nocite: '@*'
 ---
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
@@ -50,26 +52,9 @@ If you use any of these datasets, you must cite the original publication, listed
 
 The datasets are made available here for fair use in teaching and research. All datasets are copyright of the original author or publisher, except `ceramics_lbk_merzbach` which is distributed by Crema et al (2016) under the terms of the [Creative Commons CC BY license](https://creativecommons.org/licenses/), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited. 
 
-# References
-
-Brantingham, P. J., & Perreault, C. (2010). Detecting the effects of selection and stochastic forces in archaeological assemblages. _Journal of Archaeological Science_, 37(12), 3211-3225. https://doi.org/10.1016/j.jas.2010.07.021
-
-Braun, D. 1977. _Middle Woodland-Early Late Woodland Social Change in the Prehistoric Central Midwestern U.S._ Ph.D. dissertation, University of Michigan, University Microfilms, Ann Arbor.
-
-Braun, D. 1985. Ceramic decorative diversity and Illinois Woodland regional integration. In _Decoding Prehistoric Ceramics_, edited by Ben A. Nelson, pp.128-153. Southern Illinois University Press Carbondale.
-
-Crema, E.R., Edinborough, K., Kerig, T., Shennan, S.J., 2014. An Approximate Bayesian Computation approach for inferring patterns of cultural evolutionary change. _Journal of Archaeological Science_ 50, 160–170. https://doi.org/10.1016/j.jas.2014.07.014
-
-Crema, E.R, Kandler, A., Shennan, S.J. 2016. "Revealing patterns of cultural transmission from frequency data: equilibrium and non-equilibrium assumptions." _Scientific Reports_ 6, 39122; https://doi.org/10.1038/srep39122 
-
-Neiman, F.D., 1995. Stylistic Variation in Evolutionary Perspective: Inferences from Decorative Diversity and Interassemblage Distance in Illinois Woodland Ceramic Assemblages. _American Antiqity_ 60, 7–36. https://doi.org/10.2307/282074
-
-Saintot, S. 1998 Les Armatures de Flèches en Silex de Chalain et de Clairvaux In _Gallia préhistoire_. Tome 40 (1998), pp. 204-241
-
-Steele, J., Glatz, C., Kandler, A., 2010. Ceramic diversity, random copying, and tests for selectivity in ceramic production. _Journal of Archaeological Science_ 37, 1348–1358. https://doi.org/10.1016/j.jas.2009.12.039
-
 # Contributing
 
 Please note that this project is released with a [Contributor Code of Conduct](CODE_OF_CONDUCT.md).
 By participating in this project you agree to abide by its terms.
 
+# Bibliography
